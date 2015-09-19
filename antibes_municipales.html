@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Antibes - Bureaux de vote</title>
+    <meta name="viewport" content="initial-scale=1.0">
+    <meta charset="utf-8">
+    <!-- Icon -->
+    <!-- for FF, Chrome, Opera -->
+    <link rel="icon" type="image/png" href="favicon.ico" sizes="16x16">
+    <link rel="icon" type="image/png" href="favicon.ico" sizes="32x32">
+    <!-- for IE -->
+    <link rel="icon" type="image/x-icon" href="favicon.ico" >
+    <link rel="shortcut icon" type="image/x-icon" href="favicon.ico"/>
+    
+    <!-- CSS -->
+    <link rel="stylesheet" type="text/css" href="map.css">
+    
+    <!-- javascript -->
+    <script src="chroma.min.js"></script>
+    <script src="jquery-2.1.4.min.js"></script>
+    <script type="text/javascript" src="https://www.google.com/jsapi"></script>
+    <script type="text/javascript" src="map_utils.js" ></script>
+    <script type="text/javascript" src="map.js" ></script>
+    <script type="text/javascript">
+        google.load('visualization', '1', {'packages':['corechart']});
+    </script>
+  </head>
+  <body>
+    <div id="map"></div>
+    <div id="info-box"></div>
+    <div id="election-buttons">
+        <button type="button" id="mun2014"          class="elecButton" onclick="setMunicipales2014(this)"       ><p>municipales</p><p>2014</p></button>
+        <button type="button" id="evoMun15Dep15"    class="elecButton" onclick="setEvoMun14Dep15(this)"         ><img class="trend" src="android-trending-up-512px.svg" ></button>        
+        <button type="button" id="dep2015"          class="elecButton" onclick="setDepartementales2015(this)"   ><p>departementales</p><p>2015</p></button>
+    </div>
+    <div id="sliderColorScale" class="sliderColorScale">
+        <p> Echelle de couleur : </p>
+        <input id="slider" type="range" min="1" max="100" value="25" onchange="colorWithNewScale(this.value)" />
+        <input id="sliderValue" type="text" value="25" onkeyup="colorWithNewScale(this.value)" />
+    </div>
+    
+    
+    <script async defer
+        src="https://maps.googleapis.com/maps/api/js?signed_in=true&libraries=drawing&callback=initMap">
+    </script>
+    
+  </body>
+</html>
+
+

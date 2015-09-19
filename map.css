@@ -1,0 +1,114 @@
+html, body 
+{
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+#map 
+{
+    height: 100%;
+}
+
+#info-box 
+{
+    color: #fff;
+    background-color: #cccccc;
+    border: 1px solid black;
+    bottom: 30px;
+    position: absolute;
+    left: 30px;
+    padding-right:10px;
+    width: auto;
+}
+
+.sliderColorScale
+{
+    color: #fff;
+    background-color: #6496c8;
+    text-shadow: -1px 1px #417cb8;
+    padding: 2px 10px 2px 10px;
+    bottom: 30px;
+    position: absolute;
+    right: 50px;
+    vertical-align: top;
+}
+
+.sliderColorScaleDisabled
+{
+    color: #fff;
+    background-color: gray;
+    text-shadow: -1px 1px #417cb8;
+    padding: 2px 10px 2px 10px;
+    bottom: 30px;
+    position: absolute;
+    right: 50px;
+    vertical-align: top;
+}
+
+#slider
+{
+    vertical-align: middle;
+}
+
+#sliderValue
+{
+    width: 25px;
+    vertical-align: middle;
+}
+
+#election-buttons
+{
+    top: 10px;
+    position: absolute;
+    right: 50px;
+}
+
+.elecButton 
+{
+    color: #fff;
+    background-color: #6496c8;
+    text-shadow: -1px 1px #417cb8;
+    border: none;
+    height: 50px;
+    vertical-align: top;
+}
+
+.elecButton:hover {
+    background-color: #346392;
+    text-shadow: -1px 1px #27496d;
+}
+
+.elecButtonClicked {
+    color: #fff;
+    background-color: #346392;
+    text-shadow: -1px 1px #417cb8;
+    border: none;
+}
+
+.trend 
+{
+    width: 50px;
+    vertical-align: top;
+}
+
+
+p 
+{ 
+    margin-top: 0em;
+    margin-bottom: 0em;
+}
+
+.inforesult     { width: 500px; }
+.inforesultEvo  { width: 200px; }
+.tete           { display: inline-block; width: 200px; padding: 2px 10px 2px 10px;}
+.label          { display: inline-block; width:  50px; padding: 2px 10px 2px 10px;}
+.score          { display: inline-block; width: 100px; padding: 2px 10px 2px 10px; font-family: Consolas, monaco, monospace; text-align: right}
+// .liste       { display: inline-block; width: 200px; padding: 0 25px 0 25px;}
+
+.FDG    { color:red;        font-weight: bold;}
+.PS     { color:HotPink ;   font-weight: bold;}
+.UMP    { color:Blue;       font-weight: bold;}
+.FN     { color:Brown;      font-weight: bold;}
+.SE     { color:Gray;       font-weight: bold;}
+.DVD    { color:RoyalBlue;  font-weight: bold;}

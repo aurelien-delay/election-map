@@ -1,0 +1,3044 @@
+{  
+    "election":"municipales",
+    "annee":"2014",
+    "bureaux":[  
+        {  
+            "bv_id":201,
+            "old_bv_id":101,
+            "inscrits":503,
+            "abstentions":263,
+            "ratio_abs_ins":52.29,
+            "votants":240,
+            "ratio_vot_ins":47.71,
+            "blancs":10,
+            "ratio_blanc_ins":1.99,
+            "ratio_blanc_vot":4.17,
+            "exprimes":230,
+            "ratio_exp_ins":45.73,
+            "ratio_exp_vot":95.83,
+            "resultats":[  
+                {  
+                    "tete":"Gérard PIEL",
+                    "label":"FDG",
+                    "liste":"LA GAUCHE ET L'ECOLOGIE POUR ANTIBES JUAN LES PINS",
+                    "nb_voix":23,
+                    "ratio_inscrits":4.57,
+                    "ratio_exprimes":10
+                },
+                {  
+                    "tete":"Michèle MURATORE",
+                    "label":"PS",
+                    "liste":"LA GAUCHE UNIE SOLIDAIRE ET ECOLOGIQUE",
+                    "nb_voix":17,
+                    "ratio_inscrits":3.38,
+                    "ratio_exprimes":7.39
+                },
+                {  
+                    "tete":"Jean LEONETTI",
+                    "label":"UMP",
+                    "liste":"ENSEMBLE POUR ANTIBES JUAN LES PINS",
+                    "nb_voix":130,
+                    "ratio_inscrits":25.84,
+                    "ratio_exprimes":56.52
+                },
+                {  
+                    "tete":"Lionel TIVOLI",
+                    "label":"FN",
+                    "liste":"RASSEMBLEMENT BLEU MARINE POUR ANTIBES",
+                    "nb_voix":60,
+                    "ratio_inscrits":11.93,
+                    "ratio_exprimes":26.09
+                }
+            ]
+        },
+        {  
+            "bv_id":312,
+            "old_bv_id":102,
+            "inscrits":488,
+            "abstentions":206,
+            "ratio_abs_ins":42.21,
+            "votants":282,
+            "ratio_vot_ins":57.79,
+            "blancs":5,
+            "ratio_blanc_ins":1.02,
+            "ratio_blanc_vot":1.77,
+            "exprimes":277,
+            "ratio_exp_ins":56.76,
+            "ratio_exp_vot":98.23,
+            "resultats":[  
+                {  
+                    "tete":"Gérard PIEL",
+                    "label":"FDG",
+                    "liste":"LA GAUCHE ET L'ECOLOGIE POUR ANTIBES JUAN LES PINS",
+                    "nb_voix":35,
+                    "ratio_inscrits":7.17,
+                    "ratio_exprimes":12.64
+                },
+                {  
+                    "tete":"Michèle MURATORE",
+                    "label":"PS",
+                    "liste":"LA GAUCHE UNIE SOLIDAIRE ET ECOLOGIQUE",
+                    "nb_voix":28,
+                    "ratio_inscrits":5.74,
+                    "ratio_exprimes":10.11
+                },
+                {  
+                    "tete":"Jean LEONETTI",
+                    "label":"UMP",
+                    "liste":"ENSEMBLE POUR ANTIBES JUAN LES PINS",
+                    "nb_voix":149,
+                    "ratio_inscrits":30.53,
+                    "ratio_exprimes":53.79
+                },
+                {  
+                    "tete":"Lionel TIVOLI",
+                    "label":"FN",
+                    "liste":"RASSEMBLEMENT BLEU MARINE POUR ANTIBES",
+                    "nb_voix":65,
+                    "ratio_inscrits":13.32,
+                    "ratio_exprimes":23.47
+                }
+            ]
+        },
+        {  
+            "bv_id":null,
+            "old_bv_id":103,
+            "inscrits":611,
+            "abstentions":271,
+            "ratio_abs_ins":44.35,
+            "votants":340,
+            "ratio_vot_ins":55.65,
+            "blancs":10,
+            "ratio_blanc_ins":1.64,
+            "ratio_blanc_vot":2.94,
+            "exprimes":330,
+            "ratio_exp_ins":54.01,
+            "ratio_exp_vot":97.06,
+            "resultats":[  
+                {  
+                    "tete":"Gérard PIEL",
+                    "label":"FDG",
+                    "liste":"LA GAUCHE ET L'ECOLOGIE POUR ANTIBES JUAN LES PINS",
+                    "nb_voix":34,
+                    "ratio_inscrits":5.56,
+                    "ratio_exprimes":10.3
+                },
+                {  
+                    "tete":"Michèle MURATORE",
+                    "label":"PS",
+                    "liste":"LA GAUCHE UNIE SOLIDAIRE ET ECOLOGIQUE",
+                    "nb_voix":46,
+                    "ratio_inscrits":7.53,
+                    "ratio_exprimes":13.94
+                },
+                {  
+                    "tete":"Jean LEONETTI",
+                    "label":"UMP",
+                    "liste":"ENSEMBLE POUR ANTIBES JUAN LES PINS",
+                    "nb_voix":201,
+                    "ratio_inscrits":32.9,
+                    "ratio_exprimes":60.91
+                },
+                {  
+                    "tete":"Lionel TIVOLI",
+                    "label":"FN",
+                    "liste":"RASSEMBLEMENT BLEU MARINE POUR ANTIBES",
+                    "nb_voix":49,
+                    "ratio_inscrits":8.02,
+                    "ratio_exprimes":14.85
+                }
+            ]
+        },
+        {  
+            "bv_id":null,
+            "old_bv_id":104,
+            "inscrits":736,
+            "abstentions":296,
+            "ratio_abs_ins":40.22,
+            "votants":440,
+            "ratio_vot_ins":59.78,
+            "blancs":5,
+            "ratio_blanc_ins":0.68,
+            "ratio_blanc_vot":1.14,
+            "exprimes":435,
+            "ratio_exp_ins":59.1,
+            "ratio_exp_vot":98.86,
+            "resultats":[  
+                {  
+                    "tete":"Gérard PIEL",
+                    "label":"FDG",
+                    "liste":"LA GAUCHE ET L'ECOLOGIE POUR ANTIBES JUAN LES PINS",
+                    "nb_voix":16,
+                    "ratio_inscrits":2.17,
+                    "ratio_exprimes":3.68
+                },
+                {  
+                    "tete":"Michèle MURATORE",
+                    "label":"PS",
+                    "liste":"LA GAUCHE UNIE SOLIDAIRE ET ECOLOGIQUE",
+                    "nb_voix":21,
+                    "ratio_inscrits":2.85,
+                    "ratio_exprimes":4.83
+                },
+                {  
+                    "tete":"Jean LEONETTI",
+                    "label":"UMP",
+                    "liste":"ENSEMBLE POUR ANTIBES JUAN LES PINS",
+                    "nb_voix":288,
+                    "ratio_inscrits":39.13,
+                    "ratio_exprimes":66.21
+                },
+                {  
+                    "tete":"Lionel TIVOLI",
+                    "label":"FN",
+                    "liste":"RASSEMBLEMENT BLEU MARINE POUR ANTIBES",
+                    "nb_voix":110,
+                    "ratio_inscrits":14.95,
+                    "ratio_exprimes":25.29
+                }
+            ]
+        },
+        {  
+            "bv_id":null,
+            "old_bv_id":105,
+            "inscrits":971,
+            "abstentions":409,
+            "ratio_abs_ins":42.12,
+            "votants":562,
+            "ratio_vot_ins":57.88,
+            "blancs":15,
+            "ratio_blanc_ins":1.54,
+            "ratio_blanc_vot":2.67,
+            "exprimes":547,
+            "ratio_exp_ins":56.33,
+            "ratio_exp_vot":97.33,
+            "resultats":[  
+                {  
+                    "tete":"Gérard PIEL",
+                    "label":"FDG",
+                    "liste":"LA GAUCHE ET L'ECOLOGIE POUR ANTIBES JUAN LES PINS",
+                    "nb_voix":41,
+                    "ratio_inscrits":4.22,
+                    "ratio_exprimes":7.5
+                },
+                {  
+                    "tete":"Michèle MURATORE",
+                    "label":"PS",
+                    "liste":"LA GAUCHE UNIE SOLIDAIRE ET ECOLOGIQUE",
+                    "nb_voix":46,
+                    "ratio_inscrits":4.74,
+                    "ratio_exprimes":8.41
+                },
+                {  
+                    "tete":"Jean LEONETTI",
+                    "label":"UMP",
+                    "liste":"ENSEMBLE POUR ANTIBES JUAN LES PINS",
+                    "nb_voix":355,
+                    "ratio_inscrits":36.56,
+                    "ratio_exprimes":64.9
+                },
+                {  
+                    "tete":"Lionel TIVOLI",
+                    "label":"FN",
+                    "liste":"RASSEMBLEMENT BLEU MARINE POUR ANTIBES",
+                    "nb_voix":105,
+                    "ratio_inscrits":10.81,
+                    "ratio_exprimes":19.2
+                }
+            ]
+        },
+        {  
+            "bv_id":null,
+            "old_bv_id":106,
+            "inscrits":812,
+            "abstentions":362,
+            "ratio_abs_ins":44.58,
+            "votants":450,
+            "ratio_vot_ins":55.42,
+            "blancs":8,
+            "ratio_blanc_ins":0.99,
+            "ratio_blanc_vot":1.78,
+            "exprimes":442,
+            "ratio_exp_ins":54.43,
+            "ratio_exp_vot":98.22,
+            "resultats":[  
+                {  
+                    "tete":"Gérard PIEL",
+                    "label":"FDG",
+                    "liste":"LA GAUCHE ET L'ECOLOGIE POUR ANTIBES JUAN LES PINS",
+                    "nb_voix":61,
+                    "ratio_inscrits":7.51,
+                    "ratio_exprimes":13.8
+                },
+                {  
+                    "tete":"Michèle MURATORE",
+                    "label":"PS",
+                    "liste":"LA GAUCHE UNIE SOLIDAIRE ET ECOLOGIQUE",
+                    "nb_voix":53,
+                    "ratio_inscrits":6.53,
+                    "ratio_exprimes":11.99
+                },
+                {  
+                    "tete":"Jean LEONETTI",
+                    "label":"UMP",
+                    "liste":"ENSEMBLE POUR ANTIBES JUAN LES PINS",
+                    "nb_voix":235,
+                    "ratio_inscrits":28.94,
+                    "ratio_exprimes":53.17
+                },
+                {  
+                    "tete":"Lionel TIVOLI",
+                    "label":"FN",
+                    "liste":"RASSEMBLEMENT BLEU MARINE POUR ANTIBES",
+                    "nb_voix":93,
+                    "ratio_inscrits":11.45,
+                    "ratio_exprimes":21.04
+                }
+            ]
+        },
+        {  
+            "bv_id":null,
+            "old_bv_id":107,
+            "inscrits":719,
+            "abstentions":320,
+            "ratio_abs_ins":44.51,
+            "votants":399,
+            "ratio_vot_ins":55.49,
+            "blancs":20,
+            "ratio_blanc_ins":2.78,
+            "ratio_blanc_vot":5.01,
+            "exprimes":379,
+            "ratio_exp_ins":52.71,
+            "ratio_exp_vot":94.99,
+            "resultats":[  
+                {  
+                    "tete":"Gérard PIEL",
+                    "label":"FDG",
+                    "liste":"LA GAUCHE ET L'ECOLOGIE POUR ANTIBES JUAN LES PINS",
+                    "nb_voix":50,
+                    "ratio_inscrits":6.95,
+                    "ratio_exprimes":13.19
+                },
+                {  
+                    "tete":"Michèle MURATORE",
+                    "label":"PS",
+                    "liste":"LA GAUCHE UNIE SOLIDAIRE ET ECOLOGIQUE",
+                    "nb_voix":42,
+                    "ratio_inscrits":5.84,
+                    "ratio_exprimes":11.08
+                },
+                {  
+                    "tete":"Jean LEONETTI",
+                    "label":"UMP",
+                    "liste":"ENSEMBLE POUR ANTIBES JUAN LES PINS",
+                    "nb_voix":220,
+                    "ratio_inscrits":30.6,
+                    "ratio_exprimes":58.05
+                },
+                {  
+                    "tete":"Lionel TIVOLI",
+                    "label":"FN",
+                    "liste":"RASSEMBLEMENT BLEU MARINE POUR ANTIBES",
+                    "nb_voix":67,
+                    "ratio_inscrits":9.32,
+                    "ratio_exprimes":17.68
+                }
+            ]
+        },
+        {  
+            "bv_id":206,
+            "old_bv_id":108,
+            "inscrits":805,
+            "abstentions":327,
+            "ratio_abs_ins":40.62,
+            "votants":478,
+            "ratio_vot_ins":59.38,
+            "blancs":23,
+            "ratio_blanc_ins":2.86,
+            "ratio_blanc_vot":4.81,
+            "exprimes":455,
+            "ratio_exp_ins":56.52,
+            "ratio_exp_vot":95.19,
+            "resultats":[  
+                {  
+                    "tete":"Gérard PIEL",
+                    "label":"FDG",
+                    "liste":"LA GAUCHE ET L'ECOLOGIE POUR ANTIBES JUAN LES PINS",
+                    "nb_voix":32,
+                    "ratio_inscrits":3.98,
+                    "ratio_exprimes":7.03
+                },
+                {  
+                    "tete":"Michèle MURATORE",
+                    "label":"PS",
+                    "liste":"LA GAUCHE UNIE SOLIDAIRE ET ECOLOGIQUE",
+                    "nb_voix":46,
+                    "ratio_inscrits":5.71,
+                    "ratio_exprimes":10.11
+                },
+                {  
+                    "tete":"Jean LEONETTI",
+                    "label":"UMP",
+                    "liste":"ENSEMBLE POUR ANTIBES JUAN LES PINS",
+                    "nb_voix":299,
+                    "ratio_inscrits":37.14,
+                    "ratio_exprimes":65.71
+                },
+                {  
+                    "tete":"Lionel TIVOLI",
+                    "label":"FN",
+                    "liste":"RASSEMBLEMENT BLEU MARINE POUR ANTIBES",
+                    "nb_voix":78,
+                    "ratio_inscrits":9.69,
+                    "ratio_exprimes":17.14
+                }
+            ]
+        },
+        {  
+            "bv_id":207,
+            "old_bv_id":109,
+            "inscrits":951,
+            "abstentions":439,
+            "ratio_abs_ins":46.16,
+            "votants":512,
+            "ratio_vot_ins":53.84,
+            "blancs":23,
+            "ratio_blanc_ins":2.42,
+            "ratio_blanc_vot":4.49,
+            "exprimes":489,
+            "ratio_exp_ins":51.42,
+            "ratio_exp_vot":95.51,
+            "resultats":[  
+                {  
+                    "tete":"Gérard PIEL",
+                    "label":"FDG",
+                    "liste":"LA GAUCHE ET L'ECOLOGIE POUR ANTIBES JUAN LES PINS",
+                    "nb_voix":29,
+                    "ratio_inscrits":3.05,
+                    "ratio_exprimes":5.93
+                },
+                {  
+                    "tete":"Michèle MURATORE",
+                    "label":"PS",
+                    "liste":"LA GAUCHE UNIE SOLIDAIRE ET ECOLOGIQUE",
+                    "nb_voix":36,
+                    "ratio_inscrits":3.79,
+                    "ratio_exprimes":7.36
+                },
+                {  
+                    "tete":"Jean LEONETTI",
+                    "label":"UMP",
+                    "liste":"ENSEMBLE POUR ANTIBES JUAN LES PINS",
+                    "nb_voix":328,
+                    "ratio_inscrits":34.49,
+                    "ratio_exprimes":67.08
+                },
+                {  
+                    "tete":"Lionel TIVOLI",
+                    "label":"FN",
+                    "liste":"RASSEMBLEMENT BLEU MARINE POUR ANTIBES",
+                    "nb_voix":96,
+                    "ratio_inscrits":10.09,
+                    "ratio_exprimes":19.63
+                }
+            ]
+        },
+        {  
+            "bv_id":208,
+            "old_bv_id":110,
+            "inscrits":842,
+            "abstentions":377,
+            "ratio_abs_ins":44.77,
+            "votants":465,
+            "ratio_vot_ins":55.23,
+            "blancs":19,
+            "ratio_blanc_ins":2.26,
+            "ratio_blanc_vot":4.09,
+            "exprimes":446,
+            "ratio_exp_ins":52.97,
+            "ratio_exp_vot":95.91,
+            "resultats":[  
+                {  
+                    "tete":"Gérard PIEL",
+                    "label":"FDG",
+                    "liste":"LA GAUCHE ET L'ECOLOGIE POUR ANTIBES JUAN LES PINS",
+                    "nb_voix":30,
+                    "ratio_inscrits":3.56,
+                    "ratio_exprimes":6.73
+                },
+                {  
+                    "tete":"Michèle MURATORE",
+                    "label":"PS",
+                    "liste":"LA GAUCHE UNIE SOLIDAIRE ET ECOLOGIQUE",
+                    "nb_voix":27,
+                    "ratio_inscrits":3.21,
+                    "ratio_exprimes":6.05
+                },
+                {  
+                    "tete":"Jean LEONETTI",
+                    "label":"UMP",
+                    "liste":"ENSEMBLE POUR ANTIBES JUAN LES PINS",
+                    "nb_voix":305,
+                    "ratio_inscrits":36.22,
+                    "ratio_exprimes":68.39
+                },
+                {  
+                    "tete":"Lionel TIVOLI",
+                    "label":"FN",
+                    "liste":"RASSEMBLEMENT BLEU MARINE POUR ANTIBES",
+                    "nb_voix":84,
+                    "ratio_inscrits":9.98,
+                    "ratio_exprimes":18.83
+                }
+            ]
+        },
+        {  
+            "bv_id":null,
+            "old_bv_id":111,
+            "inscrits":1033,
+            "abstentions":525,
+            "ratio_abs_ins":50.82,
+            "votants":508,
+            "ratio_vot_ins":49.18,
+            "blancs":19,
+            "ratio_blanc_ins":1.84,
+            "ratio_blanc_vot":3.74,
+            "exprimes":489,
+            "ratio_exp_ins":47.34,
+            "ratio_exp_vot":96.26,
+            "resultats":[  
+                {  
+                    "tete":"Gérard PIEL",
+                    "label":"FDG",
+                    "liste":"LA GAUCHE ET L'ECOLOGIE POUR ANTIBES JUAN LES PINS",
+                    "nb_voix":44,
+                    "ratio_inscrits":4.26,
+                    "ratio_exprimes":9
+                },
+                {  
+                    "tete":"Michèle MURATORE",
+                    "label":"PS",
+                    "liste":"LA GAUCHE UNIE SOLIDAIRE ET ECOLOGIQUE",
+                    "nb_voix":39,
+                    "ratio_inscrits":3.78,
+                    "ratio_exprimes":7.98
+                },
+                {  
+                    "tete":"Jean LEONETTI",
+                    "label":"UMP",
+                    "liste":"ENSEMBLE POUR ANTIBES JUAN LES PINS",
+                    "nb_voix":297,
+                    "ratio_inscrits":28.75,
+                    "ratio_exprimes":60.74
+                },
+                {  
+                    "tete":"Lionel TIVOLI",
+                    "label":"FN",
+                    "liste":"RASSEMBLEMENT BLEU MARINE POUR ANTIBES",
+                    "nb_voix":109,
+                    "ratio_inscrits":10.55,
+                    "ratio_exprimes":22.29
+                }
+            ]
+        },
+        {  
+            "bv_id":null,
+            "old_bv_id":112,
+            "inscrits":1025,
+            "abstentions":477,
+            "ratio_abs_ins":46.54,
+            "votants":548,
+            "ratio_vot_ins":53.46,
+            "blancs":26,
+            "ratio_blanc_ins":2.54,
+            "ratio_blanc_vot":4.74,
+            "exprimes":522,
+            "ratio_exp_ins":50.93,
+            "ratio_exp_vot":95.26,
+            "resultats":[  
+                {  
+                    "tete":"Gérard PIEL",
+                    "label":"FDG",
+                    "liste":"LA GAUCHE ET L'ECOLOGIE POUR ANTIBES JUAN LES PINS",
+                    "nb_voix":31,
+                    "ratio_inscrits":3.02,
+                    "ratio_exprimes":5.94
+                },
+                {  
+                    "tete":"Michèle MURATORE",
+                    "label":"PS",
+                    "liste":"LA GAUCHE UNIE SOLIDAIRE ET ECOLOGIQUE",
+                    "nb_voix":53,
+                    "ratio_inscrits":5.17,
+                    "ratio_exprimes":10.15
+                },
+                {  
+                    "tete":"Jean LEONETTI",
+                    "label":"UMP",
+                    "liste":"ENSEMBLE POUR ANTIBES JUAN LES PINS",
+                    "nb_voix":320,
+                    "ratio_inscrits":31.22,
+                    "ratio_exprimes":61.3
+                },
+                {  
+                    "tete":"Lionel TIVOLI",
+                    "label":"FN",
+                    "liste":"RASSEMBLEMENT BLEU MARINE POUR ANTIBES",
+                    "nb_voix":118,
+                    "ratio_inscrits":11.51,
+                    "ratio_exprimes":22.61
+                }
+            ]
+        },
+        {  
+            "bv_id":301,
+            "old_bv_id":113,
+            "inscrits":826,
+            "abstentions":342,
+            "ratio_abs_ins":41.4,
+            "votants":484,
+            "ratio_vot_ins":58.6,
+            "blancs":19,
+            "ratio_blanc_ins":2.3,
+            "ratio_blanc_vot":3.93,
+            "exprimes":465,
+            "ratio_exp_ins":56.3,
+            "ratio_exp_vot":96.07,
+            "resultats":[  
+                {  
+                    "tete":"Gérard PIEL",
+                    "label":"FDG",
+                    "liste":"LA GAUCHE ET L'ECOLOGIE POUR ANTIBES JUAN LES PINS",
+                    "nb_voix":36,
+                    "ratio_inscrits":4.36,
+                    "ratio_exprimes":7.74
+                },
+                {  
+                    "tete":"Michèle MURATORE",
+                    "label":"PS",
+                    "liste":"LA GAUCHE UNIE SOLIDAIRE ET ECOLOGIQUE",
+                    "nb_voix":48,
+                    "ratio_inscrits":5.81,
+                    "ratio_exprimes":10.32
+                },
+                {  
+                    "tete":"Jean LEONETTI",
+                    "label":"UMP",
+                    "liste":"ENSEMBLE POUR ANTIBES JUAN LES PINS",
+                    "nb_voix":277,
+                    "ratio_inscrits":33.54,
+                    "ratio_exprimes":59.57
+                },
+                {  
+                    "tete":"Lionel TIVOLI",
+                    "label":"FN",
+                    "liste":"RASSEMBLEMENT BLEU MARINE POUR ANTIBES",
+                    "nb_voix":104,
+                    "ratio_inscrits":12.59,
+                    "ratio_exprimes":22.37
+                }
+            ]
+        },
+        {  
+            "bv_id":302,
+            "old_bv_id":114,
+            "inscrits":890,
+            "abstentions":354,
+            "ratio_abs_ins":39.78,
+            "votants":536,
+            "ratio_vot_ins":60.22,
+            "blancs":14,
+            "ratio_blanc_ins":1.57,
+            "ratio_blanc_vot":2.61,
+            "exprimes":522,
+            "ratio_exp_ins":58.65,
+            "ratio_exp_vot":97.39,
+            "resultats":[  
+                {  
+                    "tete":"Gérard PIEL",
+                    "label":"FDG",
+                    "liste":"LA GAUCHE ET L'ECOLOGIE POUR ANTIBES JUAN LES PINS",
+                    "nb_voix":30,
+                    "ratio_inscrits":3.37,
+                    "ratio_exprimes":5.75
+                },
+                {  
+                    "tete":"Michèle MURATORE",
+                    "label":"PS",
+                    "liste":"LA GAUCHE UNIE SOLIDAIRE ET ECOLOGIQUE",
+                    "nb_voix":40,
+                    "ratio_inscrits":4.49,
+                    "ratio_exprimes":7.66
+                },
+                {  
+                    "tete":"Jean LEONETTI",
+                    "label":"UMP",
+                    "liste":"ENSEMBLE POUR ANTIBES JUAN LES PINS",
+                    "nb_voix":335,
+                    "ratio_inscrits":37.64,
+                    "ratio_exprimes":64.18
+                },
+                {  
+                    "tete":"Lionel TIVOLI",
+                    "label":"FN",
+                    "liste":"RASSEMBLEMENT BLEU MARINE POUR ANTIBES",
+                    "nb_voix":117,
+                    "ratio_inscrits":13.15,
+                    "ratio_exprimes":22.41
+                }
+            ]
+        },
+        {  
+            "bv_id":303,
+            "old_bv_id":115,
+            "inscrits":640,
+            "abstentions":282,
+            "ratio_abs_ins":44.06,
+            "votants":358,
+            "ratio_vot_ins":55.94,
+            "blancs":15,
+            "ratio_blanc_ins":2.34,
+            "ratio_blanc_vot":4.19,
+            "exprimes":343,
+            "ratio_exp_ins":53.59,
+            "ratio_exp_vot":95.81,
+            "resultats":[  
+                {  
+                    "tete":"Gérard PIEL",
+                    "label":"FDG",
+                    "liste":"LA GAUCHE ET L'ECOLOGIE POUR ANTIBES JUAN LES PINS",
+                    "nb_voix":14,
+                    "ratio_inscrits":2.19,
+                    "ratio_exprimes":4.08
+                },
+                {  
+                    "tete":"Michèle MURATORE",
+                    "label":"PS",
+                    "liste":"LA GAUCHE UNIE SOLIDAIRE ET ECOLOGIQUE",
+                    "nb_voix":35,
+                    "ratio_inscrits":5.47,
+                    "ratio_exprimes":10.2
+                },
+                {  
+                    "tete":"Jean LEONETTI",
+                    "label":"UMP",
+                    "liste":"ENSEMBLE POUR ANTIBES JUAN LES PINS",
+                    "nb_voix":232,
+                    "ratio_inscrits":36.25,
+                    "ratio_exprimes":67.64
+                },
+                {  
+                    "tete":"Lionel TIVOLI",
+                    "label":"FN",
+                    "liste":"RASSEMBLEMENT BLEU MARINE POUR ANTIBES",
+                    "nb_voix":62,
+                    "ratio_inscrits":9.69,
+                    "ratio_exprimes":18.08
+                }
+            ]
+        },
+        {  
+            "bv_id":305,
+            "old_bv_id":116,
+            "inscrits":884,
+            "abstentions":367,
+            "ratio_abs_ins":41.52,
+            "votants":517,
+            "ratio_vot_ins":58.48,
+            "blancs":8,
+            "ratio_blanc_ins":0.9,
+            "ratio_blanc_vot":1.55,
+            "exprimes":509,
+            "ratio_exp_ins":57.58,
+            "ratio_exp_vot":98.45,
+            "resultats":[  
+                {  
+                    "tete":"Gérard PIEL",
+                    "label":"FDG",
+                    "liste":"LA GAUCHE ET L'ECOLOGIE POUR ANTIBES JUAN LES PINS",
+                    "nb_voix":45,
+                    "ratio_inscrits":5.09,
+                    "ratio_exprimes":8.84
+                },
+                {  
+                    "tete":"Michèle MURATORE",
+                    "label":"PS",
+                    "liste":"LA GAUCHE UNIE SOLIDAIRE ET ECOLOGIQUE",
+                    "nb_voix":45,
+                    "ratio_inscrits":5.09,
+                    "ratio_exprimes":8.84
+                },
+                {  
+                    "tete":"Jean LEONETTI",
+                    "label":"UMP",
+                    "liste":"ENSEMBLE POUR ANTIBES JUAN LES PINS",
+                    "nb_voix":307,
+                    "ratio_inscrits":34.73,
+                    "ratio_exprimes":60.31
+                },
+                {  
+                    "tete":"Lionel TIVOLI",
+                    "label":"FN",
+                    "liste":"RASSEMBLEMENT BLEU MARINE POUR ANTIBES",
+                    "nb_voix":112,
+                    "ratio_inscrits":12.67,
+                    "ratio_exprimes":22
+                }
+            ]
+        },
+        {  
+            "bv_id":306,
+            "old_bv_id":117,
+            "inscrits":936,
+            "abstentions":403,
+            "ratio_abs_ins":43.06,
+            "votants":533,
+            "ratio_vot_ins":56.94,
+            "blancs":21,
+            "ratio_blanc_ins":2.24,
+            "ratio_blanc_vot":3.94,
+            "exprimes":512,
+            "ratio_exp_ins":54.7,
+            "ratio_exp_vot":96.06,
+            "resultats":[  
+                {  
+                    "tete":"Gérard PIEL",
+                    "label":"FDG",
+                    "liste":"LA GAUCHE ET L'ECOLOGIE POUR ANTIBES JUAN LES PINS",
+                    "nb_voix":46,
+                    "ratio_inscrits":4.91,
+                    "ratio_exprimes":8.98
+                },
+                {  
+                    "tete":"Michèle MURATORE",
+                    "label":"PS",
+                    "liste":"LA GAUCHE UNIE SOLIDAIRE ET ECOLOGIQUE",
+                    "nb_voix":53,
+                    "ratio_inscrits":5.66,
+                    "ratio_exprimes":10.35
+                },
+                {  
+                    "tete":"Jean LEONETTI",
+                    "label":"UMP",
+                    "liste":"ENSEMBLE POUR ANTIBES JUAN LES PINS",
+                    "nb_voix":306,
+                    "ratio_inscrits":32.69,
+                    "ratio_exprimes":59.77
+                },
+                {  
+                    "tete":"Lionel TIVOLI",
+                    "label":"FN",
+                    "liste":"RASSEMBLEMENT BLEU MARINE POUR ANTIBES",
+                    "nb_voix":107,
+                    "ratio_inscrits":11.43,
+                    "ratio_exprimes":20.9
+                }
+            ]
+        },
+        {  
+            "bv_id":307,
+            "old_bv_id":118,
+            "inscrits":703,
+            "abstentions":278,
+            "ratio_abs_ins":39.54,
+            "votants":425,
+            "ratio_vot_ins":60.46,
+            "blancs":14,
+            "ratio_blanc_ins":1.99,
+            "ratio_blanc_vot":3.29,
+            "exprimes":411,
+            "ratio_exp_ins":58.46,
+            "ratio_exp_vot":96.71,
+            "resultats":[  
+                {  
+                    "tete":"Gérard PIEL",
+                    "label":"FDG",
+                    "liste":"LA GAUCHE ET L'ECOLOGIE POUR ANTIBES JUAN LES PINS",
+                    "nb_voix":25,
+                    "ratio_inscrits":3.56,
+                    "ratio_exprimes":6.08
+                },
+                {  
+                    "tete":"Michèle MURATORE",
+                    "label":"PS",
+                    "liste":"LA GAUCHE UNIE SOLIDAIRE ET ECOLOGIQUE",
+                    "nb_voix":32,
+                    "ratio_inscrits":4.55,
+                    "ratio_exprimes":7.79
+                },
+                {  
+                    "tete":"Jean LEONETTI",
+                    "label":"UMP",
+                    "liste":"ENSEMBLE POUR ANTIBES JUAN LES PINS",
+                    "nb_voix":292,
+                    "ratio_inscrits":41.54,
+                    "ratio_exprimes":71.05
+                },
+                {  
+                    "tete":"Lionel TIVOLI",
+                    "label":"FN",
+                    "liste":"RASSEMBLEMENT BLEU MARINE POUR ANTIBES",
+                    "nb_voix":62,
+                    "ratio_inscrits":8.82,
+                    "ratio_exprimes":15.09
+                }
+            ]
+        },
+        {  
+            "bv_id":308,
+            "old_bv_id":119,
+            "inscrits":786,
+            "abstentions":319,
+            "ratio_abs_ins":40.59,
+            "votants":467,
+            "ratio_vot_ins":59.41,
+            "blancs":9,
+            "ratio_blanc_ins":1.15,
+            "ratio_blanc_vot":1.93,
+            "exprimes":458,
+            "ratio_exp_ins":58.27,
+            "ratio_exp_vot":98.07,
+            "resultats":[  
+                {  
+                    "tete":"Gérard PIEL",
+                    "label":"FDG",
+                    "liste":"LA GAUCHE ET L'ECOLOGIE POUR ANTIBES JUAN LES PINS",
+                    "nb_voix":46,
+                    "ratio_inscrits":5.85,
+                    "ratio_exprimes":10.04
+                },
+                {  
+                    "tete":"Michèle MURATORE",
+                    "label":"PS",
+                    "liste":"LA GAUCHE UNIE SOLIDAIRE ET ECOLOGIQUE",
+                    "nb_voix":35,
+                    "ratio_inscrits":4.45,
+                    "ratio_exprimes":7.64
+                },
+                {  
+                    "tete":"Jean LEONETTI",
+                    "label":"UMP",
+                    "liste":"ENSEMBLE POUR ANTIBES JUAN LES PINS",
+                    "nb_voix":304,
+                    "ratio_inscrits":38.68,
+                    "ratio_exprimes":66.38
+                },
+                {  
+                    "tete":"Lionel TIVOLI",
+                    "label":"FN",
+                    "liste":"RASSEMBLEMENT BLEU MARINE POUR ANTIBES",
+                    "nb_voix":73,
+                    "ratio_inscrits":9.29,
+                    "ratio_exprimes":15.94
+                }
+            ]
+        },
+        {  
+            "bv_id":309,
+            "old_bv_id":120,
+            "inscrits":766,
+            "abstentions":340,
+            "ratio_abs_ins":44.39,
+            "votants":426,
+            "ratio_vot_ins":55.61,
+            "blancs":6,
+            "ratio_blanc_ins":0.78,
+            "ratio_blanc_vot":1.41,
+            "exprimes":420,
+            "ratio_exp_ins":54.83,
+            "ratio_exp_vot":98.59,
+            "resultats":[  
+                {  
+                    "tete":"Gérard PIEL",
+                    "label":"FDG",
+                    "liste":"LA GAUCHE ET L'ECOLOGIE POUR ANTIBES JUAN LES PINS",
+                    "nb_voix":16,
+                    "ratio_inscrits":2.09,
+                    "ratio_exprimes":3.81
+                },
+                {  
+                    "tete":"Michèle MURATORE",
+                    "label":"PS",
+                    "liste":"LA GAUCHE UNIE SOLIDAIRE ET ECOLOGIQUE",
+                    "nb_voix":42,
+                    "ratio_inscrits":5.48,
+                    "ratio_exprimes":10
+                },
+                {  
+                    "tete":"Jean LEONETTI",
+                    "label":"UMP",
+                    "liste":"ENSEMBLE POUR ANTIBES JUAN LES PINS",
+                    "nb_voix":260,
+                    "ratio_inscrits":33.94,
+                    "ratio_exprimes":61.9
+                },
+                {  
+                    "tete":"Lionel TIVOLI",
+                    "label":"FN",
+                    "liste":"RASSEMBLEMENT BLEU MARINE POUR ANTIBES",
+                    "nb_voix":102,
+                    "ratio_inscrits":13.32,
+                    "ratio_exprimes":24.29
+                }
+            ]
+        },
+        {  
+            "bv_id":310,
+            "old_bv_id":121,
+            "inscrits":981,
+            "abstentions":412,
+            "ratio_abs_ins":42,
+            "votants":569,
+            "ratio_vot_ins":58,
+            "blancs":13,
+            "ratio_blanc_ins":1.33,
+            "ratio_blanc_vot":2.28,
+            "exprimes":556,
+            "ratio_exp_ins":56.68,
+            "ratio_exp_vot":97.72,
+            "resultats":[  
+                {  
+                    "tete":"Gérard PIEL",
+                    "label":"FDG",
+                    "liste":"LA GAUCHE ET L'ECOLOGIE POUR ANTIBES JUAN LES PINS",
+                    "nb_voix":46,
+                    "ratio_inscrits":4.69,
+                    "ratio_exprimes":8.27
+                },
+                {  
+                    "tete":"Michèle MURATORE",
+                    "label":"PS",
+                    "liste":"LA GAUCHE UNIE SOLIDAIRE ET ECOLOGIQUE",
+                    "nb_voix":37,
+                    "ratio_inscrits":3.77,
+                    "ratio_exprimes":6.65
+                },
+                {  
+                    "tete":"Jean LEONETTI",
+                    "label":"UMP",
+                    "liste":"ENSEMBLE POUR ANTIBES JUAN LES PINS",
+                    "nb_voix":368,
+                    "ratio_inscrits":37.51,
+                    "ratio_exprimes":66.19
+                },
+                {  
+                    "tete":"Lionel TIVOLI",
+                    "label":"FN",
+                    "liste":"RASSEMBLEMENT BLEU MARINE POUR ANTIBES",
+                    "nb_voix":105,
+                    "ratio_inscrits":10.7,
+                    "ratio_exprimes":18.88
+                }
+            ]
+        },
+        {  
+            "bv_id":311,
+            "old_bv_id":122,
+            "inscrits":941,
+            "abstentions":403,
+            "ratio_abs_ins":42.83,
+            "votants":538,
+            "ratio_vot_ins":57.17,
+            "blancs":19,
+            "ratio_blanc_ins":2.02,
+            "ratio_blanc_vot":3.53,
+            "exprimes":519,
+            "ratio_exp_ins":55.15,
+            "ratio_exp_vot":96.47,
+            "resultats":[  
+                {  
+                    "tete":"Gérard PIEL",
+                    "label":"FDG",
+                    "liste":"LA GAUCHE ET L'ECOLOGIE POUR ANTIBES JUAN LES PINS",
+                    "nb_voix":20,
+                    "ratio_inscrits":2.13,
+                    "ratio_exprimes":3.85
+                },
+                {  
+                    "tete":"Michèle MURATORE",
+                    "label":"PS",
+                    "liste":"LA GAUCHE UNIE SOLIDAIRE ET ECOLOGIQUE",
+                    "nb_voix":45,
+                    "ratio_inscrits":4.78,
+                    "ratio_exprimes":8.67
+                },
+                {  
+                    "tete":"Jean LEONETTI",
+                    "label":"UMP",
+                    "liste":"ENSEMBLE POUR ANTIBES JUAN LES PINS",
+                    "nb_voix":359,
+                    "ratio_inscrits":38.15,
+                    "ratio_exprimes":69.17
+                },
+                {  
+                    "tete":"Lionel TIVOLI",
+                    "label":"FN",
+                    "liste":"RASSEMBLEMENT BLEU MARINE POUR ANTIBES",
+                    "nb_voix":95,
+                    "ratio_inscrits":10.1,
+                    "ratio_exprimes":18.3
+                }
+            ]
+        },
+        {  
+            "bv_id":304,
+            "old_bv_id":123,
+            "inscrits":723,
+            "abstentions":281,
+            "ratio_abs_ins":38.87,
+            "votants":442,
+            "ratio_vot_ins":61.13,
+            "blancs":4,
+            "ratio_blanc_ins":0.55,
+            "ratio_blanc_vot":0.9,
+            "exprimes":438,
+            "ratio_exp_ins":60.58,
+            "ratio_exp_vot":99.1,
+            "resultats":[  
+                {  
+                    "tete":"Gérard PIEL",
+                    "label":"FDG",
+                    "liste":"LA GAUCHE ET L'ECOLOGIE POUR ANTIBES JUAN LES PINS",
+                    "nb_voix":24,
+                    "ratio_inscrits":3.32,
+                    "ratio_exprimes":5.48
+                },
+                {  
+                    "tete":"Michèle MURATORE",
+                    "label":"PS",
+                    "liste":"LA GAUCHE UNIE SOLIDAIRE ET ECOLOGIQUE",
+                    "nb_voix":40,
+                    "ratio_inscrits":5.53,
+                    "ratio_exprimes":9.13
+                },
+                {  
+                    "tete":"Jean LEONETTI",
+                    "label":"UMP",
+                    "liste":"ENSEMBLE POUR ANTIBES JUAN LES PINS",
+                    "nb_voix":283,
+                    "ratio_inscrits":39.14,
+                    "ratio_exprimes":64.61
+                },
+                {  
+                    "tete":"Lionel TIVOLI",
+                    "label":"FN",
+                    "liste":"RASSEMBLEMENT BLEU MARINE POUR ANTIBES",
+                    "nb_voix":91,
+                    "ratio_inscrits":12.59,
+                    "ratio_exprimes":20.78
+                }
+            ]
+        },
+        {  
+            "bv_id":313,
+            "old_bv_id":124,
+            "inscrits":605,
+            "abstentions":229,
+            "ratio_abs_ins":37.85,
+            "votants":376,
+            "ratio_vot_ins":62.15,
+            "blancs":12,
+            "ratio_blanc_ins":1.98,
+            "ratio_blanc_vot":3.19,
+            "exprimes":364,
+            "ratio_exp_ins":60.17,
+            "ratio_exp_vot":96.81,
+            "resultats":[  
+                {  
+                    "tete":"Gérard PIEL",
+                    "label":"FDG",
+                    "liste":"LA GAUCHE ET L'ECOLOGIE POUR ANTIBES JUAN LES PINS",
+                    "nb_voix":32,
+                    "ratio_inscrits":5.29,
+                    "ratio_exprimes":8.79
+                },
+                {  
+                    "tete":"Michèle MURATORE",
+                    "label":"PS",
+                    "liste":"LA GAUCHE UNIE SOLIDAIRE ET ECOLOGIQUE",
+                    "nb_voix":32,
+                    "ratio_inscrits":5.29,
+                    "ratio_exprimes":8.79
+                },
+                {  
+                    "tete":"Jean LEONETTI",
+                    "label":"UMP",
+                    "liste":"ENSEMBLE POUR ANTIBES JUAN LES PINS",
+                    "nb_voix":239,
+                    "ratio_inscrits":39.5,
+                    "ratio_exprimes":65.66
+                },
+                {  
+                    "tete":"Lionel TIVOLI",
+                    "label":"FN",
+                    "liste":"RASSEMBLEMENT BLEU MARINE POUR ANTIBES",
+                    "nb_voix":61,
+                    "ratio_inscrits":10.08,
+                    "ratio_exprimes":16.76
+                }
+            ]
+        },
+        {  
+            "bv_id":null,
+            "old_bv_id":201,
+            "inscrits":590,
+            "abstentions":255,
+            "ratio_abs_ins":43.22,
+            "votants":335,
+            "ratio_vot_ins":56.78,
+            "blancs":10,
+            "ratio_blanc_ins":1.69,
+            "ratio_blanc_vot":2.99,
+            "exprimes":325,
+            "ratio_exp_ins":55.08,
+            "ratio_exp_vot":97.01,
+            "resultats":[  
+                {  
+                    "tete":"Gérard PIEL",
+                    "label":"FDG",
+                    "liste":"LA GAUCHE ET L'ECOLOGIE POUR ANTIBES JUAN LES PINS",
+                    "nb_voix":16,
+                    "ratio_inscrits":2.71,
+                    "ratio_exprimes":4.92
+                },
+                {  
+                    "tete":"Michèle MURATORE",
+                    "label":"PS",
+                    "liste":"LA GAUCHE UNIE SOLIDAIRE ET ECOLOGIQUE",
+                    "nb_voix":35,
+                    "ratio_inscrits":5.93,
+                    "ratio_exprimes":10.77
+                },
+                {  
+                    "tete":"Jean LEONETTI",
+                    "label":"UMP",
+                    "liste":"ENSEMBLE POUR ANTIBES JUAN LES PINS",
+                    "nb_voix":201,
+                    "ratio_inscrits":34.07,
+                    "ratio_exprimes":61.85
+                },
+                {  
+                    "tete":"Lionel TIVOLI",
+                    "label":"FN",
+                    "liste":"RASSEMBLEMENT BLEU MARINE POUR ANTIBES",
+                    "nb_voix":73,
+                    "ratio_inscrits":12.37,
+                    "ratio_exprimes":22.46
+                }
+            ]
+        },
+        {  
+            "bv_id":null,
+            "old_bv_id":202,
+            "inscrits":555,
+            "abstentions":237,
+            "ratio_abs_ins":42.7,
+            "votants":318,
+            "ratio_vot_ins":57.3,
+            "blancs":11,
+            "ratio_blanc_ins":1.98,
+            "ratio_blanc_vot":3.46,
+            "exprimes":307,
+            "ratio_exp_ins":55.32,
+            "ratio_exp_vot":96.54,
+            "resultats":[  
+                {  
+                    "tete":"Gérard PIEL",
+                    "label":"FDG",
+                    "liste":"LA GAUCHE ET L'ECOLOGIE POUR ANTIBES JUAN LES PINS",
+                    "nb_voix":13,
+                    "ratio_inscrits":2.34,
+                    "ratio_exprimes":4.23
+                },
+                {  
+                    "tete":"Michèle MURATORE",
+                    "label":"PS",
+                    "liste":"LA GAUCHE UNIE SOLIDAIRE ET ECOLOGIQUE",
+                    "nb_voix":34,
+                    "ratio_inscrits":6.13,
+                    "ratio_exprimes":11.07
+                },
+                {  
+                    "tete":"Jean LEONETTI",
+                    "label":"UMP",
+                    "liste":"ENSEMBLE POUR ANTIBES JUAN LES PINS",
+                    "nb_voix":193,
+                    "ratio_inscrits":34.77,
+                    "ratio_exprimes":62.87
+                },
+                {  
+                    "tete":"Lionel TIVOLI",
+                    "label":"FN",
+                    "liste":"RASSEMBLEMENT BLEU MARINE POUR ANTIBES",
+                    "nb_voix":67,
+                    "ratio_inscrits":12.07,
+                    "ratio_exprimes":21.82
+                }
+            ]
+        },
+        {  
+            "bv_id":null,
+            "old_bv_id":203,
+            "inscrits":708,
+            "abstentions":335,
+            "ratio_abs_ins":47.32,
+            "votants":373,
+            "ratio_vot_ins":52.68,
+            "blancs":8,
+            "ratio_blanc_ins":1.13,
+            "ratio_blanc_vot":2.14,
+            "exprimes":365,
+            "ratio_exp_ins":51.55,
+            "ratio_exp_vot":97.86,
+            "resultats":[  
+                {  
+                    "tete":"Gérard PIEL",
+                    "label":"FDG",
+                    "liste":"LA GAUCHE ET L'ECOLOGIE POUR ANTIBES JUAN LES PINS",
+                    "nb_voix":24,
+                    "ratio_inscrits":3.39,
+                    "ratio_exprimes":6.58
+                },
+                {  
+                    "tete":"Michèle MURATORE",
+                    "label":"PS",
+                    "liste":"LA GAUCHE UNIE SOLIDAIRE ET ECOLOGIQUE",
+                    "nb_voix":38,
+                    "ratio_inscrits":5.37,
+                    "ratio_exprimes":10.41
+                },
+                {  
+                    "tete":"Jean LEONETTI",
+                    "label":"UMP",
+                    "liste":"ENSEMBLE POUR ANTIBES JUAN LES PINS",
+                    "nb_voix":200,
+                    "ratio_inscrits":28.25,
+                    "ratio_exprimes":54.79
+                },
+                {  
+                    "tete":"Lionel TIVOLI",
+                    "label":"FN",
+                    "liste":"RASSEMBLEMENT BLEU MARINE POUR ANTIBES",
+                    "nb_voix":103,
+                    "ratio_inscrits":14.55,
+                    "ratio_exprimes":28.22
+                }
+            ]
+        },
+        {  
+            "bv_id":215,
+            "old_bv_id":204,
+            "inscrits":841,
+            "abstentions":384,
+            "ratio_abs_ins":45.66,
+            "votants":457,
+            "ratio_vot_ins":54.34,
+            "blancs":9,
+            "ratio_blanc_ins":1.07,
+            "ratio_blanc_vot":1.97,
+            "exprimes":448,
+            "ratio_exp_ins":53.27,
+            "ratio_exp_vot":98.03,
+            "resultats":[  
+                {  
+                    "tete":"Gérard PIEL",
+                    "label":"FDG",
+                    "liste":"LA GAUCHE ET L'ECOLOGIE POUR ANTIBES JUAN LES PINS",
+                    "nb_voix":25,
+                    "ratio_inscrits":2.97,
+                    "ratio_exprimes":5.58
+                },
+                {  
+                    "tete":"Michèle MURATORE",
+                    "label":"PS",
+                    "liste":"LA GAUCHE UNIE SOLIDAIRE ET ECOLOGIQUE",
+                    "nb_voix":43,
+                    "ratio_inscrits":5.11,
+                    "ratio_exprimes":9.6
+                },
+                {  
+                    "tete":"Jean LEONETTI",
+                    "label":"UMP",
+                    "liste":"ENSEMBLE POUR ANTIBES JUAN LES PINS",
+                    "nb_voix":299,
+                    "ratio_inscrits":35.55,
+                    "ratio_exprimes":66.74
+                },
+                {  
+                    "tete":"Lionel TIVOLI",
+                    "label":"FN",
+                    "liste":"RASSEMBLEMENT BLEU MARINE POUR ANTIBES",
+                    "nb_voix":81,
+                    "ratio_inscrits":9.63,
+                    "ratio_exprimes":18.08
+                }
+            ]
+        },
+        {  
+            "bv_id":216,
+            "old_bv_id":205,
+            "inscrits":797,
+            "abstentions":343,
+            "ratio_abs_ins":43.04,
+            "votants":454,
+            "ratio_vot_ins":56.96,
+            "blancs":15,
+            "ratio_blanc_ins":1.88,
+            "ratio_blanc_vot":3.3,
+            "exprimes":439,
+            "ratio_exp_ins":55.08,
+            "ratio_exp_vot":96.7,
+            "resultats":[  
+                {  
+                    "tete":"Gérard PIEL",
+                    "label":"FDG",
+                    "liste":"LA GAUCHE ET L'ECOLOGIE POUR ANTIBES JUAN LES PINS",
+                    "nb_voix":40,
+                    "ratio_inscrits":5.02,
+                    "ratio_exprimes":9.11
+                },
+                {  
+                    "tete":"Michèle MURATORE",
+                    "label":"PS",
+                    "liste":"LA GAUCHE UNIE SOLIDAIRE ET ECOLOGIQUE",
+                    "nb_voix":41,
+                    "ratio_inscrits":5.14,
+                    "ratio_exprimes":9.34
+                },
+                {  
+                    "tete":"Jean LEONETTI",
+                    "label":"UMP",
+                    "liste":"ENSEMBLE POUR ANTIBES JUAN LES PINS",
+                    "nb_voix":269,
+                    "ratio_inscrits":33.75,
+                    "ratio_exprimes":61.28
+                },
+                {  
+                    "tete":"Lionel TIVOLI",
+                    "label":"FN",
+                    "liste":"RASSEMBLEMENT BLEU MARINE POUR ANTIBES",
+                    "nb_voix":89,
+                    "ratio_inscrits":11.17,
+                    "ratio_exprimes":20.27
+                }
+            ]
+        },
+        {  
+            "bv_id":217,
+            "old_bv_id":206,
+            "inscrits":785,
+            "abstentions":352,
+            "ratio_abs_ins":44.84,
+            "votants":433,
+            "ratio_vot_ins":55.16,
+            "blancs":13,
+            "ratio_blanc_ins":1.66,
+            "ratio_blanc_vot":3,
+            "exprimes":420,
+            "ratio_exp_ins":53.5,
+            "ratio_exp_vot":97,
+            "resultats":[  
+                {  
+                    "tete":"Gérard PIEL",
+                    "label":"FDG",
+                    "liste":"LA GAUCHE ET L'ECOLOGIE POUR ANTIBES JUAN LES PINS",
+                    "nb_voix":34,
+                    "ratio_inscrits":4.33,
+                    "ratio_exprimes":8.1
+                },
+                {  
+                    "tete":"Michèle MURATORE",
+                    "label":"PS",
+                    "liste":"LA GAUCHE UNIE SOLIDAIRE ET ECOLOGIQUE",
+                    "nb_voix":35,
+                    "ratio_inscrits":4.46,
+                    "ratio_exprimes":8.33
+                },
+                {  
+                    "tete":"Jean LEONETTI",
+                    "label":"UMP",
+                    "liste":"ENSEMBLE POUR ANTIBES JUAN LES PINS",
+                    "nb_voix":252,
+                    "ratio_inscrits":32.1,
+                    "ratio_exprimes":60
+                },
+                {  
+                    "tete":"Lionel TIVOLI",
+                    "label":"FN",
+                    "liste":"RASSEMBLEMENT BLEU MARINE POUR ANTIBES",
+                    "nb_voix":99,
+                    "ratio_inscrits":12.61,
+                    "ratio_exprimes":23.57
+                }
+            ]
+        },
+        {  
+            "bv_id":null,
+            "old_bv_id":207,
+            "inscrits":819,
+            "abstentions":372,
+            "ratio_abs_ins":45.42,
+            "votants":447,
+            "ratio_vot_ins":54.58,
+            "blancs":26,
+            "ratio_blanc_ins":3.17,
+            "ratio_blanc_vot":5.82,
+            "exprimes":421,
+            "ratio_exp_ins":51.4,
+            "ratio_exp_vot":94.18,
+            "resultats":[  
+                {  
+                    "tete":"Gérard PIEL",
+                    "label":"FDG",
+                    "liste":"LA GAUCHE ET L'ECOLOGIE POUR ANTIBES JUAN LES PINS",
+                    "nb_voix":12,
+                    "ratio_inscrits":1.47,
+                    "ratio_exprimes":2.85
+                },
+                {  
+                    "tete":"Michèle MURATORE",
+                    "label":"PS",
+                    "liste":"LA GAUCHE UNIE SOLIDAIRE ET ECOLOGIQUE",
+                    "nb_voix":23,
+                    "ratio_inscrits":2.81,
+                    "ratio_exprimes":5.46
+                },
+                {  
+                    "tete":"Jean LEONETTI",
+                    "label":"UMP",
+                    "liste":"ENSEMBLE POUR ANTIBES JUAN LES PINS",
+                    "nb_voix":283,
+                    "ratio_inscrits":34.55,
+                    "ratio_exprimes":67.22
+                },
+                {  
+                    "tete":"Lionel TIVOLI",
+                    "label":"FN",
+                    "liste":"RASSEMBLEMENT BLEU MARINE POUR ANTIBES",
+                    "nb_voix":103,
+                    "ratio_inscrits":12.58,
+                    "ratio_exprimes":24.47
+                }
+            ]
+        },
+        {  
+            "bv_id":null,
+            "old_bv_id":208,
+            "inscrits":889,
+            "abstentions":392,
+            "ratio_abs_ins":44.09,
+            "votants":497,
+            "ratio_vot_ins":55.91,
+            "blancs":24,
+            "ratio_blanc_ins":2.7,
+            "ratio_blanc_vot":4.83,
+            "exprimes":473,
+            "ratio_exp_ins":53.21,
+            "ratio_exp_vot":95.17,
+            "resultats":[  
+                {  
+                    "tete":"Gérard PIEL",
+                    "label":"FDG",
+                    "liste":"LA GAUCHE ET L'ECOLOGIE POUR ANTIBES JUAN LES PINS",
+                    "nb_voix":29,
+                    "ratio_inscrits":3.26,
+                    "ratio_exprimes":6.13
+                },
+                {  
+                    "tete":"Michèle MURATORE",
+                    "label":"PS",
+                    "liste":"LA GAUCHE UNIE SOLIDAIRE ET ECOLOGIQUE",
+                    "nb_voix":51,
+                    "ratio_inscrits":5.74,
+                    "ratio_exprimes":10.78
+                },
+                {  
+                    "tete":"Jean LEONETTI",
+                    "label":"UMP",
+                    "liste":"ENSEMBLE POUR ANTIBES JUAN LES PINS",
+                    "nb_voix":296,
+                    "ratio_inscrits":33.3,
+                    "ratio_exprimes":62.58
+                },
+                {  
+                    "tete":"Lionel TIVOLI",
+                    "label":"FN",
+                    "liste":"RASSEMBLEMENT BLEU MARINE POUR ANTIBES",
+                    "nb_voix":97,
+                    "ratio_inscrits":10.91,
+                    "ratio_exprimes":20.51
+                }
+            ]
+        },
+        {  
+            "bv_id":null,
+            "old_bv_id":209,
+            "inscrits":917,
+            "abstentions":435,
+            "ratio_abs_ins":47.44,
+            "votants":482,
+            "ratio_vot_ins":52.56,
+            "blancs":15,
+            "ratio_blanc_ins":1.64,
+            "ratio_blanc_vot":3.11,
+            "exprimes":467,
+            "ratio_exp_ins":50.93,
+            "ratio_exp_vot":96.89,
+            "resultats":[  
+                {  
+                    "tete":"Gérard PIEL",
+                    "label":"FDG",
+                    "liste":"LA GAUCHE ET L'ECOLOGIE POUR ANTIBES JUAN LES PINS",
+                    "nb_voix":30,
+                    "ratio_inscrits":3.27,
+                    "ratio_exprimes":6.42
+                },
+                {  
+                    "tete":"Michèle MURATORE",
+                    "label":"PS",
+                    "liste":"LA GAUCHE UNIE SOLIDAIRE ET ECOLOGIQUE",
+                    "nb_voix":45,
+                    "ratio_inscrits":4.91,
+                    "ratio_exprimes":9.64
+                },
+                {  
+                    "tete":"Jean LEONETTI",
+                    "label":"UMP",
+                    "liste":"ENSEMBLE POUR ANTIBES JUAN LES PINS",
+                    "nb_voix":297,
+                    "ratio_inscrits":32.39,
+                    "ratio_exprimes":63.6
+                },
+                {  
+                    "tete":"Lionel TIVOLI",
+                    "label":"FN",
+                    "liste":"RASSEMBLEMENT BLEU MARINE POUR ANTIBES",
+                    "nb_voix":95,
+                    "ratio_inscrits":10.36,
+                    "ratio_exprimes":20.34
+                }
+            ]
+        },
+        {  
+            "bv_id":null,
+            "old_bv_id":210,
+            "inscrits":831,
+            "abstentions":341,
+            "ratio_abs_ins":41.03,
+            "votants":490,
+            "ratio_vot_ins":58.97,
+            "blancs":17,
+            "ratio_blanc_ins":2.05,
+            "ratio_blanc_vot":3.47,
+            "exprimes":473,
+            "ratio_exp_ins":56.92,
+            "ratio_exp_vot":96.53,
+            "resultats":[  
+                {  
+                    "tete":"Gérard PIEL",
+                    "label":"FDG",
+                    "liste":"LA GAUCHE ET L'ECOLOGIE POUR ANTIBES JUAN LES PINS",
+                    "nb_voix":37,
+                    "ratio_inscrits":4.45,
+                    "ratio_exprimes":7.82
+                },
+                {  
+                    "tete":"Michèle MURATORE",
+                    "label":"PS",
+                    "liste":"LA GAUCHE UNIE SOLIDAIRE ET ECOLOGIQUE",
+                    "nb_voix":38,
+                    "ratio_inscrits":4.57,
+                    "ratio_exprimes":8.03
+                },
+                {  
+                    "tete":"Jean LEONETTI",
+                    "label":"UMP",
+                    "liste":"ENSEMBLE POUR ANTIBES JUAN LES PINS",
+                    "nb_voix":298,
+                    "ratio_inscrits":35.86,
+                    "ratio_exprimes":63
+                },
+                {  
+                    "tete":"Lionel TIVOLI",
+                    "label":"FN",
+                    "liste":"RASSEMBLEMENT BLEU MARINE POUR ANTIBES",
+                    "nb_voix":100,
+                    "ratio_inscrits":12.03,
+                    "ratio_exprimes":21.14
+                }
+            ]
+        },
+        {  
+            "bv_id":null,
+            "old_bv_id":211,
+            "inscrits":776,
+            "abstentions":331,
+            "ratio_abs_ins":42.65,
+            "votants":445,
+            "ratio_vot_ins":57.35,
+            "blancs":22,
+            "ratio_blanc_ins":2.84,
+            "ratio_blanc_vot":4.94,
+            "exprimes":423,
+            "ratio_exp_ins":54.51,
+            "ratio_exp_vot":95.06,
+            "resultats":[  
+                {  
+                    "tete":"Gérard PIEL",
+                    "label":"FDG",
+                    "liste":"LA GAUCHE ET L'ECOLOGIE POUR ANTIBES JUAN LES PINS",
+                    "nb_voix":22,
+                    "ratio_inscrits":2.84,
+                    "ratio_exprimes":5.2
+                },
+                {  
+                    "tete":"Michèle MURATORE",
+                    "label":"PS",
+                    "liste":"LA GAUCHE UNIE SOLIDAIRE ET ECOLOGIQUE",
+                    "nb_voix":36,
+                    "ratio_inscrits":4.64,
+                    "ratio_exprimes":8.51
+                },
+                {  
+                    "tete":"Jean LEONETTI",
+                    "label":"UMP",
+                    "liste":"ENSEMBLE POUR ANTIBES JUAN LES PINS",
+                    "nb_voix":279,
+                    "ratio_inscrits":35.95,
+                    "ratio_exprimes":65.96
+                },
+                {  
+                    "tete":"Lionel TIVOLI",
+                    "label":"FN",
+                    "liste":"RASSEMBLEMENT BLEU MARINE POUR ANTIBES",
+                    "nb_voix":86,
+                    "ratio_inscrits":11.08,
+                    "ratio_exprimes":20.33
+                }
+            ]
+        },
+        {  
+            "bv_id":null,
+            "old_bv_id":212,
+            "inscrits":871,
+            "abstentions":368,
+            "ratio_abs_ins":42.25,
+            "votants":503,
+            "ratio_vot_ins":57.75,
+            "blancs":14,
+            "ratio_blanc_ins":1.61,
+            "ratio_blanc_vot":2.78,
+            "exprimes":489,
+            "ratio_exp_ins":56.14,
+            "ratio_exp_vot":97.22,
+            "resultats":[  
+                {  
+                    "tete":"Gérard PIEL",
+                    "label":"FDG",
+                    "liste":"LA GAUCHE ET L'ECOLOGIE POUR ANTIBES JUAN LES PINS",
+                    "nb_voix":44,
+                    "ratio_inscrits":5.05,
+                    "ratio_exprimes":9
+                },
+                {  
+                    "tete":"Michèle MURATORE",
+                    "label":"PS",
+                    "liste":"LA GAUCHE UNIE SOLIDAIRE ET ECOLOGIQUE",
+                    "nb_voix":38,
+                    "ratio_inscrits":4.36,
+                    "ratio_exprimes":7.77
+                },
+                {  
+                    "tete":"Jean LEONETTI",
+                    "label":"UMP",
+                    "liste":"ENSEMBLE POUR ANTIBES JUAN LES PINS",
+                    "nb_voix":296,
+                    "ratio_inscrits":33.98,
+                    "ratio_exprimes":60.53
+                },
+                {  
+                    "tete":"Lionel TIVOLI",
+                    "label":"FN",
+                    "liste":"RASSEMBLEMENT BLEU MARINE POUR ANTIBES",
+                    "nb_voix":111,
+                    "ratio_inscrits":12.74,
+                    "ratio_exprimes":22.7
+                }
+            ]
+        },
+        {  
+            "bv_id":null,
+            "old_bv_id":213,
+            "inscrits":917,
+            "abstentions":386,
+            "ratio_abs_ins":42.09,
+            "votants":531,
+            "ratio_vot_ins":57.91,
+            "blancs":22,
+            "ratio_blanc_ins":2.4,
+            "ratio_blanc_vot":4.14,
+            "exprimes":509,
+            "ratio_exp_ins":55.51,
+            "ratio_exp_vot":95.86,
+            "resultats":[  
+                {  
+                    "tete":"Gérard PIEL",
+                    "label":"FDG",
+                    "liste":"LA GAUCHE ET L'ECOLOGIE POUR ANTIBES JUAN LES PINS",
+                    "nb_voix":36,
+                    "ratio_inscrits":3.93,
+                    "ratio_exprimes":7.07
+                },
+                {  
+                    "tete":"Michèle MURATORE",
+                    "label":"PS",
+                    "liste":"LA GAUCHE UNIE SOLIDAIRE ET ECOLOGIQUE",
+                    "nb_voix":46,
+                    "ratio_inscrits":5.02,
+                    "ratio_exprimes":9.04
+                },
+                {  
+                    "tete":"Jean LEONETTI",
+                    "label":"UMP",
+                    "liste":"ENSEMBLE POUR ANTIBES JUAN LES PINS",
+                    "nb_voix":314,
+                    "ratio_inscrits":34.24,
+                    "ratio_exprimes":61.69
+                },
+                {  
+                    "tete":"Lionel TIVOLI",
+                    "label":"FN",
+                    "liste":"RASSEMBLEMENT BLEU MARINE POUR ANTIBES",
+                    "nb_voix":113,
+                    "ratio_inscrits":12.32,
+                    "ratio_exprimes":22.2
+                }
+            ]
+        },
+        {  
+            "bv_id":null,
+            "old_bv_id":214,
+            "inscrits":719,
+            "abstentions":299,
+            "ratio_abs_ins":41.59,
+            "votants":420,
+            "ratio_vot_ins":58.41,
+            "blancs":19,
+            "ratio_blanc_ins":2.64,
+            "ratio_blanc_vot":4.52,
+            "exprimes":401,
+            "ratio_exp_ins":55.77,
+            "ratio_exp_vot":95.48,
+            "resultats":[  
+                {  
+                    "tete":"Gérard PIEL",
+                    "label":"FDG",
+                    "liste":"LA GAUCHE ET L'ECOLOGIE POUR ANTIBES JUAN LES PINS",
+                    "nb_voix":35,
+                    "ratio_inscrits":4.87,
+                    "ratio_exprimes":8.73
+                },
+                {  
+                    "tete":"Michèle MURATORE",
+                    "label":"PS",
+                    "liste":"LA GAUCHE UNIE SOLIDAIRE ET ECOLOGIQUE",
+                    "nb_voix":49,
+                    "ratio_inscrits":6.82,
+                    "ratio_exprimes":12.22
+                },
+                {  
+                    "tete":"Jean LEONETTI",
+                    "label":"UMP",
+                    "liste":"ENSEMBLE POUR ANTIBES JUAN LES PINS",
+                    "nb_voix":235,
+                    "ratio_inscrits":32.68,
+                    "ratio_exprimes":58.6
+                },
+                {  
+                    "tete":"Lionel TIVOLI",
+                    "label":"FN",
+                    "liste":"RASSEMBLEMENT BLEU MARINE POUR ANTIBES",
+                    "nb_voix":82,
+                    "ratio_inscrits":11.4,
+                    "ratio_exprimes":20.45
+                }
+            ]
+        },
+        {  
+            "bv_id":403,
+            "old_bv_id":215,
+            "inscrits":631,
+            "abstentions":308,
+            "ratio_abs_ins":48.81,
+            "votants":323,
+            "ratio_vot_ins":51.19,
+            "blancs":18,
+            "ratio_blanc_ins":2.85,
+            "ratio_blanc_vot":5.57,
+            "exprimes":305,
+            "ratio_exp_ins":48.34,
+            "ratio_exp_vot":94.43,
+            "resultats":[  
+                {  
+                    "tete":"Gérard PIEL",
+                    "label":"FDG",
+                    "liste":"LA GAUCHE ET L'ECOLOGIE POUR ANTIBES JUAN LES PINS",
+                    "nb_voix":37,
+                    "ratio_inscrits":5.86,
+                    "ratio_exprimes":12.13
+                },
+                {  
+                    "tete":"Michèle MURATORE",
+                    "label":"PS",
+                    "liste":"LA GAUCHE UNIE SOLIDAIRE ET ECOLOGIQUE",
+                    "nb_voix":16,
+                    "ratio_inscrits":2.54,
+                    "ratio_exprimes":5.25
+                },
+                {  
+                    "tete":"Jean LEONETTI",
+                    "label":"UMP",
+                    "liste":"ENSEMBLE POUR ANTIBES JUAN LES PINS",
+                    "nb_voix":192,
+                    "ratio_inscrits":30.43,
+                    "ratio_exprimes":62.95
+                },
+                {  
+                    "tete":"Lionel TIVOLI",
+                    "label":"FN",
+                    "liste":"RASSEMBLEMENT BLEU MARINE POUR ANTIBES",
+                    "nb_voix":60,
+                    "ratio_inscrits":9.51,
+                    "ratio_exprimes":19.67
+                }
+            ]
+        },
+        {  
+            "bv_id":null,
+            "old_bv_id":216,
+            "inscrits":939,
+            "abstentions":496,
+            "ratio_abs_ins":52.82,
+            "votants":443,
+            "ratio_vot_ins":47.18,
+            "blancs":10,
+            "ratio_blanc_ins":1.06,
+            "ratio_blanc_vot":2.26,
+            "exprimes":433,
+            "ratio_exp_ins":46.11,
+            "ratio_exp_vot":97.74,
+            "resultats":[  
+                {  
+                    "tete":"Gérard PIEL",
+                    "label":"FDG",
+                    "liste":"LA GAUCHE ET L'ECOLOGIE POUR ANTIBES JUAN LES PINS",
+                    "nb_voix":34,
+                    "ratio_inscrits":3.62,
+                    "ratio_exprimes":7.85
+                },
+                {  
+                    "tete":"Michèle MURATORE",
+                    "label":"PS",
+                    "liste":"LA GAUCHE UNIE SOLIDAIRE ET ECOLOGIQUE",
+                    "nb_voix":45,
+                    "ratio_inscrits":4.79,
+                    "ratio_exprimes":10.39
+                },
+                {  
+                    "tete":"Jean LEONETTI",
+                    "label":"UMP",
+                    "liste":"ENSEMBLE POUR ANTIBES JUAN LES PINS",
+                    "nb_voix":245,
+                    "ratio_inscrits":26.09,
+                    "ratio_exprimes":56.58
+                },
+                {  
+                    "tete":"Lionel TIVOLI",
+                    "label":"FN",
+                    "liste":"RASSEMBLEMENT BLEU MARINE POUR ANTIBES",
+                    "nb_voix":109,
+                    "ratio_inscrits":11.61,
+                    "ratio_exprimes":25.17
+                }
+            ]
+        },
+        {  
+            "bv_id":315,
+            "old_bv_id":217,
+            "inscrits":937,
+            "abstentions":392,
+            "ratio_abs_ins":41.84,
+            "votants":545,
+            "ratio_vot_ins":58.16,
+            "blancs":14,
+            "ratio_blanc_ins":1.49,
+            "ratio_blanc_vot":2.57,
+            "exprimes":531,
+            "ratio_exp_ins":56.67,
+            "ratio_exp_vot":97.43,
+            "resultats":[  
+                {  
+                    "tete":"Gérard PIEL",
+                    "label":"FDG",
+                    "liste":"LA GAUCHE ET L'ECOLOGIE POUR ANTIBES JUAN LES PINS",
+                    "nb_voix":35,
+                    "ratio_inscrits":3.74,
+                    "ratio_exprimes":6.59
+                },
+                {  
+                    "tete":"Michèle MURATORE",
+                    "label":"PS",
+                    "liste":"LA GAUCHE UNIE SOLIDAIRE ET ECOLOGIQUE",
+                    "nb_voix":50,
+                    "ratio_inscrits":5.34,
+                    "ratio_exprimes":9.42
+                },
+                {  
+                    "tete":"Jean LEONETTI",
+                    "label":"UMP",
+                    "liste":"ENSEMBLE POUR ANTIBES JUAN LES PINS",
+                    "nb_voix":348,
+                    "ratio_inscrits":37.14,
+                    "ratio_exprimes":65.54
+                },
+                {  
+                    "tete":"Lionel TIVOLI",
+                    "label":"FN",
+                    "liste":"RASSEMBLEMENT BLEU MARINE POUR ANTIBES",
+                    "nb_voix":98,
+                    "ratio_inscrits":10.46,
+                    "ratio_exprimes":18.46
+                }
+            ]
+        },
+        {  
+            "bv_id":316,
+            "old_bv_id":218,
+            "inscrits":775,
+            "abstentions":353,
+            "ratio_abs_ins":45.55,
+            "votants":422,
+            "ratio_vot_ins":54.45,
+            "blancs":19,
+            "ratio_blanc_ins":2.45,
+            "ratio_blanc_vot":4.5,
+            "exprimes":403,
+            "ratio_exp_ins":52,
+            "ratio_exp_vot":95.5,
+            "resultats":[  
+                {  
+                    "tete":"Gérard PIEL",
+                    "label":"FDG",
+                    "liste":"LA GAUCHE ET L'ECOLOGIE POUR ANTIBES JUAN LES PINS",
+                    "nb_voix":21,
+                    "ratio_inscrits":2.71,
+                    "ratio_exprimes":5.21
+                },
+                {  
+                    "tete":"Michèle MURATORE",
+                    "label":"PS",
+                    "liste":"LA GAUCHE UNIE SOLIDAIRE ET ECOLOGIQUE",
+                    "nb_voix":35,
+                    "ratio_inscrits":4.52,
+                    "ratio_exprimes":8.68
+                },
+                {  
+                    "tete":"Jean LEONETTI",
+                    "label":"UMP",
+                    "liste":"ENSEMBLE POUR ANTIBES JUAN LES PINS",
+                    "nb_voix":249,
+                    "ratio_inscrits":32.13,
+                    "ratio_exprimes":61.79
+                },
+                {  
+                    "tete":"Lionel TIVOLI",
+                    "label":"FN",
+                    "liste":"RASSEMBLEMENT BLEU MARINE POUR ANTIBES",
+                    "nb_voix":98,
+                    "ratio_inscrits":12.65,
+                    "ratio_exprimes":24.32
+                }
+            ]
+        },
+        {  
+            "bv_id":312,
+            "old_bv_id":219,
+            "inscrits":1003,
+            "abstentions":442,
+            "ratio_abs_ins":44.07,
+            "votants":561,
+            "ratio_vot_ins":55.93,
+            "blancs":20,
+            "ratio_blanc_ins":1.99,
+            "ratio_blanc_vot":3.57,
+            "exprimes":541,
+            "ratio_exp_ins":53.94,
+            "ratio_exp_vot":96.43,
+            "resultats":[  
+                {  
+                    "tete":"Gérard PIEL",
+                    "label":"FDG",
+                    "liste":"LA GAUCHE ET L'ECOLOGIE POUR ANTIBES JUAN LES PINS",
+                    "nb_voix":44,
+                    "ratio_inscrits":4.39,
+                    "ratio_exprimes":8.13
+                },
+                {  
+                    "tete":"Michèle MURATORE",
+                    "label":"PS",
+                    "liste":"LA GAUCHE UNIE SOLIDAIRE ET ECOLOGIQUE",
+                    "nb_voix":52,
+                    "ratio_inscrits":5.18,
+                    "ratio_exprimes":9.61
+                },
+                {  
+                    "tete":"Jean LEONETTI",
+                    "label":"UMP",
+                    "liste":"ENSEMBLE POUR ANTIBES JUAN LES PINS",
+                    "nb_voix":342,
+                    "ratio_inscrits":34.1,
+                    "ratio_exprimes":63.22
+                },
+                {  
+                    "tete":"Lionel TIVOLI",
+                    "label":"FN",
+                    "liste":"RASSEMBLEMENT BLEU MARINE POUR ANTIBES",
+                    "nb_voix":103,
+                    "ratio_inscrits":10.27,
+                    "ratio_exprimes":19.04
+                }
+            ]
+        },
+        {  
+            "bv_id":318,
+            "old_bv_id":220,
+            "inscrits":629,
+            "abstentions":268,
+            "ratio_abs_ins":42.61,
+            "votants":361,
+            "ratio_vot_ins":57.39,
+            "blancs":24,
+            "ratio_blanc_ins":3.82,
+            "ratio_blanc_vot":6.65,
+            "exprimes":337,
+            "ratio_exp_ins":53.58,
+            "ratio_exp_vot":93.35,
+            "resultats":[  
+                {  
+                    "tete":"Gérard PIEL",
+                    "label":"FDG",
+                    "liste":"LA GAUCHE ET L'ECOLOGIE POUR ANTIBES JUAN LES PINS",
+                    "nb_voix":29,
+                    "ratio_inscrits":4.61,
+                    "ratio_exprimes":8.61
+                },
+                {  
+                    "tete":"Michèle MURATORE",
+                    "label":"PS",
+                    "liste":"LA GAUCHE UNIE SOLIDAIRE ET ECOLOGIQUE",
+                    "nb_voix":27,
+                    "ratio_inscrits":4.29,
+                    "ratio_exprimes":8.01
+                },
+                {  
+                    "tete":"Jean LEONETTI",
+                    "label":"UMP",
+                    "liste":"ENSEMBLE POUR ANTIBES JUAN LES PINS",
+                    "nb_voix":216,
+                    "ratio_inscrits":34.34,
+                    "ratio_exprimes":64.09
+                },
+                {  
+                    "tete":"Lionel TIVOLI",
+                    "label":"FN",
+                    "liste":"RASSEMBLEMENT BLEU MARINE POUR ANTIBES",
+                    "nb_voix":65,
+                    "ratio_inscrits":10.33,
+                    "ratio_exprimes":19.29
+                }
+            ]
+        },
+        {  
+            "bv_id":null,
+            "old_bv_id":221,
+            "inscrits":996,
+            "abstentions":424,
+            "ratio_abs_ins":42.57,
+            "votants":572,
+            "ratio_vot_ins":57.43,
+            "blancs":27,
+            "ratio_blanc_ins":2.71,
+            "ratio_blanc_vot":4.72,
+            "exprimes":545,
+            "ratio_exp_ins":54.72,
+            "ratio_exp_vot":95.28,
+            "resultats":[  
+                {  
+                    "tete":"Gérard PIEL",
+                    "label":"FDG",
+                    "liste":"LA GAUCHE ET L'ECOLOGIE POUR ANTIBES JUAN LES PINS",
+                    "nb_voix":44,
+                    "ratio_inscrits":4.42,
+                    "ratio_exprimes":8.07
+                },
+                {  
+                    "tete":"Michèle MURATORE",
+                    "label":"PS",
+                    "liste":"LA GAUCHE UNIE SOLIDAIRE ET ECOLOGIQUE",
+                    "nb_voix":42,
+                    "ratio_inscrits":4.22,
+                    "ratio_exprimes":7.71
+                },
+                {  
+                    "tete":"Jean LEONETTI",
+                    "label":"UMP",
+                    "liste":"ENSEMBLE POUR ANTIBES JUAN LES PINS",
+                    "nb_voix":355,
+                    "ratio_inscrits":35.64,
+                    "ratio_exprimes":65.14
+                },
+                {  
+                    "tete":"Lionel TIVOLI",
+                    "label":"FN",
+                    "liste":"RASSEMBLEMENT BLEU MARINE POUR ANTIBES",
+                    "nb_voix":104,
+                    "ratio_inscrits":10.44,
+                    "ratio_exprimes":19.08
+                }
+            ]
+        },
+        {  
+            "bv_id":null,
+            "old_bv_id":222,
+            "inscrits":806,
+            "abstentions":333,
+            "ratio_abs_ins":41.32,
+            "votants":473,
+            "ratio_vot_ins":58.68,
+            "blancs":16,
+            "ratio_blanc_ins":1.99,
+            "ratio_blanc_vot":3.38,
+            "exprimes":457,
+            "ratio_exp_ins":56.7,
+            "ratio_exp_vot":96.62,
+            "resultats":[  
+                {  
+                    "tete":"Gérard PIEL",
+                    "label":"FDG",
+                    "liste":"LA GAUCHE ET L'ECOLOGIE POUR ANTIBES JUAN LES PINS",
+                    "nb_voix":29,
+                    "ratio_inscrits":3.6,
+                    "ratio_exprimes":6.35
+                },
+                {  
+                    "tete":"Michèle MURATORE",
+                    "label":"PS",
+                    "liste":"LA GAUCHE UNIE SOLIDAIRE ET ECOLOGIQUE",
+                    "nb_voix":43,
+                    "ratio_inscrits":5.33,
+                    "ratio_exprimes":9.41
+                },
+                {  
+                    "tete":"Jean LEONETTI",
+                    "label":"UMP",
+                    "liste":"ENSEMBLE POUR ANTIBES JUAN LES PINS",
+                    "nb_voix":300,
+                    "ratio_inscrits":37.22,
+                    "ratio_exprimes":65.65
+                },
+                {  
+                    "tete":"Lionel TIVOLI",
+                    "label":"FN",
+                    "liste":"RASSEMBLEMENT BLEU MARINE POUR ANTIBES",
+                    "nb_voix":85,
+                    "ratio_inscrits":10.55,
+                    "ratio_exprimes":18.6
+                }
+            ]
+        },
+        {  
+            "bv_id":404,
+            "old_bv_id":223,
+            "inscrits":607,
+            "abstentions":251,
+            "ratio_abs_ins":41.35,
+            "votants":356,
+            "ratio_vot_ins":58.65,
+            "blancs":11,
+            "ratio_blanc_ins":1.81,
+            "ratio_blanc_vot":3.09,
+            "exprimes":345,
+            "ratio_exp_ins":56.84,
+            "ratio_exp_vot":96.91,
+            "resultats":[  
+                {  
+                    "tete":"Gérard PIEL",
+                    "label":"FDG",
+                    "liste":"LA GAUCHE ET L'ECOLOGIE POUR ANTIBES JUAN LES PINS",
+                    "nb_voix":30,
+                    "ratio_inscrits":4.94,
+                    "ratio_exprimes":8.7
+                },
+                {  
+                    "tete":"Michèle MURATORE",
+                    "label":"PS",
+                    "liste":"LA GAUCHE UNIE SOLIDAIRE ET ECOLOGIQUE",
+                    "nb_voix":35,
+                    "ratio_inscrits":5.77,
+                    "ratio_exprimes":10.14
+                },
+                {  
+                    "tete":"Jean LEONETTI",
+                    "label":"UMP",
+                    "liste":"ENSEMBLE POUR ANTIBES JUAN LES PINS",
+                    "nb_voix":204,
+                    "ratio_inscrits":33.61,
+                    "ratio_exprimes":59.13
+                },
+                {  
+                    "tete":"Lionel TIVOLI",
+                    "label":"FN",
+                    "liste":"RASSEMBLEMENT BLEU MARINE POUR ANTIBES",
+                    "nb_voix":76,
+                    "ratio_inscrits":12.52,
+                    "ratio_exprimes":22.03
+                }
+            ]
+        },
+        {  
+            "bv_id":null,
+            "old_bv_id":224,
+            "inscrits":994,
+            "abstentions":407,
+            "ratio_abs_ins":40.95,
+            "votants":587,
+            "ratio_vot_ins":59.05,
+            "blancs":19,
+            "ratio_blanc_ins":1.91,
+            "ratio_blanc_vot":3.24,
+            "exprimes":568,
+            "ratio_exp_ins":57.14,
+            "ratio_exp_vot":96.76,
+            "resultats":[  
+                {  
+                    "tete":"Gérard PIEL",
+                    "label":"FDG",
+                    "liste":"LA GAUCHE ET L'ECOLOGIE POUR ANTIBES JUAN LES PINS",
+                    "nb_voix":45,
+                    "ratio_inscrits":4.53,
+                    "ratio_exprimes":7.92
+                },
+                {  
+                    "tete":"Michèle MURATORE",
+                    "label":"PS",
+                    "liste":"LA GAUCHE UNIE SOLIDAIRE ET ECOLOGIQUE",
+                    "nb_voix":47,
+                    "ratio_inscrits":4.73,
+                    "ratio_exprimes":8.27
+                },
+                {  
+                    "tete":"Jean LEONETTI",
+                    "label":"UMP",
+                    "liste":"ENSEMBLE POUR ANTIBES JUAN LES PINS",
+                    "nb_voix":355,
+                    "ratio_inscrits":35.71,
+                    "ratio_exprimes":62.5
+                },
+                {  
+                    "tete":"Lionel TIVOLI",
+                    "label":"FN",
+                    "liste":"RASSEMBLEMENT BLEU MARINE POUR ANTIBES",
+                    "nb_voix":121,
+                    "ratio_inscrits":12.17,
+                    "ratio_exprimes":21.3
+                }
+            ]
+        },
+        {  
+            "bv_id":null,
+            "old_bv_id":225,
+            "inscrits":682,
+            "abstentions":319,
+            "ratio_abs_ins":46.77,
+            "votants":363,
+            "ratio_vot_ins":53.23,
+            "blancs":10,
+            "ratio_blanc_ins":1.47,
+            "ratio_blanc_vot":2.75,
+            "exprimes":353,
+            "ratio_exp_ins":51.76,
+            "ratio_exp_vot":97.25,
+            "resultats":[  
+                {  
+                    "tete":"Gérard PIEL",
+                    "label":"FDG",
+                    "liste":"LA GAUCHE ET L'ECOLOGIE POUR ANTIBES JUAN LES PINS",
+                    "nb_voix":47,
+                    "ratio_inscrits":6.89,
+                    "ratio_exprimes":13.31
+                },
+                {  
+                    "tete":"Michèle MURATORE",
+                    "label":"PS",
+                    "liste":"LA GAUCHE UNIE SOLIDAIRE ET ECOLOGIQUE",
+                    "nb_voix":31,
+                    "ratio_inscrits":4.55,
+                    "ratio_exprimes":8.78
+                },
+                {  
+                    "tete":"Jean LEONETTI",
+                    "label":"UMP",
+                    "liste":"ENSEMBLE POUR ANTIBES JUAN LES PINS",
+                    "nb_voix":203,
+                    "ratio_inscrits":29.77,
+                    "ratio_exprimes":57.51
+                },
+                {  
+                    "tete":"Lionel TIVOLI",
+                    "label":"FN",
+                    "liste":"RASSEMBLEMENT BLEU MARINE POUR ANTIBES",
+                    "nb_voix":72,
+                    "ratio_inscrits":10.56,
+                    "ratio_exprimes":20.4
+                }
+            ]
+        },
+        {  
+            "bv_id":101,
+            "old_bv_id":301,
+            "inscrits":1123,
+            "abstentions":517,
+            "ratio_abs_ins":46.04,
+            "votants":606,
+            "ratio_vot_ins":53.96,
+            "blancs":20,
+            "ratio_blanc_ins":1.78,
+            "ratio_blanc_vot":3.3,
+            "exprimes":586,
+            "ratio_exp_ins":52.18,
+            "ratio_exp_vot":96.7,
+            "resultats":[  
+                {  
+                    "tete":"Gérard PIEL",
+                    "label":"FDG",
+                    "liste":"LA GAUCHE ET L'ECOLOGIE POUR ANTIBES JUAN LES PINS",
+                    "nb_voix":41,
+                    "ratio_inscrits":3.65,
+                    "ratio_exprimes":7
+                },
+                {  
+                    "tete":"Michèle MURATORE",
+                    "label":"PS",
+                    "liste":"LA GAUCHE UNIE SOLIDAIRE ET ECOLOGIQUE",
+                    "nb_voix":41,
+                    "ratio_inscrits":3.65,
+                    "ratio_exprimes":7
+                },
+                {  
+                    "tete":"Jean LEONETTI",
+                    "label":"UMP",
+                    "liste":"ENSEMBLE POUR ANTIBES JUAN LES PINS",
+                    "nb_voix":346,
+                    "ratio_inscrits":30.81,
+                    "ratio_exprimes":59.04
+                },
+                {  
+                    "tete":"Lionel TIVOLI",
+                    "label":"FN",
+                    "liste":"RASSEMBLEMENT BLEU MARINE POUR ANTIBES",
+                    "nb_voix":158,
+                    "ratio_inscrits":14.07,
+                    "ratio_exprimes":26.96
+                }
+            ]
+        },
+        {  
+            "bv_id":102,
+            "old_bv_id":302,
+            "inscrits":1096,
+            "abstentions":497,
+            "ratio_abs_ins":45.35,
+            "votants":599,
+            "ratio_vot_ins":54.65,
+            "blancs":19,
+            "ratio_blanc_ins":1.73,
+            "ratio_blanc_vot":3.17,
+            "exprimes":580,
+            "ratio_exp_ins":52.92,
+            "ratio_exp_vot":96.83,
+            "resultats":[  
+                {  
+                    "tete":"Gérard PIEL",
+                    "label":"FDG",
+                    "liste":"LA GAUCHE ET L'ECOLOGIE POUR ANTIBES JUAN LES PINS",
+                    "nb_voix":20,
+                    "ratio_inscrits":1.82,
+                    "ratio_exprimes":3.45
+                },
+                {  
+                    "tete":"Michèle MURATORE",
+                    "label":"PS",
+                    "liste":"LA GAUCHE UNIE SOLIDAIRE ET ECOLOGIQUE",
+                    "nb_voix":39,
+                    "ratio_inscrits":3.56,
+                    "ratio_exprimes":6.72
+                },
+                {  
+                    "tete":"Jean LEONETTI",
+                    "label":"UMP",
+                    "liste":"ENSEMBLE POUR ANTIBES JUAN LES PINS",
+                    "nb_voix":389,
+                    "ratio_inscrits":35.49,
+                    "ratio_exprimes":67.07
+                },
+                {  
+                    "tete":"Lionel TIVOLI",
+                    "label":"FN",
+                    "liste":"RASSEMBLEMENT BLEU MARINE POUR ANTIBES",
+                    "nb_voix":132,
+                    "ratio_inscrits":12.04,
+                    "ratio_exprimes":22.76
+                }
+            ]
+        },
+        {  
+            "bv_id":103,
+            "old_bv_id":303,
+            "inscrits":1228,
+            "abstentions":642,
+            "ratio_abs_ins":52.28,
+            "votants":586,
+            "ratio_vot_ins":47.72,
+            "blancs":26,
+            "ratio_blanc_ins":2.12,
+            "ratio_blanc_vot":4.44,
+            "exprimes":560,
+            "ratio_exp_ins":45.6,
+            "ratio_exp_vot":95.56,
+            "resultats":[  
+                {  
+                    "tete":"Gérard PIEL",
+                    "label":"FDG",
+                    "liste":"LA GAUCHE ET L'ECOLOGIE POUR ANTIBES JUAN LES PINS",
+                    "nb_voix":32,
+                    "ratio_inscrits":2.61,
+                    "ratio_exprimes":5.71
+                },
+                {  
+                    "tete":"Michèle MURATORE",
+                    "label":"PS",
+                    "liste":"LA GAUCHE UNIE SOLIDAIRE ET ECOLOGIQUE",
+                    "nb_voix":52,
+                    "ratio_inscrits":4.23,
+                    "ratio_exprimes":9.29
+                },
+                {  
+                    "tete":"Jean LEONETTI",
+                    "label":"UMP",
+                    "liste":"ENSEMBLE POUR ANTIBES JUAN LES PINS",
+                    "nb_voix":330,
+                    "ratio_inscrits":26.87,
+                    "ratio_exprimes":58.93
+                },
+                {  
+                    "tete":"Lionel TIVOLI",
+                    "label":"FN",
+                    "liste":"RASSEMBLEMENT BLEU MARINE POUR ANTIBES",
+                    "nb_voix":146,
+                    "ratio_inscrits":11.89,
+                    "ratio_exprimes":26.07
+                }
+            ]
+        },
+        {  
+            "bv_id":null,
+            "old_bv_id":304,
+            "inscrits":1028,
+            "abstentions":423,
+            "ratio_abs_ins":41.15,
+            "votants":605,
+            "ratio_vot_ins":58.85,
+            "blancs":21,
+            "ratio_blanc_ins":2.04,
+            "ratio_blanc_vot":3.47,
+            "exprimes":584,
+            "ratio_exp_ins":56.81,
+            "ratio_exp_vot":96.53,
+            "resultats":[  
+                {  
+                    "tete":"Gérard PIEL",
+                    "label":"FDG",
+                    "liste":"LA GAUCHE ET L'ECOLOGIE POUR ANTIBES JUAN LES PINS",
+                    "nb_voix":21,
+                    "ratio_inscrits":2.04,
+                    "ratio_exprimes":3.6
+                },
+                {  
+                    "tete":"Michèle MURATORE",
+                    "label":"PS",
+                    "liste":"LA GAUCHE UNIE SOLIDAIRE ET ECOLOGIQUE",
+                    "nb_voix":33,
+                    "ratio_inscrits":3.21,
+                    "ratio_exprimes":5.65
+                },
+                {  
+                    "tete":"Jean LEONETTI",
+                    "label":"UMP",
+                    "liste":"ENSEMBLE POUR ANTIBES JUAN LES PINS",
+                    "nb_voix":414,
+                    "ratio_inscrits":40.27,
+                    "ratio_exprimes":70.89
+                },
+                {  
+                    "tete":"Lionel TIVOLI",
+                    "label":"FN",
+                    "liste":"RASSEMBLEMENT BLEU MARINE POUR ANTIBES",
+                    "nb_voix":116,
+                    "ratio_inscrits":11.28,
+                    "ratio_exprimes":19.86
+                }
+            ]
+        },
+        {  
+            "bv_id":null,
+            "old_bv_id":305,
+            "inscrits":877,
+            "abstentions":351,
+            "ratio_abs_ins":40.02,
+            "votants":526,
+            "ratio_vot_ins":59.98,
+            "blancs":13,
+            "ratio_blanc_ins":1.48,
+            "ratio_blanc_vot":2.47,
+            "exprimes":513,
+            "ratio_exp_ins":58.49,
+            "ratio_exp_vot":97.53,
+            "resultats":[  
+                {  
+                    "tete":"Gérard PIEL",
+                    "label":"FDG",
+                    "liste":"LA GAUCHE ET L'ECOLOGIE POUR ANTIBES JUAN LES PINS",
+                    "nb_voix":26,
+                    "ratio_inscrits":2.96,
+                    "ratio_exprimes":5.07
+                },
+                {  
+                    "tete":"Michèle MURATORE",
+                    "label":"PS",
+                    "liste":"LA GAUCHE UNIE SOLIDAIRE ET ECOLOGIQUE",
+                    "nb_voix":51,
+                    "ratio_inscrits":5.82,
+                    "ratio_exprimes":9.94
+                },
+                {  
+                    "tete":"Jean LEONETTI",
+                    "label":"UMP",
+                    "liste":"ENSEMBLE POUR ANTIBES JUAN LES PINS",
+                    "nb_voix":344,
+                    "ratio_inscrits":39.22,
+                    "ratio_exprimes":67.06
+                },
+                {  
+                    "tete":"Lionel TIVOLI",
+                    "label":"FN",
+                    "liste":"RASSEMBLEMENT BLEU MARINE POUR ANTIBES",
+                    "nb_voix":92,
+                    "ratio_inscrits":10.49,
+                    "ratio_exprimes":17.93
+                }
+            ]
+        },
+        {  
+            "bv_id":null,
+            "old_bv_id":306,
+            "inscrits":1080,
+            "abstentions":483,
+            "ratio_abs_ins":44.72,
+            "votants":597,
+            "ratio_vot_ins":55.28,
+            "blancs":16,
+            "ratio_blanc_ins":1.48,
+            "ratio_blanc_vot":2.68,
+            "exprimes":581,
+            "ratio_exp_ins":53.8,
+            "ratio_exp_vot":97.32,
+            "resultats":[  
+                {  
+                    "tete":"Gérard PIEL",
+                    "label":"FDG",
+                    "liste":"LA GAUCHE ET L'ECOLOGIE POUR ANTIBES JUAN LES PINS",
+                    "nb_voix":38,
+                    "ratio_inscrits":3.52,
+                    "ratio_exprimes":6.54
+                },
+                {  
+                    "tete":"Michèle MURATORE",
+                    "label":"PS",
+                    "liste":"LA GAUCHE UNIE SOLIDAIRE ET ECOLOGIQUE",
+                    "nb_voix":58,
+                    "ratio_inscrits":5.37,
+                    "ratio_exprimes":9.98
+                },
+                {  
+                    "tete":"Jean LEONETTI",
+                    "label":"UMP",
+                    "liste":"ENSEMBLE POUR ANTIBES JUAN LES PINS",
+                    "nb_voix":374,
+                    "ratio_inscrits":34.63,
+                    "ratio_exprimes":64.37
+                },
+                {  
+                    "tete":"Lionel TIVOLI",
+                    "label":"FN",
+                    "liste":"RASSEMBLEMENT BLEU MARINE POUR ANTIBES",
+                    "nb_voix":111,
+                    "ratio_inscrits":10.28,
+                    "ratio_exprimes":19.1
+                }
+            ]
+        },
+        {  
+            "bv_id":null,
+            "old_bv_id":307,
+            "inscrits":846,
+            "abstentions":351,
+            "ratio_abs_ins":41.49,
+            "votants":495,
+            "ratio_vot_ins":58.51,
+            "blancs":15,
+            "ratio_blanc_ins":1.77,
+            "ratio_blanc_vot":3.03,
+            "exprimes":480,
+            "ratio_exp_ins":56.74,
+            "ratio_exp_vot":96.97,
+            "resultats":[  
+                {  
+                    "tete":"Gérard PIEL",
+                    "label":"FDG",
+                    "liste":"LA GAUCHE ET L'ECOLOGIE POUR ANTIBES JUAN LES PINS",
+                    "nb_voix":29,
+                    "ratio_inscrits":3.43,
+                    "ratio_exprimes":6.04
+                },
+                {  
+                    "tete":"Michèle MURATORE",
+                    "label":"PS",
+                    "liste":"LA GAUCHE UNIE SOLIDAIRE ET ECOLOGIQUE",
+                    "nb_voix":51,
+                    "ratio_inscrits":6.03,
+                    "ratio_exprimes":10.63
+                },
+                {  
+                    "tete":"Jean LEONETTI",
+                    "label":"UMP",
+                    "liste":"ENSEMBLE POUR ANTIBES JUAN LES PINS",
+                    "nb_voix":299,
+                    "ratio_inscrits":35.34,
+                    "ratio_exprimes":62.29
+                },
+                {  
+                    "tete":"Lionel TIVOLI",
+                    "label":"FN",
+                    "liste":"RASSEMBLEMENT BLEU MARINE POUR ANTIBES",
+                    "nb_voix":101,
+                    "ratio_inscrits":11.94,
+                    "ratio_exprimes":21.04
+                }
+            ]
+        },
+        {  
+            "bv_id":401,
+            "old_bv_id":308,
+            "inscrits":897,
+            "abstentions":372,
+            "ratio_abs_ins":41.47,
+            "votants":525,
+            "ratio_vot_ins":58.53,
+            "blancs":22,
+            "ratio_blanc_ins":2.45,
+            "ratio_blanc_vot":4.19,
+            "exprimes":503,
+            "ratio_exp_ins":56.08,
+            "ratio_exp_vot":95.81,
+            "resultats":[  
+                {  
+                    "tete":"Gérard PIEL",
+                    "label":"FDG",
+                    "liste":"LA GAUCHE ET L'ECOLOGIE POUR ANTIBES JUAN LES PINS",
+                    "nb_voix":72,
+                    "ratio_inscrits":8.03,
+                    "ratio_exprimes":14.31
+                },
+                {  
+                    "tete":"Michèle MURATORE",
+                    "label":"PS",
+                    "liste":"LA GAUCHE UNIE SOLIDAIRE ET ECOLOGIQUE",
+                    "nb_voix":51,
+                    "ratio_inscrits":5.69,
+                    "ratio_exprimes":10.14
+                },
+                {  
+                    "tete":"Jean LEONETTI",
+                    "label":"UMP",
+                    "liste":"ENSEMBLE POUR ANTIBES JUAN LES PINS",
+                    "nb_voix":292,
+                    "ratio_inscrits":32.55,
+                    "ratio_exprimes":58.05
+                },
+                {  
+                    "tete":"Lionel TIVOLI",
+                    "label":"FN",
+                    "liste":"RASSEMBLEMENT BLEU MARINE POUR ANTIBES",
+                    "nb_voix":88,
+                    "ratio_inscrits":9.81,
+                    "ratio_exprimes":17.5
+                }
+            ]
+        },
+        {  
+            "bv_id":402,
+            "old_bv_id":309,
+            "inscrits":882,
+            "abstentions":415,
+            "ratio_abs_ins":47.05,
+            "votants":467,
+            "ratio_vot_ins":52.95,
+            "blancs":24,
+            "ratio_blanc_ins":2.72,
+            "ratio_blanc_vot":5.14,
+            "exprimes":443,
+            "ratio_exp_ins":50.23,
+            "ratio_exp_vot":94.86,
+            "resultats":[  
+                {  
+                    "tete":"Gérard PIEL",
+                    "label":"FDG",
+                    "liste":"LA GAUCHE ET L'ECOLOGIE POUR ANTIBES JUAN LES PINS",
+                    "nb_voix":34,
+                    "ratio_inscrits":3.85,
+                    "ratio_exprimes":7.67
+                },
+                {  
+                    "tete":"Michèle MURATORE",
+                    "label":"PS",
+                    "liste":"LA GAUCHE UNIE SOLIDAIRE ET ECOLOGIQUE",
+                    "nb_voix":63,
+                    "ratio_inscrits":7.14,
+                    "ratio_exprimes":14.22
+                },
+                {  
+                    "tete":"Jean LEONETTI",
+                    "label":"UMP",
+                    "liste":"ENSEMBLE POUR ANTIBES JUAN LES PINS",
+                    "nb_voix":277,
+                    "ratio_inscrits":31.41,
+                    "ratio_exprimes":62.53
+                },
+                {  
+                    "tete":"Lionel TIVOLI",
+                    "label":"FN",
+                    "liste":"RASSEMBLEMENT BLEU MARINE POUR ANTIBES",
+                    "nb_voix":69,
+                    "ratio_inscrits":7.82,
+                    "ratio_exprimes":15.58
+                }
+            ]
+        },
+        {  
+            "bv_id":null,
+            "old_bv_id":310,
+            "inscrits":1176,
+            "abstentions":510,
+            "ratio_abs_ins":43.37,
+            "votants":666,
+            "ratio_vot_ins":56.63,
+            "blancs":19,
+            "ratio_blanc_ins":1.62,
+            "ratio_blanc_vot":2.85,
+            "exprimes":647,
+            "ratio_exp_ins":55.02,
+            "ratio_exp_vot":97.15,
+            "resultats":[  
+                {  
+                    "tete":"Gérard PIEL",
+                    "label":"FDG",
+                    "liste":"LA GAUCHE ET L'ECOLOGIE POUR ANTIBES JUAN LES PINS",
+                    "nb_voix":34,
+                    "ratio_inscrits":2.89,
+                    "ratio_exprimes":5.26
+                },
+                {  
+                    "tete":"Michèle MURATORE",
+                    "label":"PS",
+                    "liste":"LA GAUCHE UNIE SOLIDAIRE ET ECOLOGIQUE",
+                    "nb_voix":67,
+                    "ratio_inscrits":5.7,
+                    "ratio_exprimes":10.36
+                },
+                {  
+                    "tete":"Jean LEONETTI",
+                    "label":"UMP",
+                    "liste":"ENSEMBLE POUR ANTIBES JUAN LES PINS",
+                    "nb_voix":410,
+                    "ratio_inscrits":34.86,
+                    "ratio_exprimes":63.37
+                },
+                {  
+                    "tete":"Lionel TIVOLI",
+                    "label":"FN",
+                    "liste":"RASSEMBLEMENT BLEU MARINE POUR ANTIBES",
+                    "nb_voix":136,
+                    "ratio_inscrits":11.56,
+                    "ratio_exprimes":21.02
+                }
+            ]
+        },
+        {  
+            "bv_id":null,
+            "old_bv_id":311,
+            "inscrits":489,
+            "abstentions":190,
+            "ratio_abs_ins":38.85,
+            "votants":299,
+            "ratio_vot_ins":61.15,
+            "blancs":11,
+            "ratio_blanc_ins":2.25,
+            "ratio_blanc_vot":3.68,
+            "exprimes":288,
+            "ratio_exp_ins":58.9,
+            "ratio_exp_vot":96.32,
+            "resultats":[  
+                {  
+                    "tete":"Gérard PIEL",
+                    "label":"FDG",
+                    "liste":"LA GAUCHE ET L'ECOLOGIE POUR ANTIBES JUAN LES PINS",
+                    "nb_voix":13,
+                    "ratio_inscrits":2.66,
+                    "ratio_exprimes":4.51
+                },
+                {  
+                    "tete":"Michèle MURATORE",
+                    "label":"PS",
+                    "liste":"LA GAUCHE UNIE SOLIDAIRE ET ECOLOGIQUE",
+                    "nb_voix":28,
+                    "ratio_inscrits":5.73,
+                    "ratio_exprimes":9.72
+                },
+                {  
+                    "tete":"Jean LEONETTI",
+                    "label":"UMP",
+                    "liste":"ENSEMBLE POUR ANTIBES JUAN LES PINS",
+                    "nb_voix":204,
+                    "ratio_inscrits":41.72,
+                    "ratio_exprimes":70.83
+                },
+                {  
+                    "tete":"Lionel TIVOLI",
+                    "label":"FN",
+                    "liste":"RASSEMBLEMENT BLEU MARINE POUR ANTIBES",
+                    "nb_voix":43,
+                    "ratio_inscrits":8.79,
+                    "ratio_exprimes":14.93
+                }
+            ]
+        },
+        {  
+            "bv_id":null,
+            "old_bv_id":312,
+            "inscrits":822,
+            "abstentions":344,
+            "ratio_abs_ins":41.85,
+            "votants":478,
+            "ratio_vot_ins":58.15,
+            "blancs":20,
+            "ratio_blanc_ins":2.43,
+            "ratio_blanc_vot":4.18,
+            "exprimes":458,
+            "ratio_exp_ins":55.72,
+            "ratio_exp_vot":95.82,
+            "resultats":[  
+                {  
+                    "tete":"Gérard PIEL",
+                    "label":"FDG",
+                    "liste":"LA GAUCHE ET L'ECOLOGIE POUR ANTIBES JUAN LES PINS",
+                    "nb_voix":27,
+                    "ratio_inscrits":3.28,
+                    "ratio_exprimes":5.9
+                },
+                {  
+                    "tete":"Michèle MURATORE",
+                    "label":"PS",
+                    "liste":"LA GAUCHE UNIE SOLIDAIRE ET ECOLOGIQUE",
+                    "nb_voix":28,
+                    "ratio_inscrits":3.41,
+                    "ratio_exprimes":6.11
+                },
+                {  
+                    "tete":"Jean LEONETTI",
+                    "label":"UMP",
+                    "liste":"ENSEMBLE POUR ANTIBES JUAN LES PINS",
+                    "nb_voix":314,
+                    "ratio_inscrits":38.2,
+                    "ratio_exprimes":68.56
+                },
+                {  
+                    "tete":"Lionel TIVOLI",
+                    "label":"FN",
+                    "liste":"RASSEMBLEMENT BLEU MARINE POUR ANTIBES",
+                    "nb_voix":89,
+                    "ratio_inscrits":10.83,
+                    "ratio_exprimes":19.43
+                }
+            ]
+        },
+        {  
+            "bv_id":null,
+            "old_bv_id":313,
+            "inscrits":631,
+            "abstentions":286,
+            "ratio_abs_ins":45.32,
+            "votants":345,
+            "ratio_vot_ins":54.68,
+            "blancs":7,
+            "ratio_blanc_ins":1.11,
+            "ratio_blanc_vot":2.03,
+            "exprimes":338,
+            "ratio_exp_ins":53.57,
+            "ratio_exp_vot":97.97,
+            "resultats":[  
+                {  
+                    "tete":"Gérard PIEL",
+                    "label":"FDG",
+                    "liste":"LA GAUCHE ET L'ECOLOGIE POUR ANTIBES JUAN LES PINS",
+                    "nb_voix":18,
+                    "ratio_inscrits":2.85,
+                    "ratio_exprimes":5.33
+                },
+                {  
+                    "tete":"Michèle MURATORE",
+                    "label":"PS",
+                    "liste":"LA GAUCHE UNIE SOLIDAIRE ET ECOLOGIQUE",
+                    "nb_voix":29,
+                    "ratio_inscrits":4.6,
+                    "ratio_exprimes":8.58
+                },
+                {  
+                    "tete":"Jean LEONETTI",
+                    "label":"UMP",
+                    "liste":"ENSEMBLE POUR ANTIBES JUAN LES PINS",
+                    "nb_voix":217,
+                    "ratio_inscrits":34.39,
+                    "ratio_exprimes":64.2
+                },
+                {  
+                    "tete":"Lionel TIVOLI",
+                    "label":"FN",
+                    "liste":"RASSEMBLEMENT BLEU MARINE POUR ANTIBES",
+                    "nb_voix":74,
+                    "ratio_inscrits":11.73,
+                    "ratio_exprimes":21.89
+                }
+            ]
+        }
+    ]
+}
