@@ -4,7 +4,7 @@ var labelFocus;
 var munip2014JSON;
 var depar2015JSON;
 var loadedElectionResult;
-var isEvo;
+var isEvo = false;
 var maxScorePerLabel = {};
 
 function initMap()
@@ -12,6 +12,9 @@ function initMap()
     // --- read focused label variable ---
     labelFocus = "FDG";
     //console.log(labelFocus);
+    
+    // --- display color scale ---
+    displayColorScale( getMaxScore() );
 
     // --- initial map settings ---
     map = new google.maps.Map(document.getElementById('map'),
@@ -193,12 +196,14 @@ function changeFocus(radio)
 {
     console.log("change focus from " + labelFocus + " to " + radio.value);
     labelFocus = radio.value;
+    if ( !isEvo)        displayColorScale( getMaxScore() );
     colorBV(loadedElectionResult);
 }
 
 function setMunicipales2014(button)
 {
     isEvo = false;
+    displayColorScale( getMaxScore() );
     setSlider(!isEvo);
     setButtonClicked(button);
     election="municipales_2014";
@@ -208,6 +213,7 @@ function setMunicipales2014(button)
 function setDepartementales2015(button)
 {
     isEvo = false;
+    displayColorScale( getMaxScore() );
     setSlider(!isEvo);
     setButtonClicked(button);
     election="departementales_2015";
@@ -217,6 +223,7 @@ function setDepartementales2015(button)
 function setEvoMun14Dep15(button)
 {
     isEvo = true;
+    displayColorScaleEvo();
     setSlider(!isEvo);
     setButtonClicked(button);
     election="evo_mun14_dep15";
@@ -265,7 +272,7 @@ function writeLabelList(labelList)
         input.type = "radio";
         input.id = "label";
         input.name = "labelFocus";
-        input.onclick = function() { changeFocus(this); }
+        input.onclick = function() { changeFocus(this); };
         input.value = label;
         if ( label === labelFocus )     input.checked = true;
         // console.log(plabel);
@@ -322,5 +329,56 @@ function colorWithNewScale(newValue)
 {
     document.getElementById("slider").value=newValue;
     document.getElementById("sliderValue").value=newValue;
+    displayColorScale(newValue);
     colorBV();
+}
+
+function displayColorScale(newMax)
+{
+    var scalediv = document.getElementById("colorscale");
+    // --- first remove all elements in div ---
+    while (scalediv.hasChildNodes())     {   scalediv.removeChild(scalediv.lastChild); }
+    
+    // --- for each percentile, add a span with its corresponding background color ---
+    for ( index = 0 ; index < 10 ; ++index )
+    {
+        var step = (newMax*index/10);
+        scalediv.appendChild( generateScaleColorPercentile(step, labelFocus, false) );
+    }
+    
+    // --- also add numeric milestones ---
+    scalediv.appendChild(generateScaleMilestones(0, "domain-0"));
+    scalediv.appendChild(generateScaleMilestones(calculateMilestones(10, newMax), "domain-10"));
+    scalediv.appendChild(generateScaleMilestones(calculateMilestones(20, newMax), "domain-20"));
+    scalediv.appendChild(generateScaleMilestones(calculateMilestones(30, newMax), "domain-30"));
+    scalediv.appendChild(generateScaleMilestones(calculateMilestones(40, newMax), "domain-40"));
+    scalediv.appendChild(generateScaleMilestones(calculateMilestones(50, newMax), "domain-50"));
+    scalediv.appendChild(generateScaleMilestones(calculateMilestones(60, newMax), "domain-60"));
+    scalediv.appendChild(generateScaleMilestones(calculateMilestones(70, newMax), "domain-70"));
+    scalediv.appendChild(generateScaleMilestones(calculateMilestones(80, newMax), "domain-80"));
+    scalediv.appendChild(generateScaleMilestones(calculateMilestones(90, newMax), "domain-90"));
+    scalediv.appendChild(generateScaleMilestones(100, "domain-100"));
+}
+
+function displayColorScaleEvo()
+{
+    var scalediv = document.getElementById("colorscale");
+    // --- first remove all elements in div ---
+    while (scalediv.hasChildNodes())     {   scalediv.removeChild(scalediv.lastChild); }
+    
+    // --- for each percentile, add a span with its corresponding background color ---
+    for ( index = 0 ; index < 12 ; ++index )
+    {
+        var step = ( (60*index/12) - 30 );
+        scalediv.appendChild( generateScaleColorPercentile(step, labelFocus, true) );
+    }
+    
+    // --- also add numeric milestones ---
+    scalediv.appendChild(generateScaleMilestones(-30, "domain-0"));
+    scalediv.appendChild(generateScaleMilestones(-20, "domain-17"));
+    scalediv.appendChild(generateScaleMilestones(-10, "domain-33"));
+    scalediv.appendChild(generateScaleMilestones(  0, "domain-50"));
+    scalediv.appendChild(generateScaleMilestones( 10, "domain-66"));
+    scalediv.appendChild(generateScaleMilestones( 20, "domain-83"));
+    scalediv.appendChild(generateScaleMilestones( 30, "domain-100"));
 }

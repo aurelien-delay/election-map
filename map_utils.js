@@ -81,14 +81,14 @@ function getBureauFromPolygon(feature, electionResult)
     }
 }
 
-function getMaxScore(label)
+function getMaxScore()
 {
     return document.getElementById("slider").value;
 }
 
 function getColorFromScore(label, score)
 {
-    var max = getMaxScore(label);
+    var max = getMaxScore();
     f = chroma.scale(['white', getColorForLabel(label)]).domain([0, max]).classes(10);
     var ocolor = f(score).hex();
     //console.log(score + " : " + ocolor);
@@ -97,7 +97,7 @@ function getColorFromScore(label, score)
 
 function getColorFromEvoScore(score)
 {
-    f = chroma.scale(['red', 'white', 'green']).domain([-25,0,25]).classes(6);
+    f = chroma.scale(['red', 'white', 'green']).domain([-30,0,30]).classes(12);
     var ocolor = f(score).hex();
     //console.log(score + " : " + ocolor);
     return ocolor;
@@ -206,4 +206,31 @@ function setSlider(sliderActivated)
         document.getElementById("sliderValue").disabled =true;
         document.getElementById("sliderColorScale").className ="sliderColorScaleDisabled";
     }
+}
+
+function generateScaleColorPercentile(index, label, isEvo)
+{
+    var spanoutput = document.createElement("span");
+    spanoutput.className = "percentile";
+    var color;
+    if ( isEvo )        color = getColorFromEvoScore(index);
+    else                color = getColorFromScore(label, index);
+    console.log(isEvo, color);
+    spanoutput.style.backgroundColor = color;
+    var width = ( isEvo ? (100/12) : 10 );
+    spanoutput.style.width = width+"%";
+    return spanoutput;
+}
+
+function generateScaleMilestones(number, cssclass)
+{
+    var spanoutput = document.createElement("span");
+    spanoutput.className = cssclass;
+    spanoutput.appendChild(document.createTextNode(number));
+    return spanoutput;
+}
+
+function calculateMilestones(step, max)
+{
+    return Math.round( step*max/100 );
 }
