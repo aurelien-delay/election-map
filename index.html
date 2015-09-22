@@ -26,19 +26,23 @@
     </script>
   </head>
   <body>
-    <div id="map"></div>
-    <div id="info-box"></div>
-    <div id="election-buttons">
-        <button type="button" id="mun2014"          class="elecButton" onclick="setMunicipales2014(this)"       ><p>municipales</p><p>2014</p></button>
-        <button type="button" id="evoMun15Dep15"    class="elecButton" onclick="setEvoMun14Dep15(this)"         ><img class="trend" src="android-trending-up-512px.svg" ></button>        
-        <button type="button" id="dep2015"          class="elecButton" onclick="setDepartementales2015(this)"   ><p>departementales</p><p>2015</p></button>
-    </div>
-    <div id="colorscale">
-    </div>
-    <div id="sliderColorScale" class="sliderColorScale">
-        <p> Echelle de couleur : </p>
-        <input id="slider" type="range" min="1" max="100" value="25" onchange="colorWithNewScale(this.value)" />
-        <input id="sliderValue" type="text" value="25" onkeyup="colorWithNewScale(this.value)" />
+    <div id="container">
+        <div id="map"></div>
+        <div id="info-box"></div>
+        <div id="election-buttons">
+            <button type="button" id="mun2014"          class="elecButton" onclick="setMunicipales2014(this)"       ><p>municipales</p><p>2014</p></button>
+            <button type="button" id="evoMun15Dep15"    class="elecButton" onclick="setEvoMun14Dep15(this)"         ><img class="trend" src="android-trending-up-512px.svg" ></button>        
+            <button type="button" id="dep2015"          class="elecButton" onclick="setDepartementales2015(this)"   ><p>departementales</p><p>2015</p></button>
+        </div>
+        <div id="colorscale">
+            <div id="scalecontainer" >
+            </div>
+        </div>
+        <div id="sliderColorScale" class="sliderColorScale">
+            <p> Echelle de couleur : </p>
+            <input id="slider" type="range" min="1" max="100" value="25" onchange="colorWithNewScale(this.value)" />
+            <input id="sliderValue" type="text" value="25" onkeyup="colorWithNewScale(this.value)" />
+        </div>
     </div>
     
     

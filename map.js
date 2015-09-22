@@ -335,7 +335,7 @@ function colorWithNewScale(newValue)
 
 function displayColorScale(newMax)
 {
-    var scalediv = document.getElementById("colorscale");
+    var scalediv = document.getElementById("scalecontainer");
     // --- first remove all elements in div ---
     while (scalediv.hasChildNodes())     {   scalediv.removeChild(scalediv.lastChild); }
     
@@ -362,7 +362,7 @@ function displayColorScale(newMax)
 
 function displayColorScaleEvo()
 {
-    var scalediv = document.getElementById("colorscale");
+    var scalediv = document.getElementById("scalecontainer");
     // --- first remove all elements in div ---
     while (scalediv.hasChildNodes())     {   scalediv.removeChild(scalediv.lastChild); }
     

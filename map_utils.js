@@ -215,8 +215,8 @@ function generateScaleColorPercentile(index, label, isEvo)
     var color;
     if ( isEvo )        color = getColorFromEvoScore(index);
     else                color = getColorFromScore(label, index);
-    console.log(isEvo, color);
     spanoutput.style.backgroundColor = color;
+    spanoutput.style.opacity= 0.7;
     var width = ( isEvo ? (100/12) : 10 );
     spanoutput.style.width = width+"%";
     return spanoutput;
