@@ -38,9 +38,9 @@ function getColorForLabel(label)
     if ( label === "PS"  )   return 'hotpink';
     if ( label === "UMP" )   return 'Blue';
     if ( label === "FN"  )   return 'Brown';
-    if ( label === "FN"  )   return 'Brown';
     if ( label === "SE"  )   return 'Gray';
     if ( label === "DVD" )   return 'RoyalBlue';
+    if ( label === "DIV" )   return 'Gray';
 
 }
 

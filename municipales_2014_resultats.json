@@ -3039,6 +3039,614 @@
                     "ratio_exprimes":21.89
                 }
             ]
+        },
+        {  
+            "bv_id":331,
+            "inscrits":998,
+            "abstentions":312,
+            "ratio_abs_ins":31.26,
+            "votants":686,
+            "ratio_vot_ins":68.74,
+            "blancs":20,
+            "ratio_blanc_ins":2,
+            "ratio_blanc_vot":2.92,
+            "exprimes":666,
+            "ratio_exp_ins":66.73,
+            "ratio_exp_vot":97.08,
+            "resultats":[  
+                {  
+                    "tete":"Guilaine DEBRAS",
+                    "label":"SE",
+                    "liste":"BIOT réunie avec Guilaine DEBRAS",
+                    "nb_voix":268,
+                    "ratio_inscrits":26.85,
+                    "ratio_exprimes":40.24
+                },
+                {  
+                    "tete":"Jean-Pierre DERMIT",
+                    "label":"UMP",
+                    "liste":"RESTONS FORTS POUR BIOT",
+                    "nb_voix":257,
+                    "ratio_inscrits":25.75,
+                    "ratio_exprimes":38.59
+                },
+                {  
+                    "tete":"Guy ANASTILE",
+                    "label":"DVD",
+                    "liste":"LISTE D'UNION POUR L'AVENIR DE BIOT",
+                    "nb_voix":141,
+                    "ratio_inscrits":14.13,
+                    "ratio_exprimes":21.17
+                }
+            ]
+        },
+        {  
+            "bv_id":332,
+            "inscrits":888,
+            "abstentions":218,
+            "ratio_abs_ins":24.55,
+            "votants":670,
+            "ratio_vot_ins":75.45,
+            "blancs":16,
+            "ratio_blanc_ins":1.8,
+            "ratio_blanc_vot":2.39,
+            "exprimes":654,
+            "ratio_exp_ins":73.65,
+            "ratio_exp_vot":97.61,
+            "resultats":[  
+                {  
+                    "tete":"Guilaine DEBRAS",
+                    "label":"SE",
+                    "liste":"BIOT réunie avec Guilaine DEBRAS",
+                    "nb_voix":320,
+                    "ratio_inscrits":36.04,
+                    "ratio_exprimes":48.93
+                },
+                {  
+                    "tete":"Jean-Pierre DERMIT",
+                    "label":"UMP",
+                    "liste":"RESTONS FORTS POUR BIOT",
+                    "nb_voix":221,
+                    "ratio_inscrits":24.89,
+                    "ratio_exprimes":33.79
+                },
+                {  
+                    "tete":"Guy ANASTILE",
+                    "label":"DVD",
+                    "liste":"LISTE D'UNION POUR L'AVENIR DE BIOT",
+                    "nb_voix":113,
+                    "ratio_inscrits":12.73,
+                    "ratio_exprimes":17.28
+                }
+            ]
+        },
+        {  
+            "bv_id":333,
+            "inscrits":962,
+            "abstentions":327,
+            "ratio_abs_ins":33.99,
+            "votants":635,
+            "ratio_vot_ins":66.01,
+            "blancs":18,
+            "ratio_blanc_ins":1.87,
+            "ratio_blanc_vot":2.83,
+            "exprimes":617,
+            "ratio_exp_ins":64.14,
+            "ratio_exp_vot":97.17,
+            "resultats":[  
+                {  
+                    "tete":"Guilaine DEBRAS",
+                    "label":"SE",
+                    "liste":"BIOT réunie avec Guilaine DEBRAS",
+                    "nb_voix":212,
+                    "ratio_inscrits":22.04,
+                    "ratio_exprimes":34.36
+                },
+                {  
+                    "tete":"Jean-Pierre DERMIT",
+                    "label":"UMP",
+                    "liste":"RESTONS FORTS POUR BIOT",
+                    "nb_voix":244,
+                    "ratio_inscrits":25.36,
+                    "ratio_exprimes":39.55
+                },
+                {  
+                    "tete":"Guy ANASTILE",
+                    "label":"DVD",
+                    "liste":"LISTE D'UNION POUR L'AVENIR DE BIOT",
+                    "nb_voix":161,
+                    "ratio_inscrits":16.74,
+                    "ratio_exprimes":26.09
+                }
+            ]
+        },
+        {  
+            "bv_id":334,
+            "inscrits":842,
+            "abstentions":241,
+            "ratio_abs_ins":28.62,
+            "votants":601,
+            "ratio_vot_ins":71.38,
+            "blancs":6,
+            "ratio_blanc_ins":0.71,
+            "ratio_blanc_vot":1,
+            "exprimes":595,
+            "ratio_exp_ins":70.67,
+            "ratio_exp_vot":99,
+            "resultats":[  
+                {  
+                    "tete":"Guilaine DEBRAS",
+                    "label":"SE",
+                    "liste":"BIOT réunie avec Guilaine DEBRAS",
+                    "nb_voix":171,
+                    "ratio_inscrits":20.31,
+                    "ratio_exprimes":28.74
+                },
+                {  
+                    "tete":"Jean-Pierre DERMIT",
+                    "label":"UMP",
+                    "liste":"RESTONS FORTS POUR BIOT",
+                    "nb_voix":341,
+                    "ratio_inscrits":40.5,
+                    "ratio_exprimes":57.31
+                },
+                {  
+                    "tete":"Guy ANASTILE",
+                    "label":"DVD",
+                    "liste":"LISTE D'UNION POUR L'AVENIR DE BIOT",
+                    "nb_voix":83,
+                    "ratio_inscrits":9.86,
+                    "ratio_exprimes":13.95
+                }
+            ]
+        },
+        {  
+            "bv_id":335,
+            "inscrits":776,
+            "abstentions":288,
+            "ratio_abs_ins":37.11,
+            "votants":488,
+            "ratio_vot_ins":62.89,
+            "blancs":14,
+            "ratio_blanc_ins":1.8,
+            "ratio_blanc_vot":2.87,
+            "exprimes":474,
+            "ratio_exp_ins":61.08,
+            "ratio_exp_vot":97.13,
+            "resultats":[  
+                {  
+                    "tete":"Guilaine DEBRAS",
+                    "label":"SE",
+                    "liste":"BIOT réunie avec Guilaine DEBRAS",
+                    "nb_voix":189,
+                    "ratio_inscrits":24.36,
+                    "ratio_exprimes":39.87
+                },
+                {  
+                    "tete":"Jean-Pierre DERMIT",
+                    "label":"UMP",
+                    "liste":"RESTONS FORTS POUR BIOT",
+                    "nb_voix":234,
+                    "ratio_inscrits":30.15,
+                    "ratio_exprimes":49.37
+                },
+                {  
+                    "tete":"Guy ANASTILE",
+                    "label":"DVD",
+                    "liste":"LISTE D'UNION POUR L'AVENIR DE BIOT",
+                    "nb_voix":51,
+                    "ratio_inscrits":6.57,
+                    "ratio_exprimes":10.76
+                }
+            ]
+        },
+        {  
+            "bv_id":336,
+            "inscrits":1043,
+            "abstentions":459,
+            "ratio_abs_ins":44.01,
+            "votants":584,
+            "ratio_vot_ins":55.99,
+            "blancs":27,
+            "ratio_blanc_ins":2.59,
+            "ratio_blanc_vot":4.62,
+            "exprimes":557,
+            "ratio_exp_ins":53.4,
+            "ratio_exp_vot":95.38,
+            "resultats":[  
+                {  
+                    "tete":"Guilaine DEBRAS",
+                    "label":"SE",
+                    "liste":"BIOT réunie avec Guilaine DEBRAS",
+                    "nb_voix":228,
+                    "ratio_inscrits":21.86,
+                    "ratio_exprimes":40.93
+                },
+                {  
+                    "tete":"Jean-Pierre DERMIT",
+                    "label":"UMP",
+                    "liste":"RESTONS FORTS POUR BIOT",
+                    "nb_voix":239,
+                    "ratio_inscrits":22.91,
+                    "ratio_exprimes":42.91
+                },
+                {  
+                    "tete":"Guy ANASTILE",
+                    "label":"DVD",
+                    "liste":"LISTE D'UNION POUR L'AVENIR DE BIOT",
+                    "nb_voix":90,
+                    "ratio_inscrits":8.63,
+                    "ratio_exprimes":16.16
+                }
+            ]
+        },
+        {  
+            "bv_id":337,
+            "inscrits":688,
+            "abstentions":223,
+            "ratio_abs_ins":32.41,
+            "votants":465,
+            "ratio_vot_ins":67.59,
+            "blancs":16,
+            "ratio_blanc_ins":2.33,
+            "ratio_blanc_vot":3.44,
+            "exprimes":449,
+            "ratio_exp_ins":65.26,
+            "ratio_exp_vot":96.56,
+            "resultats":[  
+                {  
+                    "tete":"Guilaine DEBRAS",
+                    "label":"SE",
+                    "liste":"BIOT réunie avec Guilaine DEBRAS",
+                    "nb_voix":180,
+                    "ratio_inscrits":26.16,
+                    "ratio_exprimes":40.09
+                },
+                {  
+                    "tete":"Jean-Pierre DERMIT",
+                    "label":"UMP",
+                    "liste":"RESTONS FORTS POUR BIOT",
+                    "nb_voix":170,
+                    "ratio_inscrits":24.71,
+                    "ratio_exprimes":37.86
+                },
+                {  
+                    "tete":"Guy ANASTILE",
+                    "label":"DVD",
+                    "liste":"LISTE D'UNION POUR L'AVENIR DE BIOT",
+                    "nb_voix":99,
+                    "ratio_inscrits":14.39,
+                    "ratio_exprimes":22.05
+                }
+            ]
+        },
+        {  
+            "bv_id":338,
+            "inscrits":759,
+            "abstentions":253,
+            "ratio_abs_ins":33.33,
+            "votants":506,
+            "ratio_vot_ins":66.67,
+            "blancs":12,
+            "ratio_blanc_ins":1.58,
+            "ratio_blanc_vot":2.37,
+            "exprimes":494,
+            "ratio_exp_ins":65.09,
+            "ratio_exp_vot":97.63,
+            "resultats":[  
+                {  
+                    "tete":"Guilaine DEBRAS",
+                    "label":"SE",
+                    "liste":"BIOT réunie avec Guilaine DEBRAS",
+                    "nb_voix":214,
+                    "ratio_inscrits":28.19,
+                    "ratio_exprimes":43.32
+                },
+                {  
+                    "tete":"Jean-Pierre DERMIT",
+                    "label":"UMP",
+                    "liste":"RESTONS FORTS POUR BIOT",
+                    "nb_voix":200,
+                    "ratio_inscrits":26.35,
+                    "ratio_exprimes":40.49
+                },
+                {  
+                    "tete":"Guy ANASTILE",
+                    "label":"DVD",
+                    "liste":"LISTE D'UNION POUR L'AVENIR DE BIOT",
+                    "nb_voix":80,
+                    "ratio_inscrits":10.54,
+                    "ratio_exprimes":16.19
+                }
+            ]
+        },
+        {  
+            "bv_id":2511,
+            "inscrits":689,
+            "abstentions":241,
+            "ratio_abs_ins":34.98,
+            "votants":448,
+            "ratio_vot_ins":65.02,
+            "blancs":28,
+            "ratio_blanc_ins":4.06,
+            "ratio_blanc_vot":6.25,
+            "exprimes":420,
+            "ratio_exp_ins":60.96,
+            "ratio_exp_vot":93.75,
+            "resultats":[  
+                {  
+                    "tete":"Marc DAUNIS",
+                    "label":"PS",
+                    "liste":"MIEUX VIVRE ENSEMBLE",
+                    "nb_voix":228,
+                    "ratio_inscrits":33.09,
+                    "ratio_exprimes":54.29
+                },
+                {  
+                    "tete":"Julien DETHÈVE",
+                    "label":"UMP",
+                    "liste":"ENSEMBLE AU COEUR DE VOS IDEES",
+                    "nb_voix":192,
+                    "ratio_inscrits":27.87,
+                    "ratio_exprimes":45.71
+                }
+            ]
+        },
+        {  
+            "bv_id":2512,
+            "inscrits":849,
+            "abstentions":372,
+            "ratio_abs_ins":43.82,
+            "votants":477,
+            "ratio_vot_ins":56.18,
+            "blancs":50,
+            "ratio_blanc_ins":5.89,
+            "ratio_blanc_vot":10.48,
+            "exprimes":427,
+            "ratio_exp_ins":50.29,
+            "ratio_exp_vot":89.52,
+            "resultats":[  
+                {  
+                    "tete":"Marc DAUNIS",
+                    "label":"PS",
+                    "liste":"MIEUX VIVRE ENSEMBLE",
+                    "nb_voix":264,
+                    "ratio_inscrits":31.1,
+                    "ratio_exprimes":61.83
+                },
+                {  
+                    "tete":"Julien DETHÈVE",
+                    "label":"UMP",
+                    "liste":"ENSEMBLE AU COEUR DE VOS IDEES",
+                    "nb_voix":163,
+                    "ratio_inscrits":19.2,
+                    "ratio_exprimes":38.17
+                }
+            ]
+        },
+        {  
+            "bv_id":2513,
+            "inscrits":876,
+            "abstentions":315,
+            "ratio_abs_ins":35.96,
+            "votants":561,
+            "ratio_vot_ins":64.04,
+            "blancs":43,
+            "ratio_blanc_ins":4.91,
+            "ratio_blanc_vot":7.66,
+            "exprimes":518,
+            "ratio_exp_ins":59.13,
+            "ratio_exp_vot":92.34,
+            "resultats":[  
+                {  
+                    "tete":"Marc DAUNIS",
+                    "label":"PS",
+                    "liste":"MIEUX VIVRE ENSEMBLE",
+                    "nb_voix":266,
+                    "ratio_inscrits":30.37,
+                    "ratio_exprimes":51.35
+                },
+                {  
+                    "tete":"Julien DETHÈVE",
+                    "label":"UMP",
+                    "liste":"ENSEMBLE AU COEUR DE VOS IDEES",
+                    "nb_voix":252,
+                    "ratio_inscrits":28.77,
+                    "ratio_exprimes":48.65
+                }
+            ]
+        },
+        {  
+            "bv_id":2514,
+            "inscrits":953,
+            "abstentions":467,
+            "ratio_abs_ins":49,
+            "votants":486,
+            "ratio_vot_ins":51,
+            "blancs":33,
+            "ratio_blanc_ins":3.46,
+            "ratio_blanc_vot":6.79,
+            "exprimes":453,
+            "ratio_exp_ins":47.53,
+            "ratio_exp_vot":93.21,
+            "resultats":[  
+                {  
+                    "tete":"Marc DAUNIS",
+                    "label":"PS",
+                    "liste":"MIEUX VIVRE ENSEMBLE",
+                    "nb_voix":269,
+                    "ratio_inscrits":28.23,
+                    "ratio_exprimes":59.38
+                },
+                {  
+                    "tete":"Julien DETHÈVE",
+                    "label":"UMP",
+                    "liste":"ENSEMBLE AU COEUR DE VOS IDEES",
+                    "nb_voix":184,
+                    "ratio_inscrits":19.31,
+                    "ratio_exprimes":40.62
+                }
+            ]
+        },
+        {  
+            "bv_id":2515,
+            "inscrits":1133,
+            "abstentions":502,
+            "ratio_abs_ins":44.31,
+            "votants":631,
+            "ratio_vot_ins":55.69,
+            "blancs":54,
+            "ratio_blanc_ins":4.77,
+            "ratio_blanc_vot":8.56,
+            "exprimes":577,
+            "ratio_exp_ins":50.93,
+            "ratio_exp_vot":91.44,
+            "resultats":[  
+                {  
+                    "tete":"Marc DAUNIS",
+                    "label":"PS",
+                    "liste":"MIEUX VIVRE ENSEMBLE",
+                    "nb_voix":293,
+                    "ratio_inscrits":25.86,
+                    "ratio_exprimes":50.78
+                },
+                {  
+                    "tete":"Julien DETHÈVE",
+                    "label":"UMP",
+                    "liste":"ENSEMBLE AU COEUR DE VOS IDEES",
+                    "nb_voix":284,
+                    "ratio_inscrits":25.07,
+                    "ratio_exprimes":49.22
+                }
+            ]
+        },
+        {  
+            "bv_id":2516,
+            "inscrits":961,
+            "abstentions":340,
+            "ratio_abs_ins":35.38,
+            "votants":621,
+            "ratio_vot_ins":64.62,
+            "blancs":48,
+            "ratio_blanc_ins":4.99,
+            "ratio_blanc_vot":7.73,
+            "exprimes":573,
+            "ratio_exp_ins":59.63,
+            "ratio_exp_vot":92.27,
+            "resultats":[  
+                {  
+                    "tete":"Marc DAUNIS",
+                    "label":"PS",
+                    "liste":"MIEUX VIVRE ENSEMBLE",
+                    "nb_voix":266,
+                    "ratio_inscrits":27.68,
+                    "ratio_exprimes":46.42
+                },
+                {  
+                    "tete":"Julien DETHÈVE",
+                    "label":"UMP",
+                    "liste":"ENSEMBLE AU COEUR DE VOS IDEES",
+                    "nb_voix":307,
+                    "ratio_inscrits":31.95,
+                    "ratio_exprimes":53.58
+                }
+            ]
+        },
+        {  
+            "bv_id":2517,
+            "inscrits":981,
+            "abstentions":376,
+            "ratio_abs_ins":38.33,
+            "votants":605,
+            "ratio_vot_ins":61.67,
+            "blancs":47,
+            "ratio_blanc_ins":4.79,
+            "ratio_blanc_vot":7.77,
+            "exprimes":558,
+            "ratio_exp_ins":56.88,
+            "ratio_exp_vot":92.23,
+            "resultats":[  
+                {  
+                    "tete":"Marc DAUNIS",
+                    "label":"PS",
+                    "liste":"MIEUX VIVRE ENSEMBLE",
+                    "nb_voix":350,
+                    "ratio_inscrits":35.68,
+                    "ratio_exprimes":62.72
+                },
+                {  
+                    "tete":"Julien DETHÈVE",
+                    "label":"UMP",
+                    "liste":"ENSEMBLE AU COEUR DE VOS IDEES",
+                    "nb_voix":208,
+                    "ratio_inscrits":21.2,
+                    "ratio_exprimes":37.28
+                }
+            ]
+        },
+        {  
+            "bv_id":2518,
+            "inscrits":1004,
+            "abstentions":439,
+            "ratio_abs_ins":43.73,
+            "votants":565,
+            "ratio_vot_ins":56.27,
+            "blancs":47,
+            "ratio_blanc_ins":4.68,
+            "ratio_blanc_vot":8.32,
+            "exprimes":518,
+            "ratio_exp_ins":51.59,
+            "ratio_exp_vot":91.68,
+            "resultats":[  
+                {  
+                    "tete":"Marc DAUNIS",
+                    "label":"PS",
+                    "liste":"MIEUX VIVRE ENSEMBLE",
+                    "nb_voix":347,
+                    "ratio_inscrits":34.56,
+                    "ratio_exprimes":66.99
+                },
+                {  
+                    "tete":"Julien DETHÈVE",
+                    "label":"UMP",
+                    "liste":"ENSEMBLE AU COEUR DE VOS IDEES",
+                    "nb_voix":171,
+                    "ratio_inscrits":17.03,
+                    "ratio_exprimes":33.01
+                }
+            ]
+        },
+        {  
+            "bv_id":2519,
+            "inscrits":1076,
+            "abstentions":435,
+            "ratio_abs_ins":40.43,
+            "votants":641,
+            "ratio_vot_ins":59.57,
+            "blancs":52,
+            "ratio_blanc_ins":4.83,
+            "ratio_blanc_vot":8.11,
+            "exprimes":589,
+            "ratio_exp_ins":54.74,
+            "ratio_exp_vot":91.89,
+            "resultats":[  
+                {  
+                    "tete":"Marc DAUNIS",
+                    "label":"PS",
+                    "liste":"MIEUX VIVRE ENSEMBLE",
+                    "nb_voix":266,
+                    "ratio_inscrits":24.72,
+                    "ratio_exprimes":45.16
+                },
+                {  
+                    "tete":"Julien DETHÈVE",
+                    "label":"UMP",
+                    "liste":"ENSEMBLE AU COEUR DE VOS IDEES",
+                    "nb_voix":323,
+                    "ratio_inscrits":30.02,
+                    "ratio_exprimes":54.84
+                }
+            ]
         }
     ]
 }
