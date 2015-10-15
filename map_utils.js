@@ -51,7 +51,7 @@ function setStyle(feature)
     if ( bvid >= 100 && bvid < 200 )            map.data.overrideStyle(feature, {strokeColor: 'CornflowerBlue'});
     else if ( bvid >= 200 && bvid < 300 )       map.data.overrideStyle(feature, {strokeColor: 'Crimson'});
     else if ( bvid >= 300 && bvid < 400 )       map.data.overrideStyle(feature, {strokeColor: 'orange'});
-    else if ( bvid >= 400 && bvid < 500 )       map.data.overrideStyle(feature, {strokeColor: 'green'});
+    else if ( bvid >= 2500 && bvid < 2600 )     map.data.overrideStyle(feature, {strokeColor: 'green'});
 }
 
 function getLabelResultatInBureau(bureau, label)
