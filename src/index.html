@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html ng-app="app">
+    <head>
+        <title>TODO supply a title</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="icon" type="image/x-icon" href="images/favicon.ico" >
+        <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+        <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+        <link rel="stylesheet" href="css/map.css" />
+    </head>
+    <body ng-controller="ElectionsCtrl as ctrl">
+        <div id="ng-view" ng-view=""></div>
+        
+        <script src="https://maps.googleapis.com/maps/api/js?v=3.exp?key=AIzaSyCQT_tdE21gBYflevnH_TI0mx7ebqWnW9c"></script>
+        <script type="text/javascript" src="scripts/chroma.min.js"></script>
+        <script type="text/javascript" src="scripts/electionmap_utils.js"></script>
+        <script type="text/javascript" src="components/angular/angular.js"></script>
+        <script type="text/javascript" src="components/angular-route/angular-route.js"></script>
+        <script type="text/javascript" src="scripts/utils.js"></script>
+        <script type="text/javascript" src="scripts/readjson.js"></script>
+        <script type="text/javascript" src="scripts/readelections.js"></script>
+        <script type="text/javascript" src="scripts/fullscreen-app.js"></script>
+        <script type="text/javascript" src="scripts/app.js"></script>
+        <script type="text/javascript" src="scripts/map-directive.js"></script>
+    </body>
+</html>

@@ -1,0 +1,50 @@
+<div id="container">
+    <map id="map" ng-if="ctrl.electionsLoaded"></map>
+    <div ng-if="ctrl.focusElection" id="labeldiv">
+        <p class="labelBox" ng-repeat="label in ctrl.labelList" ng-style="{color:label.color}">
+            <input type="radio" id="label" name="focusLabel" ng-model="ctrl.focusLabel" ng-click="ctrl.reloadColor()" value="{{label.label}}"></input>
+            {{label.label}}
+        </p>
+        <hr>
+        <p class="labelBox" ng-style="{color:ctrl.settings.abstentionColor}">
+            <input type="radio" id="label" name="focusLabel" ng-model="ctrl.focusLabel" ng-click="ctrl.reloadColor()" value="abstention"></input>
+        Abstention
+        </p>
+    </div>
+    <div id="election-buttons" class="text-center">
+        <div class="btn-group" style="{height:100%}">
+            <button type="button" class="btn btn-primary elecButton" 
+                    ng-repeat="button in ctrl.electionButtons" ng-class="{'active':button.selected}" ng-click="ctrl.changeElection(button)" >
+                <p ng-if="!button.isEvo">{{button.name}}</p>
+                <i ng-if="button.isEvo" class="material-icons md-18">trending_up</i>
+            </button>
+        </div>
+    </div>
+    <div id="colorscale">
+        <div id="scalecontainer">
+            <span class="colorscale" ng-repeat="scalepart in ctrl.colorScale" ng-style="scalepart"></span>
+            <span class="textscale" ng-repeat="scalepart in ctrl.textScale" ng-style="{left:scalepart.left, right:scalepart.right}">{{scalepart.text}}</span>
+        </div>
+    </div>
+    <div id="sliderColorScale" class="sliderColorScale">
+        <p> Echelle de couleur : </p>
+        <input id="slider" type="range" min="1" max="100" value="25" ng-model="ctrl.max" ng-change="ctrl.reloadColor()" />
+        <input id="sliderValue" type="text" ng-model="ctrl.max" ng-change="ctrl.reloadColor()" />
+        <span>%</span>
+    </div>
+
+    <div id="tooltip" ng-if="ctrl.displayTooltip">
+        <p class="name">{{ctrl.tooltipArea.Name}}</p>
+        <p ng-repeat="result in ctrl.tooltipArea.resultats">
+            <span class='label' ng-style="{color:result.color}">{{result.label}}</span>
+            <span ng-style="{color:result.color}"> : </span>
+            <span class='score' ng-style="{color:result.color}">{{result.ratio_exprimes}} %</span>
+        </p>
+        <hr>
+        <p>
+            <span class='label' ng-style="{color:ctrl.settings.abstentionColor}">Abstention</span>
+            <span ng-style="{color:ctrl.settings.abstentionColor}"> : </span>
+            <span class='score' ng-style="{color:ctrl.settings.abstentionColor}">{{ctrl.getAreaAbstentionRatio(ctrl.tooltipArea)}} %</span>
+        </p>
+    </div>
+</div>
