@@ -124,6 +124,7 @@
         }
         
         function colorOneVotingArea(feature) {
+
             var area = getAreaFromPolygon(feature, election);
             // console.log("color area: ", area);
             if (!area) {
@@ -136,6 +137,9 @@
                 // console.log("could not find resultat");
                 return {fillColor: settings.emptyColor, fillOpacity: settings.opacity, strokeOpacity: settings.opacity};
             }
+            
+            // mark high abstention with a marker
+            markHighAbstention(settings, feature, area, map);
 
             var score = resultat.ratio_exprimes;
             // console.log(resultat.ratio_exprimes);
@@ -149,6 +153,32 @@
                 fillOpacity: settings.opacity,
                 strokeOpacity: settings.opacity
             };
+        }
+    }
+    
+    function getCenter(feature)
+    {
+        var polygon = feature.getGeometry();
+        if ( polygon.getType() !== "Polygon" )   return null;
+        var bounds = new google.maps.LatLngBounds();
+        polygon.getArray().forEach(function(path){ path.getArray().forEach(function(element,index){bounds.extend(element)})});
+        // console.log(bounds);
+        return bounds.getCenter();
+    }
+    
+    function markHighAbstention(settings, feature, area, map)
+    {
+        var abstention = getAreaAbstentionRatio(area);
+        if ( abstention >= settings.markAbstentionThreshold )
+        {
+            console.info( area, "has high abstention" );
+            var center = getCenter(feature);
+            // console.log("center: ", center);
+
+            var marker = new google.maps.Marker({
+                position: center,
+                map: map
+            });
         }
     }
     

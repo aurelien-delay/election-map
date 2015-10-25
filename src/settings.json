@@ -1,5 +1,5 @@
 {
-    "elections": [ "municipales_2014_resultats.json", "departementales_2015_resultats.json" ],
+    "elections": ["departementales_2015_resultats.json" ],
     "defaultElection": "departementales_2015_resultats.json",
     "defaultLabel": "FDG",
     "defaultMaxScore": 15,
@@ -11,5 +11,6 @@
     "labelOrder": ["NPA", "FO", "FDG", "EELV", "PS", "MODEM", "DVD", "UMP", "DLR", "FN"],
     "labelColor": {"NPA": "#FF4D4D", "FO": "#FF4D4D", "FDG": "red", "EELV":"green", "PS":"MediumVioletRed", 
         "MODEM":"orange", "DVD":"RoyalBlue", "UMP":"MediumBlue", "DLR":"Navy", "FN":"Maroon"},
-    "abstentionColor":"black"
+    "abstentionColor":"black",
+    "markAbstentionThreshold":55
 }

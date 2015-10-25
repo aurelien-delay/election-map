@@ -1,1 +1,4 @@
 /nbproject
+build/
+node_modules/
+src/components/
