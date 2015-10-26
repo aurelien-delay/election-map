@@ -171,13 +171,14 @@
         var abstention = getAreaAbstentionRatio(area);
         if ( abstention >= settings.markAbstentionThreshold )
         {
-            console.info( area, "has high abstention" );
+            //console.info( area, "has high abstention" );
             var center = getCenter(feature);
             // console.log("center: ", center);
 
             var marker = new google.maps.Marker({
                 position: center,
-                map: map
+                map: map,
+                title: area.Name
             });
         }
     }

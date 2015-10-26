@@ -37,13 +37,6 @@
             
             // --- set hover event listening ---
             var listener = scope.ctrl.map.addListener('idle', afterMapLoaded);
-            
-            // --- add method to calculate bounds of polygons, and then the center with getCenter() on returned object ---
-            google.maps.Polygon.prototype.my_getBounds=function(){
-                var bounds = new google.maps.LatLngBounds()
-                this.getPath().forEach(function(element,index){bounds.extend(element)})
-                return bounds
-            }
 
             function afterMapLoaded(event) {
                 scope.ctrl.map.data.addListener('mouseover', scope.ctrl.openTooltip);
