@@ -1,0 +1,3661 @@
+{  
+    "election":"departementales",
+    "annee":"2015",
+    "button": "Depart. 2015",
+    "bureaux":[  
+        {  
+            "va_id":101,
+            "inscrits":812,
+            "votants":358,
+            "exprimes":345,
+            "resultats":[  
+                {  
+                    "tete":"Cecile Dumas / Michael Micoud",
+                    "label":"FDG",
+                    "nb_voix":26,
+                    "ratio_exprimes":7.54
+                },
+                {  
+                    "tete":"Jean-Noel Falcou / Isabelle Fleury",
+                    "label":"SE",
+                    "nb_voix":29,
+                    "ratio_exprimes":8.41
+                },
+                {  
+                    "tete":"Patrick Lavitola / Marie-Line Serafino",
+                    "label":"DVD",
+                    "nb_voix":15,
+                    "ratio_exprimes":4.35
+                },                
+                {  
+                    "tete":"Georges Roux / Michelle Salucki",
+                    "label":"UMP",
+                    "nb_voix":144,
+                    "ratio_exprimes":41.74
+                },
+                {  
+                    "tete":"Anne Chevalier / Lionel Tivoli",
+                    "label":"FN",
+                    "nb_voix":131,
+                    "ratio_exprimes":37.97
+                }
+            ]
+        },
+        {  
+            "va_id":102,
+            "inscrits":872,
+            "votants":424,
+            "exprimes":397,
+            "resultats":[  
+                {  
+                    "tete":"Cecile Dumas / Michael Micoud",
+                    "label":"FDG",
+                    "nb_voix":31,
+                    "ratio_exprimes":7.81
+                },
+                {  
+                    "tete":"Jean-Noel Falcou / Isabelle Fleury",
+                    "label":"SE",
+                    "nb_voix":41,
+                    "ratio_exprimes":11.59
+                },
+                {  
+                    "tete":"Patrick Lavitola / Marie-Line Serafino",
+                    "label":"DVD",
+                    "nb_voix":13,
+                    "ratio_exprimes":3.27
+                },                
+                {  
+                    "tete":"Georges Roux / Michelle Salucki",
+                    "label":"UMP",
+                    "nb_voix":168,
+                    "ratio_exprimes":42.32
+                },
+                {  
+                    "tete":"Anne Chevalier / Lionel Tivoli",
+                    "label":"FN",
+                    "nb_voix":139,
+                    "ratio_exprimes":35.01
+                }
+            ]
+        },
+        {  
+            "va_id":103,
+            "inscrits":861,
+            "votants":391,
+            "exprimes":371,
+            "resultats":[  
+                {  
+                    "tete":"Cecile Dumas / Michael Micoud",
+                    "label":"FDG",
+                    "nb_voix":26,
+                    "ratio_exprimes":7.01
+                },
+                {  
+                    "tete":"Jean-Noel Falcou / Isabelle Fleury",
+                    "label":"SE",
+                    "nb_voix":41,
+                    "ratio_exprimes":11.05
+                },
+                {  
+                    "tete":"Patrick Lavitola / Marie-Line Serafino",
+                    "label":"DVD",
+                    "nb_voix":22,
+                    "ratio_exprimes":5.91
+                },                
+                {  
+                    "tete":"Georges Roux / Michelle Salucki",
+                    "label":"UMP",
+                    "nb_voix":150,
+                    "ratio_exprimes":40.43
+                },
+                {  
+                    "tete":"Anne Chevalier / Lionel Tivoli",
+                    "label":"FN",
+                    "nb_voix":132,
+                    "ratio_exprimes":35.58
+                }
+            ]
+        },
+        {  
+            "va_id":104,
+            "inscrits":655,
+            "votants":288,
+            "exprimes":282,
+            "resultats":[  
+                {  
+                    "tete":"Cecile Dumas / Michael Micoud",
+                    "label":"FDG",
+                    "nb_voix":23,
+                    "ratio_exprimes":8.16
+                },
+                {  
+                    "tete":"Jean-Noel Falcou / Isabelle Fleury",
+                    "label":"SE",
+                    "nb_voix":39,
+                    "ratio_exprimes":13.83
+                },
+                {  
+                    "tete":"Patrick Lavitola / Marie-Line Serafino",
+                    "label":"DVD",
+                    "nb_voix":3,
+                    "ratio_exprimes":1.06
+                },                
+                {  
+                    "tete":"Georges Roux / Michelle Salucki",
+                    "label":"UMP",
+                    "nb_voix":109,
+                    "ratio_exprimes":38.65
+                },
+                {  
+                    "tete":"Anne Chevalier / Lionel Tivoli",
+                    "label":"FN",
+                    "nb_voix":108,
+                    "ratio_exprimes":38.30
+                }
+            ]
+        },
+        {  
+            "va_id":105,
+            "inscrits":777,
+            "votants":390,
+            "exprimes":371,
+            "resultats":[  
+                {  
+                    "tete":"Cecile Dumas / Michael Micoud",
+                    "label":"FDG",
+                    "nb_voix":17,
+                    "ratio_exprimes":4.58
+                },
+                {  
+                    "tete":"Jean-Noel Falcou / Isabelle Fleury",
+                    "label":"SE",
+                    "nb_voix":28,
+                    "ratio_exprimes":7.55
+                },
+                {  
+                    "tete":"Patrick Lavitola / Marie-Line Serafino",
+                    "label":"DVD",
+                    "nb_voix":16,
+                    "ratio_exprimes":4.31
+                },                
+                {  
+                    "tete":"Georges Roux / Michelle Salucki",
+                    "label":"UMP",
+                    "nb_voix":170,
+                    "ratio_exprimes":45.82
+                },
+                {  
+                    "tete":"Anne Chevalier / Lionel Tivoli",
+                    "label":"FN",
+                    "nb_voix":140,
+                    "ratio_exprimes":37.74
+                }
+            ]
+        },
+        {  
+            "va_id":106,
+            "inscrits":657,
+            "votants":330,
+            "exprimes":321,
+            "resultats":[  
+                {  
+                    "tete":"Cecile Dumas / Michael Micoud",
+                    "label":"FDG",
+                    "nb_voix":7,
+                    "ratio_exprimes":2.18
+                },
+                {  
+                    "tete":"Jean-Noel Falcou / Isabelle Fleury",
+                    "label":"SE",
+                    "nb_voix":31,
+                    "ratio_exprimes":9.66
+                },
+                {  
+                    "tete":"Patrick Lavitola / Marie-Line Serafino",
+                    "label":"DVD",
+                    "nb_voix":19,
+                    "ratio_exprimes":5.92
+                },                
+                {  
+                    "tete":"Georges Roux / Michelle Salucki",
+                    "label":"UMP",
+                    "nb_voix":178,
+                    "ratio_exprimes":55.45
+                },
+                {  
+                    "tete":"Anne Chevalier / Lionel Tivoli",
+                    "label":"FN",
+                    "nb_voix":86,
+                    "ratio_exprimes":26.79
+                }
+            ]
+        },
+        {  
+            "va_id":107,
+            "inscrits":614,
+            "votants":312,
+            "exprimes":296,
+            "resultats":[  
+                {  
+                    "tete":"Cecile Dumas / Michael Micoud",
+                    "label":"FDG",
+                    "nb_voix":12,
+                    "ratio_exprimes":4.05
+                },
+                {  
+                    "tete":"Jean-Noel Falcou / Isabelle Fleury",
+                    "label":"SE",
+                    "nb_voix":31,
+                    "ratio_exprimes":10.47
+                },
+                {  
+                    "tete":"Patrick Lavitola / Marie-Line Serafino",
+                    "label":"DVD",
+                    "nb_voix":16,
+                    "ratio_exprimes":5.41
+                },                
+                {  
+                    "tete":"Georges Roux / Michelle Salucki",
+                    "label":"UMP",
+                    "nb_voix":138,
+                    "ratio_exprimes":46.62
+                },
+                {  
+                    "tete":"Anne Chevalier / Lionel Tivoli",
+                    "label":"FN",
+                    "nb_voix":99,
+                    "ratio_exprimes":33.45
+                }
+            ]
+        },
+        {  
+            "va_id":108,
+            "inscrits":655,
+            "votants":358,
+            "exprimes":341,
+            "resultats":[  
+                {  
+                    "tete":"Cecile Dumas / Michael Micoud",
+                    "label":"FDG",
+                    "nb_voix":26,
+                    "ratio_exprimes":7.62
+                },
+                {  
+                    "tete":"Jean-Noel Falcou / Isabelle Fleury",
+                    "label":"SE",
+                    "nb_voix":47,
+                    "ratio_exprimes":13.78
+                },
+                {  
+                    "tete":"Patrick Lavitola / Marie-Line Serafino",
+                    "label":"DVD",
+                    "nb_voix":12,
+                    "ratio_exprimes":3.52
+                },                
+                {  
+                    "tete":"Georges Roux / Michelle Salucki",
+                    "label":"UMP",
+                    "nb_voix":148,
+                    "ratio_exprimes":43.40
+                },
+                {  
+                    "tete":"Anne Chevalier / Lionel Tivoli",
+                    "label":"FN",
+                    "nb_voix":108,
+                    "ratio_exprimes":31.67
+                }
+            ]
+        },
+        {  
+            "va_id":109,
+            "inscrits":809,
+            "votants":413,
+            "exprimes":396,
+            "resultats":[  
+                {  
+                    "tete":"Cecile Dumas / Michael Micoud",
+                    "label":"FDG",
+                    "nb_voix":29,
+                    "ratio_exprimes":7.32
+                },
+                {  
+                    "tete":"Jean-Noel Falcou / Isabelle Fleury",
+                    "label":"SE",
+                    "nb_voix":60,
+                    "ratio_exprimes":15.15
+                },
+                {  
+                    "tete":"Patrick Lavitola / Marie-Line Serafino",
+                    "label":"DVD",
+                    "nb_voix":20,
+                    "ratio_exprimes":5.05
+                },                
+                {  
+                    "tete":"Georges Roux / Michelle Salucki",
+                    "label":"UMP",
+                    "nb_voix":152,
+                    "ratio_exprimes":38.38
+                },
+                {  
+                    "tete":"Anne Chevalier / Lionel Tivoli",
+                    "label":"FN",
+                    "nb_voix":135,
+                    "ratio_exprimes":34.09
+                }
+            ]
+        },
+        {  
+            "va_id":110,
+            "inscrits":706,
+            "votants":397,
+            "exprimes":377,
+            "resultats":[  
+                {  
+                    "tete":"Cecile Dumas / Michael Micoud",
+                    "label":"FDG",
+                    "nb_voix":38,
+                    "ratio_exprimes":10.08
+                },
+                {  
+                    "tete":"Jean-Noel Falcou / Isabelle Fleury",
+                    "label":"SE",
+                    "nb_voix":34,
+                    "ratio_exprimes":9.02
+                },
+                {  
+                    "tete":"Patrick Lavitola / Marie-Line Serafino",
+                    "label":"DVD",
+                    "nb_voix":17,
+                    "ratio_exprimes":4.51
+                },                
+                {  
+                    "tete":"Georges Roux / Michelle Salucki",
+                    "label":"UMP",
+                    "nb_voix":173,
+                    "ratio_exprimes":45.89
+                },
+                {  
+                    "tete":"Anne Chevalier / Lionel Tivoli",
+                    "label":"FN",
+                    "nb_voix":115,
+                    "ratio_exprimes":30.50
+                }
+            ]
+        },
+        {  
+            "va_id":111,
+            "inscrits":796,
+            "votants":291,
+            "exprimes":287,
+            "resultats":[  
+                {  
+                    "tete":"Cecile Dumas / Michael Micoud",
+                    "label":"FDG",
+                    "nb_voix":27,
+                    "ratio_exprimes":9.41
+                },
+                {  
+                    "tete":"Jean-Noel Falcou / Isabelle Fleury",
+                    "label":"SE",
+                    "nb_voix":65,
+                    "ratio_exprimes":22.65
+                },
+                {  
+                    "tete":"Patrick Lavitola / Marie-Line Serafino",
+                    "label":"DVD",
+                    "nb_voix":18,
+                    "ratio_exprimes":6.27
+                },                
+                {  
+                    "tete":"Georges Roux / Michelle Salucki",
+                    "label":"UMP",
+                    "nb_voix":84,
+                    "ratio_exprimes":29.27
+                },
+                {  
+                    "tete":"Anne Chevalier / Lionel Tivoli",
+                    "label":"FN",
+                    "nb_voix":93,
+                    "ratio_exprimes":32.40
+                }
+            ]
+        },
+        {  
+            "va_id":112,
+            "inscrits":820,
+            "votants":383,
+            "exprimes":377,
+            "resultats":[  
+                {  
+                    "tete":"Cecile Dumas / Michael Micoud",
+                    "label":"FDG",
+                    "nb_voix":21,
+                    "ratio_exprimes":5.57
+                },
+                {  
+                    "tete":"Jean-Noel Falcou / Isabelle Fleury",
+                    "label":"SE",
+                    "nb_voix":66,
+                    "ratio_exprimes":17.51
+                },
+                {  
+                    "tete":"Patrick Lavitola / Marie-Line Serafino",
+                    "label":"DVD",
+                    "nb_voix":20,
+                    "ratio_exprimes":5.31
+                },                
+                {  
+                    "tete":"Georges Roux / Michelle Salucki",
+                    "label":"UMP",
+                    "nb_voix":122,
+                    "ratio_exprimes":32.36
+                },
+                {  
+                    "tete":"Anne Chevalier / Lionel Tivoli",
+                    "label":"FN",
+                    "nb_voix":148,
+                    "ratio_exprimes":39.26
+                }
+            ]
+        },
+        {  
+            "va_id":113,
+            "inscrits":859,
+            "votants":317,
+            "exprimes":306,
+            "resultats":[  
+                {  
+                    "tete":"Cecile Dumas / Michael Micoud",
+                    "label":"FDG",
+                    "nb_voix":41,
+                    "ratio_exprimes":13.40
+                },
+                {  
+                    "tete":"Jean-Noel Falcou / Isabelle Fleury",
+                    "label":"SE",
+                    "nb_voix":51,
+                    "ratio_exprimes":16.67
+                },
+                {  
+                    "tete":"Patrick Lavitola / Marie-Line Serafino",
+                    "label":"DVD",
+                    "nb_voix":11,
+                    "ratio_exprimes":3.59
+                },                
+                {  
+                    "tete":"Georges Roux / Michelle Salucki",
+                    "label":"UMP",
+                    "nb_voix":115,
+                    "ratio_exprimes":37.58
+                },
+                {  
+                    "tete":"Anne Chevalier / Lionel Tivoli",
+                    "label":"FN",
+                    "nb_voix":88,
+                    "ratio_exprimes":28.76
+                }
+            ]
+        },
+        {  
+            "va_id":114,
+            "inscrits":663,
+            "votants":278,
+            "exprimes":269,
+            "resultats":[  
+                {  
+                    "tete":"Cecile Dumas / Michael Micoud",
+                    "label":"FDG",
+                    "nb_voix":22,
+                    "ratio_exprimes":8.18
+                },
+                {  
+                    "tete":"Jean-Noel Falcou / Isabelle Fleury",
+                    "label":"SE",
+                    "nb_voix":47,
+                    "ratio_exprimes":17.47
+                },
+                {  
+                    "tete":"Patrick Lavitola / Marie-Line Serafino",
+                    "label":"DVD",
+                    "nb_voix":14,
+                    "ratio_exprimes":5.20
+                },                
+                {  
+                    "tete":"Georges Roux / Michelle Salucki",
+                    "label":"UMP",
+                    "nb_voix":91,
+                    "ratio_exprimes":33.83
+                },
+                {  
+                    "tete":"Anne Chevalier / Lionel Tivoli",
+                    "label":"FN",
+                    "nb_voix":95,
+                    "ratio_exprimes":35.32
+                }
+            ]
+        },
+        {  
+            "va_id":115,
+            "inscrits":798,
+            "votants":196,
+            "exprimes":189,
+            "resultats":[  
+                {  
+                    "tete":"Cecile Dumas / Michael Micoud",
+                    "label":"FDG",
+                    "nb_voix":25,
+                    "ratio_exprimes":13.23
+                },
+                {  
+                    "tete":"Jean-Noel Falcou / Isabelle Fleury",
+                    "label":"SE",
+                    "nb_voix":54,
+                    "ratio_exprimes":28.57
+                },
+                {  
+                    "tete":"Patrick Lavitola / Marie-Line Serafino",
+                    "label":"DVD",
+                    "nb_voix":17,
+                    "ratio_exprimes":7.41
+                },                
+                {  
+                    "tete":"Georges Roux / Michelle Salucki",
+                    "label":"UMP",
+                    "nb_voix":58,
+                    "ratio_exprimes":30.69
+                },
+                {  
+                    "tete":"Anne Chevalier / Lionel Tivoli",
+                    "label":"FN",
+                    "nb_voix":38,
+                    "ratio_exprimes":20.11
+                }
+            ]
+        },
+        {  
+            "va_id":116,
+            "inscrits":823,
+            "votants":408,
+            "exprimes":395,
+            "resultats":[  
+                {  
+                    "tete":"Cecile Dumas / Michael Micoud",
+                    "label":"FDG",
+                    "nb_voix":21,
+                    "ratio_exprimes":5.32
+                },
+                {  
+                    "tete":"Jean-Noel Falcou / Isabelle Fleury",
+                    "label":"SE",
+                    "nb_voix":49,
+                    "ratio_exprimes":12.41
+                },
+                {  
+                    "tete":"Patrick Lavitola / Marie-Line Serafino",
+                    "label":"DVD",
+                    "nb_voix":14,
+                    "ratio_exprimes":3.54
+                },                
+                {  
+                    "tete":"Georges Roux / Michelle Salucki",
+                    "label":"UMP",
+                    "nb_voix":116,
+                    "ratio_exprimes":32.40
+                },
+                {  
+                    "tete":"Anne Chevalier / Lionel Tivoli",
+                    "label":"FN",
+                    "nb_voix":154,
+                    "ratio_exprimes":38.99
+                }
+            ]
+        },
+        {  
+            "va_id":117,
+            "inscrits":824,
+            "votants":364,
+            "exprimes":358,
+            "resultats":[  
+                {  
+                    "tete":"Cecile Dumas / Michael Micoud",
+                    "label":"FDG",
+                    "nb_voix":22,
+                    "ratio_exprimes":6.15
+                },
+                {  
+                    "tete":"Jean-Noel Falcou / Isabelle Fleury",
+                    "label":"SE",
+                    "nb_voix":66,
+                    "ratio_exprimes":18.44
+                },
+                {  
+                    "tete":"Patrick Lavitola / Marie-Line Serafino",
+                    "label":"DVD",
+                    "nb_voix":24,
+                    "ratio_exprimes":6.70
+                },                
+                {  
+                    "tete":"Georges Roux / Michelle Salucki",
+                    "label":"UMP",
+                    "nb_voix":116,
+                    "ratio_exprimes":32.40
+                },
+                {  
+                    "tete":"Anne Chevalier / Lionel Tivoli",
+                    "label":"FN",
+                    "nb_voix":130,
+                    "ratio_exprimes":36.31
+                }
+            ]
+        },
+        {  
+            "va_id":118,
+            "inscrits":835,
+            "votants":308,
+            "exprimes":303,
+            "resultats":[  
+                {  
+                    "tete":"Cecile Dumas / Michael Micoud",
+                    "label":"FDG",
+                    "nb_voix":30,
+                    "ratio_exprimes":9.90
+                },
+                {  
+                    "tete":"Jean-Noel Falcou / Isabelle Fleury",
+                    "label":"SE",
+                    "nb_voix":62,
+                    "ratio_exprimes":20.46
+                },
+                {  
+                    "tete":"Patrick Lavitola / Marie-Line Serafino",
+                    "label":"DVD",
+                    "nb_voix":27,
+                    "ratio_exprimes":8.91
+                },                
+                {  
+                    "tete":"Georges Roux / Michelle Salucki",
+                    "label":"UMP",
+                    "nb_voix":93,
+                    "ratio_exprimes":30.69
+                },
+                {  
+                    "tete":"Anne Chevalier / Lionel Tivoli",
+                    "label":"FN",
+                    "nb_voix":91,
+                    "ratio_exprimes":30.03
+                }
+            ]
+        },
+        {  
+            "va_id":119,
+            "inscrits":643,
+            "votants":224,
+            "exprimes":217,
+            "resultats":[  
+                {  
+                    "tete":"Cecile Dumas / Michael Micoud",
+                    "label":"FDG",
+                    "nb_voix":8,
+                    "ratio_exprimes":3.69
+                },
+                {  
+                    "tete":"Jean-Noel Falcou / Isabelle Fleury",
+                    "label":"SE",
+                    "nb_voix":41,
+                    "ratio_exprimes":18.89
+                },
+                {  
+                    "tete":"Patrick Lavitola / Marie-Line Serafino",
+                    "label":"DVD",
+                    "nb_voix":15,
+                    "ratio_exprimes":6.91
+                },                
+                {  
+                    "tete":"Georges Roux / Michelle Salucki",
+                    "label":"UMP",
+                    "nb_voix":79,
+                    "ratio_exprimes":36.41
+                },
+                {  
+                    "tete":"Anne Chevalier / Lionel Tivoli",
+                    "label":"FN",
+                    "nb_voix":74,
+                    "ratio_exprimes":34.10
+                }
+            ]
+        },
+        {  
+            "va_id":120,
+            "inscrits":857,
+            "votants":371,
+            "exprimes":358,
+            "resultats":[  
+                {  
+                    "tete":"Cecile Dumas / Michael Micoud",
+                    "label":"FDG",
+                    "nb_voix":17,
+                    "ratio_exprimes":4.75
+                },
+                {  
+                    "tete":"Jean-Noel Falcou / Isabelle Fleury",
+                    "label":"SE",
+                    "nb_voix":61,
+                    "ratio_exprimes":17.04
+                },
+                {  
+                    "tete":"Patrick Lavitola / Marie-Line Serafino",
+                    "label":"DVD",
+                    "nb_voix":29,
+                    "ratio_exprimes":8.10
+                },                
+                {  
+                    "tete":"Georges Roux / Michelle Salucki",
+                    "label":"UMP",
+                    "nb_voix":110,
+                    "ratio_exprimes":30.73
+                },
+                {  
+                    "tete":"Anne Chevalier / Lionel Tivoli",
+                    "label":"FN",
+                    "nb_voix":141,
+                    "ratio_exprimes":39.39
+                }
+            ]
+        },
+        {  
+            "va_id":121,
+            "inscrits":934,
+            "votants":456,
+            "exprimes":444,
+            "resultats":[  
+                {  
+                    "tete":"Cecile Dumas / Michael Micoud",
+                    "label":"FDG",
+                    "nb_voix":24,
+                    "ratio_exprimes":5.41
+                },
+                {  
+                    "tete":"Jean-Noel Falcou / Isabelle Fleury",
+                    "label":"SE",
+                    "nb_voix":75,
+                    "ratio_exprimes":16.89
+                },
+                {  
+                    "tete":"Patrick Lavitola / Marie-Line Serafino",
+                    "label":"DVD",
+                    "nb_voix":25,
+                    "ratio_exprimes":5.63
+                },                
+                {  
+                    "tete":"Georges Roux / Michelle Salucki",
+                    "label":"UMP",
+                    "nb_voix":143,
+                    "ratio_exprimes":32.21
+                },
+                {  
+                    "tete":"Anne Chevalier / Lionel Tivoli",
+                    "label":"FN",
+                    "nb_voix":177,
+                    "ratio_exprimes":39.86
+                }
+            ]
+        },
+        {  
+            "va_id":122,
+            "inscrits":793,
+            "votants":326,
+            "exprimes":320,
+            "resultats":[  
+                {  
+                    "tete":"Cecile Dumas / Michael Micoud",
+                    "label":"FDG",
+                    "nb_voix":21,
+                    "ratio_exprimes":6.56
+                },
+                {  
+                    "tete":"Jean-Noel Falcou / Isabelle Fleury",
+                    "label":"SE",
+                    "nb_voix":53,
+                    "ratio_exprimes":16.56
+                },
+                {  
+                    "tete":"Patrick Lavitola / Marie-Line Serafino",
+                    "label":"DVD",
+                    "nb_voix":15,
+                    "ratio_exprimes":4.69
+                },                
+                {  
+                    "tete":"Georges Roux / Michelle Salucki",
+                    "label":"UMP",
+                    "nb_voix":98,
+                    "ratio_exprimes":30.63
+                },
+                {  
+                    "tete":"Anne Chevalier / Lionel Tivoli",
+                    "label":"FN",
+                    "nb_voix":133,
+                    "ratio_exprimes":41.56
+                }
+            ]
+        },
+        {  
+            "va_id":123,
+            "inscrits":557,
+            "votants":231,
+            "exprimes":223,
+            "resultats":[  
+                {  
+                    "tete":"Cecile Dumas / Michael Micoud",
+                    "label":"FDG",
+                    "nb_voix":9,
+                    "ratio_exprimes":4.04
+                },
+                {  
+                    "tete":"Jean-Noel Falcou / Isabelle Fleury",
+                    "label":"SE",
+                    "nb_voix":27,
+                    "ratio_exprimes":12.11
+                },
+                {  
+                    "tete":"Patrick Lavitola / Marie-Line Serafino",
+                    "label":"DVD",
+                    "nb_voix":11,
+                    "ratio_exprimes":4.93
+                },                
+                {  
+                    "tete":"Georges Roux / Michelle Salucki",
+                    "label":"UMP",
+                    "nb_voix":96,
+                    "ratio_exprimes":43.05
+                },
+                {  
+                    "tete":"Anne Chevalier / Lionel Tivoli",
+                    "label":"FN",
+                    "nb_voix":80,
+                    "ratio_exprimes":35.87
+                }
+            ]
+        },
+        {  
+            "va_id":124,
+            "inscrits":795,
+            "votants":389,
+            "exprimes":372,
+            "resultats":[  
+                {  
+                    "tete":"Cecile Dumas / Michael Micoud",
+                    "label":"FDG",
+                    "nb_voix":24,
+                    "ratio_exprimes":6.45
+                },
+                {  
+                    "tete":"Jean-Noel Falcou / Isabelle Fleury",
+                    "label":"SE",
+                    "nb_voix":74,
+                    "ratio_exprimes":19.89
+                },
+                {  
+                    "tete":"Patrick Lavitola / Marie-Line Serafino",
+                    "label":"DVD",
+                    "nb_voix":13,
+                    "ratio_exprimes":3.49
+                },                
+                {  
+                    "tete":"Georges Roux / Michelle Salucki",
+                    "label":"UMP",
+                    "nb_voix":146,
+                    "ratio_exprimes":39.25
+                },
+                {  
+                    "tete":"Anne Chevalier / Lionel Tivoli",
+                    "label":"FN",
+                    "nb_voix":115,
+                    "ratio_exprimes":30.91
+                }
+            ]
+        },
+        {  
+            "va_id":125,
+            "inscrits":849,
+            "votants":350,
+            "exprimes":341,
+            "resultats":[  
+                {  
+                    "tete":"Cecile Dumas / Michael Micoud",
+                    "label":"FDG",
+                    "nb_voix":40,
+                    "ratio_exprimes":11.73
+                },
+                {  
+                    "tete":"Jean-Noel Falcou / Isabelle Fleury",
+                    "label":"SE",
+                    "nb_voix":56,
+                    "ratio_exprimes":16.42
+                },
+                {  
+                    "tete":"Patrick Lavitola / Marie-Line Serafino",
+                    "label":"DVD",
+                    "nb_voix":19,
+                    "ratio_exprimes":5.57
+                },                
+                {  
+                    "tete":"Georges Roux / Michelle Salucki",
+                    "label":"UMP",
+                    "nb_voix":113,
+                    "ratio_exprimes":33.14
+                },
+                {  
+                    "tete":"Anne Chevalier / Lionel Tivoli",
+                    "label":"FN",
+                    "nb_voix":113,
+                    "ratio_exprimes":33.14
+                }
+            ]
+        },
+        {  
+            "va_id":126,
+            "inscrits":655,
+            "votants":293,
+            "exprimes":285,
+            "resultats":[  
+                {  
+                    "tete":"Cecile Dumas / Michael Micoud",
+                    "label":"FDG",
+                    "nb_voix":35,
+                    "ratio_exprimes":12.28
+                },
+                {  
+                    "tete":"Jean-Noel Falcou / Isabelle Fleury",
+                    "label":"SE",
+                    "nb_voix":49,
+                    "ratio_exprimes":17.19
+                },
+                {  
+                    "tete":"Patrick Lavitola / Marie-Line Serafino",
+                    "label":"DVD",
+                    "nb_voix":15,
+                    "ratio_exprimes":5.26
+                },                
+                {  
+                    "tete":"Georges Roux / Michelle Salucki",
+                    "label":"UMP",
+                    "nb_voix":94,
+                    "ratio_exprimes":32.98
+                },
+                {  
+                    "tete":"Anne Chevalier / Lionel Tivoli",
+                    "label":"FN",
+                    "nb_voix":92,
+                    "ratio_exprimes":32.28
+                }
+            ]
+        },
+        {  
+            "va_id":127,
+            "inscrits":849,
+            "votants":411,
+            "exprimes":394,
+            "resultats":[  
+                {  
+                    "tete":"Cecile Dumas / Michael Micoud",
+                    "label":"FDG",
+                    "nb_voix":27,
+                    "ratio_exprimes":6.85
+                },
+                {  
+                    "tete":"Jean-Noel Falcou / Isabelle Fleury",
+                    "label":"SE",
+                    "nb_voix":51,
+                    "ratio_exprimes":12.94
+                },
+                {  
+                    "tete":"Patrick Lavitola / Marie-Line Serafino",
+                    "label":"DVD",
+                    "nb_voix":14,
+                    "ratio_exprimes":3.55
+                },                
+                {  
+                    "tete":"Georges Roux / Michelle Salucki",
+                    "label":"UMP",
+                    "nb_voix":141,
+                    "ratio_exprimes":35.79
+                },
+                {  
+                    "tete":"Anne Chevalier / Lionel Tivoli",
+                    "label":"FN",
+                    "nb_voix":161,
+                    "ratio_exprimes":40.86
+                }
+            ]
+        },
+        {  
+            "va_id":128,
+            "inscrits":757,
+            "votants":331,
+            "exprimes":321,
+            "resultats":[  
+                {  
+                    "tete":"Cecile Dumas / Michael Micoud",
+                    "label":"FDG",
+                    "nb_voix":13,
+                    "ratio_exprimes":4.05
+                },
+                {  
+                    "tete":"Jean-Noel Falcou / Isabelle Fleury",
+                    "label":"SE",
+                    "nb_voix":38,
+                    "ratio_exprimes":11.84
+                },
+                {  
+                    "tete":"Patrick Lavitola / Marie-Line Serafino",
+                    "label":"DVD",
+                    "nb_voix":4,
+                    "ratio_exprimes":1.25
+                },                
+                {  
+                    "tete":"Georges Roux / Michelle Salucki",
+                    "label":"UMP",
+                    "nb_voix":154,
+                    "ratio_exprimes":47.98
+                },
+                {  
+                    "tete":"Anne Chevalier / Lionel Tivoli",
+                    "label":"FN",
+                    "nb_voix":112,
+                    "ratio_exprimes":34.89
+                }
+            ]
+        },
+        {  
+            "va_id":129,
+            "inscrits":833,
+            "votants":352,
+            "exprimes":344,
+            "resultats":[  
+                {  
+                    "tete":"Cecile Dumas / Michael Micoud",
+                    "label":"FDG",
+                    "nb_voix":21,
+                    "ratio_exprimes":6.10
+                },
+                {  
+                    "tete":"Jean-Noel Falcou / Isabelle Fleury",
+                    "label":"SE",
+                    "nb_voix":33,
+                    "ratio_exprimes":9.59
+                },
+                {  
+                    "tete":"Patrick Lavitola / Marie-Line Serafino",
+                    "label":"DVD",
+                    "nb_voix":10,
+                    "ratio_exprimes":2.91
+                },                
+                {  
+                    "tete":"Georges Roux / Michelle Salucki",
+                    "label":"UMP",
+                    "nb_voix":152,
+                    "ratio_exprimes":44.19
+                },
+                {  
+                    "tete":"Anne Chevalier / Lionel Tivoli",
+                    "label":"FN",
+                    "nb_voix":128,
+                    "ratio_exprimes":37.21
+                }
+            ]
+        },
+        {  
+            "va_id":130,
+            "inscrits":760,
+            "votants":341,
+            "exprimes":329,
+            "resultats":[  
+                {  
+                    "tete":"Cecile Dumas / Michael Micoud",
+                    "label":"FDG",
+                    "nb_voix":15,
+                    "ratio_exprimes":4.56
+                },
+                {  
+                    "tete":"Jean-Noel Falcou / Isabelle Fleury",
+                    "label":"SE",
+                    "nb_voix":34,
+                    "ratio_exprimes":10.33
+                },
+                {  
+                    "tete":"Patrick Lavitola / Marie-Line Serafino",
+                    "label":"DVD",
+                    "nb_voix":12,
+                    "ratio_exprimes":3.65
+                },                
+                {  
+                    "tete":"Georges Roux / Michelle Salucki",
+                    "label":"UMP",
+                    "nb_voix":143,
+                    "ratio_exprimes":43.47
+                },
+                {  
+                    "tete":"Anne Chevalier / Lionel Tivoli",
+                    "label":"FN",
+                    "nb_voix":125,
+                    "ratio_exprimes":37.99
+                }
+            ]
+        },
+        {  
+            "va_id":131,
+            "inscrits":927,
+            "votants":455,
+            "exprimes":441,
+            "resultats":[  
+                {  
+                    "tete":"Cecile Dumas / Michael Micoud",
+                    "label":"FDG",
+                    "nb_voix":19,
+                    "ratio_exprimes":4.31
+                },
+                {  
+                    "tete":"Jean-Noel Falcou / Isabelle Fleury",
+                    "label":"SE",
+                    "nb_voix":78,
+                    "ratio_exprimes":17.69
+                },
+                {  
+                    "tete":"Patrick Lavitola / Marie-Line Serafino",
+                    "label":"DVD",
+                    "nb_voix":22,
+                    "ratio_exprimes":4.99
+                },                
+                {  
+                    "tete":"Georges Roux / Michelle Salucki",
+                    "label":"UMP",
+                    "nb_voix":211,
+                    "ratio_exprimes":47.85
+                },
+                {  
+                    "tete":"Anne Chevalier / Lionel Tivoli",
+                    "label":"FN",
+                    "nb_voix":111,
+                    "ratio_exprimes":25.17
+                }
+            ]
+        },
+        {  
+            "va_id":132,
+            "inscrits":668,
+            "votants":337,
+            "exprimes":327,
+            "resultats":[  
+                {  
+                    "tete":"Cecile Dumas / Michael Micoud",
+                    "label":"FDG",
+                    "nb_voix":14,
+                    "ratio_exprimes":4.28
+                },
+                {  
+                    "tete":"Jean-Noel Falcou / Isabelle Fleury",
+                    "label":"SE",
+                    "nb_voix":55,
+                    "ratio_exprimes":16.82
+                },
+                {  
+                    "tete":"Patrick Lavitola / Marie-Line Serafino",
+                    "label":"DVD",
+                    "nb_voix":7,
+                    "ratio_exprimes":2.14
+                },                
+                {  
+                    "tete":"Georges Roux / Michelle Salucki",
+                    "label":"UMP",
+                    "nb_voix":132,
+                    "ratio_exprimes":40.37
+                },
+                {  
+                    "tete":"Anne Chevalier / Lionel Tivoli",
+                    "label":"FN",
+                    "nb_voix":119,
+                    "ratio_exprimes":36.39
+                }
+            ]
+        },
+        {  
+            "va_id":133,
+            "inscrits":704,
+            "votants":294,
+            "exprimes":287,
+            "resultats":[  
+                {  
+                    "tete":"Cecile Dumas / Michael Micoud",
+                    "label":"FDG",
+                    "nb_voix":9,
+                    "ratio_exprimes":3.14
+                },
+                {  
+                    "tete":"Jean-Noel Falcou / Isabelle Fleury",
+                    "label":"SE",
+                    "nb_voix":42,
+                    "ratio_exprimes":14.63
+                },
+                {  
+                    "tete":"Patrick Lavitola / Marie-Line Serafino",
+                    "label":"DVD",
+                    "nb_voix":8,
+                    "ratio_exprimes":2.79
+                },                
+                {  
+                    "tete":"Georges Roux / Michelle Salucki",
+                    "label":"UMP",
+                    "nb_voix":110,
+                    "ratio_exprimes":38.33
+                },
+                {  
+                    "tete":"Anne Chevalier / Lionel Tivoli",
+                    "label":"FN",
+                    "nb_voix":118,
+                    "ratio_exprimes":41.11
+                }
+            ]
+        },
+        {  
+            "va_id":134,
+            "inscrits":700,
+            "votants":380,
+            "exprimes":364,
+            "resultats":[  
+                {  
+                    "tete":"Cecile Dumas / Michael Micoud",
+                    "label":"FDG",
+                    "nb_voix":15,
+                    "ratio_exprimes":4.12
+                },
+                {  
+                    "tete":"Jean-Noel Falcou / Isabelle Fleury",
+                    "label":"SE",
+                    "nb_voix":79,
+                    "ratio_exprimes":21.70
+                },
+                {  
+                    "tete":"Patrick Lavitola / Marie-Line Serafino",
+                    "label":"DVD",
+                    "nb_voix":16,
+                    "ratio_exprimes":4.40
+                },                
+                {  
+                    "tete":"Georges Roux / Michelle Salucki",
+                    "label":"UMP",
+                    "nb_voix":121,
+                    "ratio_exprimes":33.24
+                },
+                {  
+                    "tete":"Anne Chevalier / Lionel Tivoli",
+                    "label":"FN",
+                    "nb_voix":133,
+                    "ratio_exprimes":36.54
+                }
+            ]
+        },
+        {  
+            "va_id":201,
+            "inscrits":876,
+            "votants":399,
+            "exprimes":375,
+            "resultats":[  
+                {  
+                    "tete":"Laurie Guerard / Gerard Piel",
+                    "label":"FDG",
+                    "nb_voix":36,
+                    "ratio_exprimes":9.6
+                },
+                {  
+                    "tete":"Nora Choubane / Arnaud Delcasse",
+                    "label":"PS",
+                    "nb_voix":34,
+                    "ratio_exprimes":9.02
+                },  
+                {  
+                    "tete":"Alexandra Borchio-Fontimp / Jacques Gente",
+                    "label":"UMP",
+                    "nb_voix":162,
+                    "ratio_exprimes":43.2
+                },
+                {  
+                    "tete":"Tanguy Cornec / Rose-Marie Duse",
+                    "label":"FN",
+                    "nb_voix":134,
+                    "ratio_exprimes":35.73
+                }
+            ]
+        },
+        {  
+            "va_id":202,
+            "inscrits":760,
+            "votants":324,
+            "exprimes":301,
+            "resultats":[  
+                {  
+                    "tete":"Laurie Guerard / Gerard Piel",
+                    "label":"FDG",
+                    "nb_voix":24,
+                    "ratio_exprimes":7.97
+                },
+                {  
+                    "tete":"Nora Choubane / Arnaud Delcasse",
+                    "label":"PS",
+                    "nb_voix":43,
+                    "ratio_exprimes":11.47
+                },  
+                {  
+                    "tete":"Alexandra Borchio-Fontimp / Jacques Gente",
+                    "label":"UMP",
+                    "nb_voix":135,
+                    "ratio_exprimes":44.85
+                },
+                {  
+                    "tete":"Tanguy Cornec / Rose-Marie Duse",
+                    "label":"FN",
+                    "nb_voix":95,
+                    "ratio_exprimes":31.56
+                }
+            ]
+        },
+        {  
+            "va_id":203,
+            "inscrits":683,
+            "votants":342,
+            "exprimes":333,
+            "resultats":[  
+                {  
+                    "tete":"Laurie Guerard / Gerard Piel",
+                    "label":"FDG",
+                    "nb_voix":16,
+                    "ratio_exprimes":4.8
+                },
+                {  
+                    "tete":"Nora Choubane / Arnaud Delcasse",
+                    "label":"PS",
+                    "nb_voix":52,
+                    "ratio_exprimes":15.61
+                },  
+                {  
+                    "tete":"Alexandra Borchio-Fontimp / Jacques Gente",
+                    "label":"UMP",
+                    "nb_voix":190,
+                    "ratio_exprimes":57.06
+                },
+                {  
+                    "tete":"Tanguy Cornec / Rose-Marie Duse",
+                    "label":"FN",
+                    "nb_voix":75,
+                    "ratio_exprimes":22.52
+                }
+            ]
+        },
+        {  
+            "va_id":204,
+            "inscrits":782,
+            "votants":334,
+            "exprimes":322,
+            "resultats":[  
+                {  
+                    "tete":"Laurie Guerard / Gerard Piel",
+                    "label":"FDG",
+                    "nb_voix":48,
+                    "ratio_exprimes":14.91
+                },
+                {  
+                    "tete":"Nora Choubane / Arnaud Delcasse",
+                    "label":"PS",
+                    "nb_voix":56,
+                    "ratio_exprimes":17.39
+                },  
+                {  
+                    "tete":"Alexandra Borchio-Fontimp / Jacques Gente",
+                    "label":"UMP",
+                    "nb_voix":121,
+                    "ratio_exprimes":37.58
+                },
+                {  
+                    "tete":"Tanguy Cornec / Rose-Marie Duse",
+                    "label":"FN",
+                    "nb_voix":97,
+                    "ratio_exprimes":30.12
+                }
+            ]
+        },
+        {  
+            "va_id":205,
+            "inscrits":792,
+            "votants":410,
+            "exprimes":395,
+            "resultats":[  
+                {  
+                    "tete":"Laurie Guerard / Gerard Piel",
+                    "label":"FDG",
+                    "nb_voix":27,
+                    "ratio_exprimes":6.84
+                },
+                {  
+                    "tete":"Nora Choubane / Arnaud Delcasse",
+                    "label":"PS",
+                    "nb_voix":69,
+                    "ratio_exprimes":17.47
+                },  
+                {  
+                    "tete":"Alexandra Borchio-Fontimp / Jacques Gente",
+                    "label":"UMP",
+                    "nb_voix":175,
+                    "ratio_exprimes":44.3
+                },
+                {  
+                    "tete":"Tanguy Cornec / Rose-Marie Duse",
+                    "label":"FN",
+                    "nb_voix":124,
+                    "ratio_exprimes":31.39
+                }
+            ]
+        },
+        {  
+            "va_id":206,
+            "inscrits":866,
+            "votants":438,
+            "exprimes":423,
+            "resultats":[  
+                {  
+                    "tete":"Laurie Guerard / Gerard Piel",
+                    "label":"FDG",
+                    "nb_voix":33,
+                    "ratio_exprimes":7.8
+                },
+                {  
+                    "tete":"Nora Choubane / Arnaud Delcasse",
+                    "label":"PS",
+                    "nb_voix":52,
+                    "ratio_exprimes":12.29
+                },  
+                {  
+                    "tete":"Alexandra Borchio-Fontimp / Jacques Gente",
+                    "label":"UMP",
+                    "nb_voix":214,
+                    "ratio_exprimes":50.59
+                },
+                {  
+                    "tete":"Tanguy Cornec / Rose-Marie Duse",
+                    "label":"FN",
+                    "nb_voix":124,
+                    "ratio_exprimes":31.39
+                }
+            ]
+        },
+        {  
+            "va_id":207,
+            "inscrits":849,
+            "votants":440,
+            "exprimes":428,
+            "resultats":[  
+                {  
+                    "tete":"Laurie Guerard / Gerard Piel",
+                    "label":"FDG",
+                    "nb_voix":13,
+                    "ratio_exprimes":3.04
+                },
+                {  
+                    "tete":"Nora Choubane / Arnaud Delcasse",
+                    "label":"PS",
+                    "nb_voix":50,
+                    "ratio_exprimes":11.6
+                },  
+                {  
+                    "tete":"Alexandra Borchio-Fontimp / Jacques Gente",
+                    "label":"UMP",
+                    "nb_voix":231,
+                    "ratio_exprimes":53.97
+                },
+                {  
+                    "tete":"Tanguy Cornec / Rose-Marie Duse",
+                    "label":"FN",
+                    "nb_voix":134,
+                    "ratio_exprimes":31.31
+                }
+            ]
+        },
+        {  
+            "va_id":208,
+            "inscrits":820,
+            "votants":413,
+            "exprimes":393,
+            "resultats":[  
+                {  
+                    "tete":"Laurie Guerard / Gerard Piel",
+                    "label":"FDG",
+                    "nb_voix":16,
+                    "ratio_exprimes":4.07
+                },
+                {  
+                    "tete":"Nora Choubane / Arnaud Delcasse",
+                    "label":"PS",
+                    "nb_voix":43,
+                    "ratio_exprimes":10.94
+                },  
+                {  
+                    "tete":"Alexandra Borchio-Fontimp / Jacques Gente",
+                    "label":"UMP",
+                    "nb_voix":215,
+                    "ratio_exprimes":54.71
+                },
+                {  
+                    "tete":"Tanguy Cornec / Rose-Marie Duse",
+                    "label":"FN",
+                    "nb_voix":119,
+                    "ratio_exprimes":30.28
+                }
+            ]
+        },
+        {  
+            "va_id":209,
+            "inscrits":959,
+            "votants":426,
+            "exprimes":404,
+            "resultats":[  
+                {  
+                    "tete":"Laurie Guerard / Gerard Piel",
+                    "label":"FDG",
+                    "nb_voix":27,
+                    "ratio_exprimes":6.68
+                },
+                {  
+                    "tete":"Nora Choubane / Arnaud Delcasse",
+                    "label":"PS",
+                    "nb_voix":45,
+                    "ratio_exprimes":11.14
+                },  
+                {  
+                    "tete":"Alexandra Borchio-Fontimp / Jacques Gente",
+                    "label":"UMP",
+                    "nb_voix":193,
+                    "ratio_exprimes":47.77
+                },
+                {  
+                    "tete":"Tanguy Cornec / Rose-Marie Duse",
+                    "label":"FN",
+                    "nb_voix":139,
+                    "ratio_exprimes":30.28
+                }
+            ]
+        },
+        {  
+            "va_id":210,
+            "inscrits":934,
+            "votants":435,
+            "exprimes":413,
+            "resultats":[  
+                {  
+                    "tete":"Laurie Guerard / Gerard Piel",
+                    "label":"FDG",
+                    "nb_voix":35,
+                    "ratio_exprimes":8.47
+                },
+                {  
+                    "tete":"Nora Choubane / Arnaud Delcasse",
+                    "label":"PS",
+                    "nb_voix":65,
+                    "ratio_exprimes":15.74
+                },  
+                {  
+                    "tete":"Alexandra Borchio-Fontimp / Jacques Gente",
+                    "label":"UMP",
+                    "nb_voix":175,
+                    "ratio_exprimes":42.37
+                },
+                {  
+                    "tete":"Tanguy Cornec / Rose-Marie Duse",
+                    "label":"FN",
+                    "nb_voix":138,
+                    "ratio_exprimes":33.41
+                }
+            ]
+        },
+        {  
+            "va_id":211,
+            "inscrits":960,
+            "votants":338,
+            "exprimes":318,
+            "resultats":[  
+                {  
+                    "tete":"Laurie Guerard / Gerard Piel",
+                    "label":"FDG",
+                    "nb_voix":20,
+                    "ratio_exprimes":6.29
+                },
+                {  
+                    "tete":"Nora Choubane / Arnaud Delcasse",
+                    "label":"PS",
+                    "nb_voix":52,
+                    "ratio_exprimes":16.35
+                },  
+                {  
+                    "tete":"Alexandra Borchio-Fontimp / Jacques Gente",
+                    "label":"UMP",
+                    "nb_voix":136,
+                    "ratio_exprimes":42.77
+                },
+                {  
+                    "tete":"Tanguy Cornec / Rose-Marie Duse",
+                    "label":"FN",
+                    "nb_voix":110,
+                    "ratio_exprimes":34.59
+                }
+            ]
+        },
+        {  
+            "va_id":212,
+            "inscrits":753,
+            "votants":363,
+            "exprimes":349,
+            "resultats":[  
+                {  
+                    "tete":"Laurie Guerard / Gerard Piel",
+                    "label":"FDG",
+                    "nb_voix":8,
+                    "ratio_exprimes":2.29
+                },
+                {  
+                    "tete":"Nora Choubane / Arnaud Delcasse",
+                    "label":"PS",
+                    "nb_voix":31,
+                    "ratio_exprimes":8.88
+                },  
+                {  
+                    "tete":"Alexandra Borchio-Fontimp / Jacques Gente",
+                    "label":"UMP",
+                    "nb_voix":196,
+                    "ratio_exprimes":56.16
+                },
+                {  
+                    "tete":"Tanguy Cornec / Rose-Marie Duse",
+                    "label":"FN",
+                    "nb_voix":114,
+                    "ratio_exprimes":32.66
+                }
+            ]
+        },
+        {  
+            "va_id":213,
+            "inscrits":641,
+            "votants":321,
+            "exprimes":314,
+            "resultats":[  
+                {  
+                    "tete":"Laurie Guerard / Gerard Piel",
+                    "label":"FDG",
+                    "nb_voix":11,
+                    "ratio_exprimes":3.5
+                },
+                {  
+                    "tete":"Nora Choubane / Arnaud Delcasse",
+                    "label":"PS",
+                    "nb_voix":35,
+                    "ratio_exprimes":11.15
+                },  
+                {  
+                    "tete":"Alexandra Borchio-Fontimp / Jacques Gente",
+                    "label":"UMP",
+                    "nb_voix":183,
+                    "ratio_exprimes":58.28
+                },
+                {  
+                    "tete":"Tanguy Cornec / Rose-Marie Duse",
+                    "label":"FN",
+                    "nb_voix":85,
+                    "ratio_exprimes":27.07
+                }
+            ]
+        },
+        {  
+            "va_id":214,
+            "inscrits":767,
+            "votants":360,
+            "exprimes":346,
+            "resultats":[  
+                {  
+                    "tete":"Laurie Guerard / Gerard Piel",
+                    "label":"FDG",
+                    "nb_voix":21,
+                    "ratio_exprimes":6.07
+                },
+                {  
+                    "tete":"Nora Choubane / Arnaud Delcasse",
+                    "label":"PS",
+                    "nb_voix":36,
+                    "ratio_exprimes":10.4
+                },  
+                {  
+                    "tete":"Alexandra Borchio-Fontimp / Jacques Gente",
+                    "label":"UMP",
+                    "nb_voix":160,
+                    "ratio_exprimes":46.24
+                },
+                {  
+                    "tete":"Tanguy Cornec / Rose-Marie Duse",
+                    "label":"FN",
+                    "nb_voix":129,
+                    "ratio_exprimes":37.28
+                }
+            ]
+        },
+        {  
+            "va_id":215,
+            "inscrits":967,
+            "votants":487,
+            "exprimes":476,
+            "resultats":[  
+                {  
+                    "tete":"Laurie Guerard / Gerard Piel",
+                    "label":"FDG",
+                    "nb_voix":32,
+                    "ratio_exprimes":6.72
+                },
+                {  
+                    "tete":"Nora Choubane / Arnaud Delcasse",
+                    "label":"PS",
+                    "nb_voix":59,
+                    "ratio_exprimes":12.39
+                },  
+                {  
+                    "tete":"Alexandra Borchio-Fontimp / Jacques Gente",
+                    "label":"UMP",
+                    "nb_voix":237,
+                    "ratio_exprimes":49.79
+                },
+                {  
+                    "tete":"Tanguy Cornec / Rose-Marie Duse",
+                    "label":"FN",
+                    "nb_voix":148,
+                    "ratio_exprimes":31.09
+                }
+            ]
+        },
+        {  
+            "va_id":216,
+            "inscrits":934,
+            "votants":447,
+            "exprimes":436,
+            "resultats":[  
+                {  
+                    "tete":"Laurie Guerard / Gerard Piel",
+                    "label":"FDG",
+                    "nb_voix":29,
+                    "ratio_exprimes":6.65
+                },
+                {  
+                    "tete":"Nora Choubane / Arnaud Delcasse",
+                    "label":"PS",
+                    "nb_voix":72,
+                    "ratio_exprimes":16.51
+                },  
+                {  
+                    "tete":"Alexandra Borchio-Fontimp / Jacques Gente",
+                    "label":"UMP",
+                    "nb_voix":182,
+                    "ratio_exprimes":41.74
+                },
+                {  
+                    "tete":"Tanguy Cornec / Rose-Marie Duse",
+                    "label":"FN",
+                    "nb_voix":153,
+                    "ratio_exprimes":35.09
+                }
+            ]
+        },
+        {  
+            "va_id":217,
+            "inscrits":891,
+            "votants":476,
+            "exprimes":458,
+            "resultats":[  
+                {  
+                    "tete":"Laurie Guerard / Gerard Piel",
+                    "label":"FDG",
+                    "nb_voix":27,
+                    "ratio_exprimes":5.9
+                },
+                {  
+                    "tete":"Nora Choubane / Arnaud Delcasse",
+                    "label":"PS",
+                    "nb_voix":50,
+                    "ratio_exprimes":10.92
+                },  
+                {  
+                    "tete":"Alexandra Borchio-Fontimp / Jacques Gente",
+                    "label":"UMP",
+                    "nb_voix":216,
+                    "ratio_exprimes":47.16
+                },
+                {  
+                    "tete":"Tanguy Cornec / Rose-Marie Duse",
+                    "label":"FN",
+                    "nb_voix":165,
+                    "ratio_exprimes":36.03
+                }
+            ]
+        },
+        {  
+            "va_id":218,
+            "inscrits":637,
+            "votants":330,
+            "exprimes":313,
+            "resultats":[  
+                {  
+                    "tete":"Laurie Guerard / Gerard Piel",
+                    "label":"FDG",
+                    "nb_voix":6,
+                    "ratio_exprimes":1.92
+                },
+                {  
+                    "tete":"Nora Choubane / Arnaud Delcasse",
+                    "label":"PS",
+                    "nb_voix":30,
+                    "ratio_exprimes":9.58
+                },  
+                {  
+                    "tete":"Alexandra Borchio-Fontimp / Jacques Gente",
+                    "label":"UMP",
+                    "nb_voix":177,
+                    "ratio_exprimes":56.55
+                },
+                {  
+                    "tete":"Tanguy Cornec / Rose-Marie Duse",
+                    "label":"FN",
+                    "nb_voix":100,
+                    "ratio_exprimes":31.95
+                }
+            ]
+        },
+        {  
+            "va_id":219,
+            "inscrits":592,
+            "votants":275,
+            "exprimes":263,
+            "resultats":[  
+                {  
+                    "tete":"Laurie Guerard / Gerard Piel",
+                    "label":"FDG",
+                    "nb_voix":7,
+                    "ratio_exprimes":2.66
+                },
+                {  
+                    "tete":"Nora Choubane / Arnaud Delcasse",
+                    "label":"PS",
+                    "nb_voix":14,
+                    "ratio_exprimes":5.32
+                },  
+                {  
+                    "tete":"Alexandra Borchio-Fontimp / Jacques Gente",
+                    "label":"UMP",
+                    "nb_voix":170,
+                    "ratio_exprimes":64.64
+                },
+                {  
+                    "tete":"Tanguy Cornec / Rose-Marie Duse",
+                    "label":"FN",
+                    "nb_voix":72,
+                    "ratio_exprimes":27.38
+                }
+            ]
+        },
+        {  
+            "va_id":220,
+            "inscrits":807,
+            "votants":415,
+            "exprimes":392,
+            "resultats":[  
+                {  
+                    "tete":"Laurie Guerard / Gerard Piel",
+                    "label":"FDG",
+                    "nb_voix":14,
+                    "ratio_exprimes":3.57
+                },
+                {  
+                    "tete":"Nora Choubane / Arnaud Delcasse",
+                    "label":"PS",
+                    "nb_voix":53,
+                    "ratio_exprimes":13.52
+                },  
+                {  
+                    "tete":"Alexandra Borchio-Fontimp / Jacques Gente",
+                    "label":"UMP",
+                    "nb_voix":207,
+                    "ratio_exprimes":52.81
+                },
+                {  
+                    "tete":"Tanguy Cornec / Rose-Marie Duse",
+                    "label":"FN",
+                    "nb_voix":118,
+                    "ratio_exprimes":30.10
+                }
+            ]
+        },
+        {  
+            "va_id":221,
+            "inscrits":621,
+            "votants":341,
+            "exprimes":332,
+            "resultats":[  
+                {  
+                    "tete":"Laurie Guerard / Gerard Piel",
+                    "label":"FDG",
+                    "nb_voix":14,
+                    "ratio_exprimes":4.22
+                },
+                {  
+                    "tete":"Nora Choubane / Arnaud Delcasse",
+                    "label":"PS",
+                    "nb_voix":29,
+                    "ratio_exprimes":8.73
+                },  
+                {  
+                    "tete":"Alexandra Borchio-Fontimp / Jacques Gente",
+                    "label":"UMP",
+                    "nb_voix":187,
+                    "ratio_exprimes":52.81
+                },
+                {  
+                    "tete":"Tanguy Cornec / Rose-Marie Duse",
+                    "label":"FN",
+                    "nb_voix":102,
+                    "ratio_exprimes":30.72
+                }
+            ]
+        },
+        {  
+            "va_id":222,
+            "inscrits":843,
+            "votants":441,
+            "exprimes":429,
+            "resultats":[  
+                {  
+                    "tete":"Laurie Guerard / Gerard Piel",
+                    "label":"FDG",
+                    "nb_voix":32,
+                    "ratio_exprimes":7.46
+                },
+                {  
+                    "tete":"Nora Choubane / Arnaud Delcasse",
+                    "label":"PS",
+                    "nb_voix":49,
+                    "ratio_exprimes":11.42
+                },  
+                {  
+                    "tete":"Alexandra Borchio-Fontimp / Jacques Gente",
+                    "label":"UMP",
+                    "nb_voix":193,
+                    "ratio_exprimes":44.99
+                },
+                {  
+                    "tete":"Tanguy Cornec / Rose-Marie Duse",
+                    "label":"FN",
+                    "nb_voix":155,
+                    "ratio_exprimes":36.13
+                }
+            ]
+        },
+        {  
+            "va_id":223,
+            "inscrits":860,
+            "votants":448,
+            "exprimes":428,
+            "resultats":[  
+                {  
+                    "tete":"Laurie Guerard / Gerard Piel",
+                    "label":"FDG",
+                    "nb_voix":26,
+                    "ratio_exprimes":6.07
+                },
+                {  
+                    "tete":"Nora Choubane / Arnaud Delcasse",
+                    "label":"PS",
+                    "nb_voix":62,
+                    "ratio_exprimes":14.49
+                },  
+                {  
+                    "tete":"Alexandra Borchio-Fontimp / Jacques Gente",
+                    "label":"UMP",
+                    "nb_voix":196,
+                    "ratio_exprimes":45.79
+                },
+                {  
+                    "tete":"Tanguy Cornec / Rose-Marie Duse",
+                    "label":"FN",
+                    "nb_voix":144,
+                    "ratio_exprimes":33.64
+                }
+            ]
+        },
+        {  
+            "va_id":224,
+            "inscrits":900,
+            "votants":484,
+            "exprimes":462,
+            "resultats":[  
+                {  
+                    "tete":"Laurie Guerard / Gerard Piel",
+                    "label":"FDG",
+                    "nb_voix":21,
+                    "ratio_exprimes":4.55
+                },
+                {  
+                    "tete":"Nora Choubane / Arnaud Delcasse",
+                    "label":"PS",
+                    "nb_voix":67,
+                    "ratio_exprimes":14.50
+                },  
+                {  
+                    "tete":"Alexandra Borchio-Fontimp / Jacques Gente",
+                    "label":"UMP",
+                    "nb_voix":233,
+                    "ratio_exprimes":50.43
+                },
+                {  
+                    "tete":"Tanguy Cornec / Rose-Marie Duse",
+                    "label":"FN",
+                    "nb_voix":141,
+                    "ratio_exprimes":30.52
+                }
+            ]
+        },
+        {  
+            "va_id":225,
+            "inscrits":892,
+            "votants":443,
+            "exprimes":427,
+            "resultats":[  
+                {  
+                    "tete":"Laurie Guerard / Gerard Piel",
+                    "label":"FDG",
+                    "nb_voix":31,
+                    "ratio_exprimes":7.26
+                },
+                {  
+                    "tete":"Nora Choubane / Arnaud Delcasse",
+                    "label":"PS",
+                    "nb_voix":54,
+                    "ratio_exprimes":12.65
+                },  
+                {  
+                    "tete":"Alexandra Borchio-Fontimp / Jacques Gente",
+                    "label":"UMP",
+                    "nb_voix":218,
+                    "ratio_exprimes":51.05
+                },
+                {  
+                    "tete":"Tanguy Cornec / Rose-Marie Duse",
+                    "label":"FN",
+                    "nb_voix":124,
+                    "ratio_exprimes":29.04
+                }
+            ]
+        },
+        {  
+            "va_id":226,
+            "inscrits":896,
+            "votants":460,
+            "exprimes":441,
+            "resultats":[  
+                {  
+                    "tete":"Laurie Guerard / Gerard Piel",
+                    "label":"FDG",
+                    "nb_voix":34,
+                    "ratio_exprimes":7.71
+                },
+                {  
+                    "tete":"Nora Choubane / Arnaud Delcasse",
+                    "label":"PS",
+                    "nb_voix":57,
+                    "ratio_exprimes":12.83
+                },  
+                {  
+                    "tete":"Alexandra Borchio-Fontimp / Jacques Gente",
+                    "label":"UMP",
+                    "nb_voix":207,
+                    "ratio_exprimes":46.94
+                },
+                {  
+                    "tete":"Tanguy Cornec / Rose-Marie Duse",
+                    "label":"FN",
+                    "nb_voix":143,
+                    "ratio_exprimes":32.43
+                }
+            ]
+        },
+        {  
+            "va_id":227,
+            "inscrits":896,
+            "votants":454,
+            "exprimes":442,
+            "resultats":[  
+                {  
+                    "tete":"Laurie Guerard / Gerard Piel",
+                    "label":"FDG",
+                    "nb_voix":24,
+                    "ratio_exprimes":5.43
+                },
+                {  
+                    "tete":"Nora Choubane / Arnaud Delcasse",
+                    "label":"PS",
+                    "nb_voix":45,
+                    "ratio_exprimes":10.18
+                },  
+                {  
+                    "tete":"Alexandra Borchio-Fontimp / Jacques Gente",
+                    "label":"UMP",
+                    "nb_voix":221,
+                    "ratio_exprimes":50.00
+                },
+                {  
+                    "tete":"Tanguy Cornec / Rose-Marie Duse",
+                    "label":"FN",
+                    "nb_voix":152,
+                    "ratio_exprimes":34.39
+                }
+            ]
+        },
+        {  
+            "va_id":301,
+            "inscrits":733,
+            "votants":317,
+            "exprimes":308,
+            "resultats":[  
+                {  
+                    "tete":"Daniele Bois / Remi Quinton",
+                    "label":"FDG",
+                    "nb_voix":13,
+                    "ratio_exprimes":3.49
+                },
+                {  
+                    "tete":"Aurelien Beveraggi / Michele Muratore",
+                    "label":"PS",
+                    "nb_voix":47,
+                    "ratio_exprimes":12.60
+                },  
+                {  
+                    "tete":"Sophie Deschaintres / Eric Pauget",
+                    "label":"UMP",
+                    "nb_voix":217,
+                    "ratio_exprimes":58.18
+                },
+                {  
+                    "tete":"Cyril Aussenac / Marie-Christine Montanarini",
+                    "label":"FN",
+                    "nb_voix":96,
+                    "ratio_exprimes":25.74
+                }
+            ]
+        },
+        {  
+            "va_id":302,
+            "inscrits":645,
+            "votants":317,
+            "exprimes":308,
+            "resultats":[  
+                {  
+                    "tete":"Daniele Bois / Remi Quinton",
+                    "label":"FDG",
+                    "nb_voix":8,
+                    "ratio_exprimes":2.6
+                },
+                {  
+                    "tete":"Aurelien Beveraggi / Michele Muratore",
+                    "label":"PS",
+                    "nb_voix":32,
+                    "ratio_exprimes":10.39
+                },  
+                {  
+                    "tete":"Sophie Deschaintres / Eric Pauget",
+                    "label":"UMP",
+                    "nb_voix":137,
+                    "ratio_exprimes":44.48
+                },
+                {  
+                    "tete":"Cyril Aussenac / Marie-Christine Montanarini",
+                    "label":"FN",
+                    "nb_voix":131,
+                    "ratio_exprimes":42.53
+                }
+            ]
+        },
+        {  
+            "va_id":303,
+            "inscrits":776,
+            "votants":397,
+            "exprimes":378,
+            "resultats":[  
+                {  
+                    "tete":"Daniele Bois / Remi Quinton",
+                    "label":"FDG",
+                    "nb_voix":20,
+                    "ratio_exprimes":5.29
+                },
+                {  
+                    "tete":"Aurelien Beveraggi / Michele Muratore",
+                    "label":"PS",
+                    "nb_voix":63,
+                    "ratio_exprimes":16.67
+                },  
+                {  
+                    "tete":"Sophie Deschaintres / Eric Pauget",
+                    "label":"UMP",
+                    "nb_voix":172,
+                    "ratio_exprimes":46.50
+                },
+                {  
+                    "tete":"Cyril Aussenac / Marie-Christine Montanarini",
+                    "label":"FN",
+                    "nb_voix":123,
+                    "ratio_exprimes":32.54
+                }
+            ]
+        },
+        {  
+            "va_id":304,
+            "inscrits":849,
+            "votants":441,
+            "exprimes":432,
+            "resultats":[  
+                {  
+                    "tete":"Daniele Bois / Remi Quinton",
+                    "label":"FDG",
+                    "nb_voix":15,
+                    "ratio_exprimes":3.47
+                },
+                {  
+                    "tete":"Aurelien Beveraggi / Michele Muratore",
+                    "label":"PS",
+                    "nb_voix":73,
+                    "ratio_exprimes":16.90
+                },  
+                {  
+                    "tete":"Sophie Deschaintres / Eric Pauget",
+                    "label":"UMP",
+                    "nb_voix":205,
+                    "ratio_exprimes":47.45
+                },
+                {  
+                    "tete":"Cyril Aussenac / Marie-Christine Montanarini",
+                    "label":"FN",
+                    "nb_voix":139,
+                    "ratio_exprimes":32.18
+                }
+            ]
+        },
+        {  
+            "va_id":305,
+            "inscrits":883,
+            "votants":448,
+            "exprimes":425,
+            "resultats":[  
+                {  
+                    "tete":"Daniele Bois / Remi Quinton",
+                    "label":"FDG",
+                    "nb_voix":24,
+                    "ratio_exprimes":5.65
+                },
+                {  
+                    "tete":"Aurelien Beveraggi / Michele Muratore",
+                    "label":"PS",
+                    "nb_voix":70,
+                    "ratio_exprimes":16.47
+                },  
+                {  
+                    "tete":"Sophie Deschaintres / Eric Pauget",
+                    "label":"UMP",
+                    "nb_voix":182,
+                    "ratio_exprimes":42.82
+                },
+                {  
+                    "tete":"Cyril Aussenac / Marie-Christine Montanarini",
+                    "label":"FN",
+                    "nb_voix":149,
+                    "ratio_exprimes":35.06
+                }
+            ]
+        },
+        {  
+            "va_id":306,
+            "inscrits":822,
+            "votants":405,
+            "exprimes":393,
+            "resultats":[  
+                {  
+                    "tete":"Daniele Bois / Remi Quinton",
+                    "label":"FDG",
+                    "nb_voix":28,
+                    "ratio_exprimes":7.12
+                },
+                {  
+                    "tete":"Aurelien Beveraggi / Michele Muratore",
+                    "label":"PS",
+                    "nb_voix":57,
+                    "ratio_exprimes":14.5
+                },  
+                {  
+                    "tete":"Sophie Deschaintres / Eric Pauget",
+                    "label":"UMP",
+                    "nb_voix":177,
+                    "ratio_exprimes":45.04
+                },
+                {  
+                    "tete":"Cyril Aussenac / Marie-Christine Montanarini",
+                    "label":"FN",
+                    "nb_voix":131,
+                    "ratio_exprimes":45.04
+                }
+            ]
+        },
+        {  
+            "va_id":307,
+            "inscrits":696,
+            "votants":367,
+            "exprimes":360,
+            "resultats":[  
+                {  
+                    "tete":"Daniele Bois / Remi Quinton",
+                    "label":"FDG",
+                    "nb_voix":29,
+                    "ratio_exprimes":8.06
+                },
+                {  
+                    "tete":"Aurelien Beveraggi / Michele Muratore",
+                    "label":"PS",
+                    "nb_voix":65,
+                    "ratio_exprimes":18.06
+                },  
+                {  
+                    "tete":"Sophie Deschaintres / Eric Pauget",
+                    "label":"UMP",
+                    "nb_voix":160,
+                    "ratio_exprimes":44.44
+                },
+                {  
+                    "tete":"Cyril Aussenac / Marie-Christine Montanarini",
+                    "label":"FN",
+                    "nb_voix":106,
+                    "ratio_exprimes":29.44
+                }
+            ]
+        },
+        {  
+            "va_id":308,
+            "inscrits":746,
+            "votants":412,
+            "exprimes":399,
+            "resultats":[  
+                {  
+                    "tete":"Daniele Bois / Remi Quinton",
+                    "label":"FDG",
+                    "nb_voix":20,
+                    "ratio_exprimes":5.01
+                },
+                {  
+                    "tete":"Aurelien Beveraggi / Michele Muratore",
+                    "label":"PS",
+                    "nb_voix":65,
+                    "ratio_exprimes":16.29
+                },  
+                {  
+                    "tete":"Sophie Deschaintres / Eric Pauget",
+                    "label":"UMP",
+                    "nb_voix":199,
+                    "ratio_exprimes":49.87
+                },
+                {  
+                    "tete":"Cyril Aussenac / Marie-Christine Montanarini",
+                    "label":"FN",
+                    "nb_voix":115,
+                    "ratio_exprimes":28.82
+                }
+            ]
+        },
+        {  
+            "va_id":309,
+            "inscrits":821,
+            "votants":401,
+            "exprimes":391,
+            "resultats":[  
+                {  
+                    "tete":"Daniele Bois / Remi Quinton",
+                    "label":"FDG",
+                    "nb_voix":15,
+                    "ratio_exprimes":3.84
+                },
+                {  
+                    "tete":"Aurelien Beveraggi / Michele Muratore",
+                    "label":"PS",
+                    "nb_voix":48,
+                    "ratio_exprimes":12.28
+                },  
+                {  
+                    "tete":"Sophie Deschaintres / Eric Pauget",
+                    "label":"UMP",
+                    "nb_voix":184,
+                    "ratio_exprimes":47.06
+                },
+                {  
+                    "tete":"Cyril Aussenac / Marie-Christine Montanarini",
+                    "label":"FN",
+                    "nb_voix":144,
+                    "ratio_exprimes":36.83
+                }
+            ]
+        },
+        {  
+            "va_id":310,
+            "inscrits":995,
+            "votants":519,
+            "exprimes":510,
+            "resultats":[  
+                {  
+                    "tete":"Daniele Bois / Remi Quinton",
+                    "label":"FDG",
+                    "nb_voix":15,
+                    "ratio_exprimes":2.94
+                },
+                {  
+                    "tete":"Aurelien Beveraggi / Michele Muratore",
+                    "label":"PS",
+                    "nb_voix":79,
+                    "ratio_exprimes":15.49
+                },  
+                {  
+                    "tete":"Sophie Deschaintres / Eric Pauget",
+                    "label":"UMP",
+                    "nb_voix":249,
+                    "ratio_exprimes":48.82
+                },
+                {  
+                    "tete":"Cyril Aussenac / Marie-Christine Montanarini",
+                    "label":"FN",
+                    "nb_voix":167,
+                    "ratio_exprimes":32.75
+                }
+            ]
+        },
+        {  
+            "va_id":311,
+            "inscrits":795,
+            "votants":413,
+            "exprimes":395,
+            "resultats":[  
+                {  
+                    "tete":"Daniele Bois / Remi Quinton",
+                    "label":"FDG",
+                    "nb_voix":16,
+                    "ratio_exprimes":4.05
+                },
+                {  
+                    "tete":"Aurelien Beveraggi / Michele Muratore",
+                    "label":"PS",
+                    "nb_voix":63,
+                    "ratio_exprimes":15.95
+                },  
+                {  
+                    "tete":"Sophie Deschaintres / Eric Pauget",
+                    "label":"UMP",
+                    "nb_voix":193,
+                    "ratio_exprimes":48.86
+                },
+                {  
+                    "tete":"Cyril Aussenac / Marie-Christine Montanarini",
+                    "label":"FN",
+                    "nb_voix":123,
+                    "ratio_exprimes":31.14
+                }
+            ]
+        },
+        {  
+            "va_id":312,
+            "inscrits":882,
+            "votants":474,
+            "exprimes":451,
+            "resultats":[  
+                {  
+                    "tete":"Daniele Bois / Remi Quinton",
+                    "label":"FDG",
+                    "nb_voix":17,
+                    "ratio_exprimes":3.77
+                },
+                {  
+                    "tete":"Aurelien Beveraggi / Michele Muratore",
+                    "label":"PS",
+                    "nb_voix":60,
+                    "ratio_exprimes":13.30
+                },  
+                {  
+                    "tete":"Sophie Deschaintres / Eric Pauget",
+                    "label":"UMP",
+                    "nb_voix":256,
+                    "ratio_exprimes":56.76
+                },
+                {  
+                    "tete":"Cyril Aussenac / Marie-Christine Montanarini",
+                    "label":"FN",
+                    "nb_voix":118,
+                    "ratio_exprimes":26.16
+                }
+            ]
+        },
+        {  
+            "va_id":313,
+            "inscrits":879,
+            "votants":424,
+            "exprimes":413,
+            "resultats":[  
+                {  
+                    "tete":"Daniele Bois / Remi Quinton",
+                    "label":"FDG",
+                    "nb_voix":26,
+                    "ratio_exprimes":6.3
+                },
+                {  
+                    "tete":"Aurelien Beveraggi / Michele Muratore",
+                    "label":"PS",
+                    "nb_voix":64,
+                    "ratio_exprimes":15.50
+                },  
+                {  
+                    "tete":"Sophie Deschaintres / Eric Pauget",
+                    "label":"UMP",
+                    "nb_voix":198,
+                    "ratio_exprimes":47.94
+                },
+                {  
+                    "tete":"Cyril Aussenac / Marie-Christine Montanarini",
+                    "label":"FN",
+                    "nb_voix":125,
+                    "ratio_exprimes":30.27
+                }
+            ]
+        },
+        {  
+            "va_id":314,
+            "inscrits":878,
+            "votants":404,
+            "exprimes":388,
+            "resultats":[  
+                {  
+                    "tete":"Daniele Bois / Remi Quinton",
+                    "label":"FDG",
+                    "nb_voix":20,
+                    "ratio_exprimes":5.15
+                },
+                {  
+                    "tete":"Aurelien Beveraggi / Michele Muratore",
+                    "label":"PS",
+                    "nb_voix":50,
+                    "ratio_exprimes":12.89
+                },  
+                {  
+                    "tete":"Sophie Deschaintres / Eric Pauget",
+                    "label":"UMP",
+                    "nb_voix":189,
+                    "ratio_exprimes":48.71
+                },
+                {  
+                    "tete":"Cyril Aussenac / Marie-Christine Montanarini",
+                    "label":"FN",
+                    "nb_voix":129,
+                    "ratio_exprimes":33.25
+                }
+            ]
+        },
+        {  
+            "va_id":315,
+            "inscrits":959,
+            "votants":490,
+            "exprimes":475,
+            "resultats":[  
+                {  
+                    "tete":"Daniele Bois / Remi Quinton",
+                    "label":"FDG",
+                    "nb_voix":14,
+                    "ratio_exprimes":2.95
+                },
+                {  
+                    "tete":"Aurelien Beveraggi / Michele Muratore",
+                    "label":"PS",
+                    "nb_voix":73,
+                    "ratio_exprimes":15.37
+                },  
+                {  
+                    "tete":"Sophie Deschaintres / Eric Pauget",
+                    "label":"UMP",
+                    "nb_voix":233,
+                    "ratio_exprimes":49.05
+                },
+                {  
+                    "tete":"Cyril Aussenac / Marie-Christine Montanarini",
+                    "label":"FN",
+                    "nb_voix":155,
+                    "ratio_exprimes":32.63
+                }
+            ]
+        },
+        {  
+            "va_id":316,
+            "inscrits":961,
+            "votants":494,
+            "exprimes":474,
+            "resultats":[  
+                {  
+                    "tete":"Daniele Bois / Remi Quinton",
+                    "label":"FDG",
+                    "nb_voix":20,
+                    "ratio_exprimes":4.22
+                },
+                {  
+                    "tete":"Aurelien Beveraggi / Michele Muratore",
+                    "label":"PS",
+                    "nb_voix":92,
+                    "ratio_exprimes":19.41
+                },  
+                {  
+                    "tete":"Sophie Deschaintres / Eric Pauget",
+                    "label":"UMP",
+                    "nb_voix":214,
+                    "ratio_exprimes":45.15
+                },
+                {  
+                    "tete":"Cyril Aussenac / Marie-Christine Montanarini",
+                    "label":"FN",
+                    "nb_voix":148,
+                    "ratio_exprimes":31.22
+                }
+            ]
+        },
+        {  
+            "va_id":317,
+            "inscrits":766,
+            "votants":361,
+            "exprimes":338,
+            "resultats":[  
+                {  
+                    "tete":"Daniele Bois / Remi Quinton",
+                    "label":"FDG",
+                    "nb_voix":17,
+                    "ratio_exprimes":5.03
+                },
+                {  
+                    "tete":"Aurelien Beveraggi / Michele Muratore",
+                    "label":"PS",
+                    "nb_voix":53,
+                    "ratio_exprimes":15.68
+                },  
+                {  
+                    "tete":"Sophie Deschaintres / Eric Pauget",
+                    "label":"UMP",
+                    "nb_voix":141,
+                    "ratio_exprimes":41.72
+                },
+                {  
+                    "tete":"Cyril Aussenac / Marie-Christine Montanarini",
+                    "label":"FN",
+                    "nb_voix":127,
+                    "ratio_exprimes":37.57
+                }
+            ]
+        },
+        {  
+            "va_id":318,
+            "inscrits":924,
+            "votants":415,
+            "exprimes":394,
+            "resultats":[  
+                {  
+                    "tete":"Daniele Bois / Remi Quinton",
+                    "label":"FDG",
+                    "nb_voix":32,
+                    "ratio_exprimes":8.12
+                },
+                {  
+                    "tete":"Aurelien Beveraggi / Michele Muratore",
+                    "label":"PS",
+                    "nb_voix":54,
+                    "ratio_exprimes":13.71
+                },  
+                {  
+                    "tete":"Sophie Deschaintres / Eric Pauget",
+                    "label":"UMP",
+                    "nb_voix":161,
+                    "ratio_exprimes":40.86
+                },
+                {  
+                    "tete":"Cyril Aussenac / Marie-Christine Montanarini",
+                    "label":"FN",
+                    "nb_voix":147,
+                    "ratio_exprimes":37.31
+                }
+            ]
+        },
+        {  
+            "va_id":319,
+            "inscrits":772,
+            "votants":374,
+            "exprimes":363,
+            "resultats":[  
+                {  
+                    "tete":"Daniele Bois / Remi Quinton",
+                    "label":"FDG",
+                    "nb_voix":17,
+                    "ratio_exprimes":4.68
+                },
+                {  
+                    "tete":"Aurelien Beveraggi / Michele Muratore",
+                    "label":"PS",
+                    "nb_voix":57,
+                    "ratio_exprimes":15.70
+                },  
+                {  
+                    "tete":"Sophie Deschaintres / Eric Pauget",
+                    "label":"UMP",
+                    "nb_voix":165,
+                    "ratio_exprimes":45.45
+                },
+                {  
+                    "tete":"Cyril Aussenac / Marie-Christine Montanarini",
+                    "label":"FN",
+                    "nb_voix":124,
+                    "ratio_exprimes":34.16
+                }
+            ]
+        },
+        {  
+            "va_id":320,
+            "inscrits":792,
+            "votants":344,
+            "exprimes":335,
+            "resultats":[  
+                {  
+                    "tete":"Daniele Bois / Remi Quinton",
+                    "label":"FDG",
+                    "nb_voix":8,
+                    "ratio_exprimes":2.39
+                },
+                {  
+                    "tete":"Aurelien Beveraggi / Michele Muratore",
+                    "label":"PS",
+                    "nb_voix":53,
+                    "ratio_exprimes":15.82
+                },  
+                {  
+                    "tete":"Sophie Deschaintres / Eric Pauget",
+                    "label":"UMP",
+                    "nb_voix":154,
+                    "ratio_exprimes":45.97
+                },
+                {  
+                    "tete":"Cyril Aussenac / Marie-Christine Montanarini",
+                    "label":"FN",
+                    "nb_voix":120,
+                    "ratio_exprimes":35.82
+                }
+            ]
+        },
+        {  
+            "va_id":321,
+            "inscrits":657,
+            "votants":336,
+            "exprimes":319,
+            "resultats":[  
+                {  
+                    "tete":"Daniele Bois / Remi Quinton",
+                    "label":"FDG",
+                    "nb_voix":11,
+                    "ratio_exprimes":3.45
+                },
+                {  
+                    "tete":"Aurelien Beveraggi / Michele Muratore",
+                    "label":"PS",
+                    "nb_voix":57,
+                    "ratio_exprimes":17.87
+                },  
+                {  
+                    "tete":"Sophie Deschaintres / Eric Pauget",
+                    "label":"UMP",
+                    "nb_voix":133,
+                    "ratio_exprimes":41.69
+                },
+                {  
+                    "tete":"Cyril Aussenac / Marie-Christine Montanarini",
+                    "label":"FN",
+                    "nb_voix":118,
+                    "ratio_exprimes":36.99
+                }
+            ]
+        },
+        {  
+            "va_id":331,
+            "inscrits":970,
+            "votants":457,
+            "exprimes":441,
+            "resultats":[  
+                {  
+                    "tete":"Daniele Bois / Remi Quinton",
+                    "label":"FDG",
+                    "nb_voix":30,
+                    "ratio_exprimes":6.8
+                },
+                {  
+                    "tete":"Aurelien Beveraggi / Michele Muratore",
+                    "label":"PS",
+                    "nb_voix":80,
+                    "ratio_exprimes":18.14
+                },  
+                {  
+                    "tete":"Sophie Deschaintres / Eric Pauget",
+                    "label":"UMP",
+                    "nb_voix":221,
+                    "ratio_exprimes":50.11
+                },
+                {  
+                    "tete":"Cyril Aussenac / Marie-Christine Montanarini",
+                    "label":"FN",
+                    "nb_voix":110,
+                    "ratio_exprimes":24.94
+                }
+            ]
+        },
+        {  
+            "va_id":332,
+            "inscrits":803,
+            "votants":417,
+            "exprimes":410,
+            "resultats":[  
+                {  
+                    "tete":"Daniele Bois / Remi Quinton",
+                    "label":"FDG",
+                    "nb_voix":54,
+                    "ratio_exprimes":13.17
+                },
+                {  
+                    "tete":"Aurelien Beveraggi / Michele Muratore",
+                    "label":"PS",
+                    "nb_voix":102,
+                    "ratio_exprimes":24.88
+                },  
+                {  
+                    "tete":"Sophie Deschaintres / Eric Pauget",
+                    "label":"UMP",
+                    "nb_voix":189,
+                    "ratio_exprimes":46.10
+                },
+                {  
+                    "tete":"Cyril Aussenac / Marie-Christine Montanarini",
+                    "label":"FN",
+                    "nb_voix":65,
+                    "ratio_exprimes":15.85
+                }
+            ]
+        },
+        {  
+            "va_id":333,
+            "inscrits":915,
+            "votants":453,
+            "exprimes":436,
+            "resultats":[  
+                {  
+                    "tete":"Daniele Bois / Remi Quinton",
+                    "label":"FDG",
+                    "nb_voix":27,
+                    "ratio_exprimes":6.19
+                },
+                {  
+                    "tete":"Aurelien Beveraggi / Michele Muratore",
+                    "label":"PS",
+                    "nb_voix":70,
+                    "ratio_exprimes":16.06
+                },  
+                {  
+                    "tete":"Sophie Deschaintres / Eric Pauget",
+                    "label":"UMP",
+                    "nb_voix":189,
+                    "ratio_exprimes":43.45
+                },
+                {  
+                    "tete":"Cyril Aussenac / Marie-Christine Montanarini",
+                    "label":"FN",
+                    "nb_voix":150,
+                    "ratio_exprimes":34.40
+                }
+            ]
+        },
+        {  
+            "va_id":334,
+            "inscrits":792,
+            "votants":427,
+            "exprimes":415,
+            "resultats":[  
+                {  
+                    "tete":"Daniele Bois / Remi Quinton",
+                    "label":"FDG",
+                    "nb_voix":34,
+                    "ratio_exprimes":8.19
+                },
+                {  
+                    "tete":"Aurelien Beveraggi / Michele Muratore",
+                    "label":"PS",
+                    "nb_voix":53,
+                    "ratio_exprimes":12.77
+                },  
+                {  
+                    "tete":"Sophie Deschaintres / Eric Pauget",
+                    "label":"UMP",
+                    "nb_voix":211,
+                    "ratio_exprimes":50.84
+                },
+                {  
+                    "tete":"Cyril Aussenac / Marie-Christine Montanarini",
+                    "label":"FN",
+                    "nb_voix":117,
+                    "ratio_exprimes":28.19
+                }
+            ]
+        },
+        {  
+            "va_id":335,
+            "inscrits":731,
+            "votants":365,
+            "exprimes":354,
+            "resultats":[  
+                {  
+                    "tete":"Daniele Bois / Remi Quinton",
+                    "label":"FDG",
+                    "nb_voix":18,
+                    "ratio_exprimes":5.08
+                },
+                {  
+                    "tete":"Aurelien Beveraggi / Michele Muratore",
+                    "label":"PS",
+                    "nb_voix":66,
+                    "ratio_exprimes":18.64
+                },  
+                {  
+                    "tete":"Sophie Deschaintres / Eric Pauget",
+                    "label":"UMP",
+                    "nb_voix":186,
+                    "ratio_exprimes":52.54
+                },
+                {  
+                    "tete":"Cyril Aussenac / Marie-Christine Montanarini",
+                    "label":"FN",
+                    "nb_voix":84,
+                    "ratio_exprimes":23.73
+                }
+            ]
+        },
+        {  
+            "va_id":336,
+            "inscrits":977,
+            "votants":456,
+            "exprimes":448,
+            "resultats":[  
+                {  
+                    "tete":"Daniele Bois / Remi Quinton",
+                    "label":"FDG",
+                    "nb_voix":28,
+                    "ratio_exprimes":6.25
+                },
+                {  
+                    "tete":"Aurelien Beveraggi / Michele Muratore",
+                    "label":"PS",
+                    "nb_voix":97,
+                    "ratio_exprimes":21.65
+                },  
+                {  
+                    "tete":"Sophie Deschaintres / Eric Pauget",
+                    "label":"UMP",
+                    "nb_voix":190,
+                    "ratio_exprimes":42.41
+                },
+                {  
+                    "tete":"Cyril Aussenac / Marie-Christine Montanarini",
+                    "label":"FN",
+                    "nb_voix":133,
+                    "ratio_exprimes":29.69
+                }
+            ]
+        },
+        {  
+            "va_id":337,
+            "inscrits":676,
+            "votants":313,
+            "exprimes":306,
+            "resultats":[  
+                {  
+                    "tete":"Daniele Bois / Remi Quinton",
+                    "label":"FDG",
+                    "nb_voix":28,
+                    "ratio_exprimes":6.25
+                },
+                {  
+                    "tete":"Aurelien Beveraggi / Michele Muratore",
+                    "label":"PS",
+                    "nb_voix":97,
+                    "ratio_exprimes":21.65
+                },  
+                {  
+                    "tete":"Sophie Deschaintres / Eric Pauget",
+                    "label":"UMP",
+                    "nb_voix":190,
+                    "ratio_exprimes":42.41
+                },
+                {  
+                    "tete":"Cyril Aussenac / Marie-Christine Montanarini",
+                    "label":"FN",
+                    "nb_voix":133,
+                    "ratio_exprimes":29.69
+                }
+            ]
+        },
+        {  
+            "va_id":338,
+            "inscrits":732,
+            "votants":385,
+            "exprimes":372,
+            "resultats":[  
+                {  
+                    "tete":"Daniele Bois / Remi Quinton",
+                    "label":"FDG",
+                    "nb_voix":28,
+                    "ratio_exprimes":7.53
+                },
+                {  
+                    "tete":"Aurelien Beveraggi / Michele Muratore",
+                    "label":"PS",
+                    "nb_voix":74,
+                    "ratio_exprimes":19.89
+                },  
+                {  
+                    "tete":"Sophie Deschaintres / Eric Pauget",
+                    "label":"UMP",
+                    "nb_voix":183,
+                    "ratio_exprimes":49.19
+                },
+                {  
+                    "tete":"Cyril Aussenac / Marie-Christine Montanarini",
+                    "label":"FN",
+                    "nb_voix":87,
+                    "ratio_exprimes":23.39
+                }
+            ]
+        },
+        {  
+            "va_id":2501,
+            "inscrits":893,
+            "votants":391,
+            "exprimes":356,
+            "resultats":[  
+                {  
+                    "tete":"Samuel Baechel / Jocelyne Sablé-Fourtassou",
+                    "label":"FDG",
+                    "nb_voix":21,
+                    "ratio_exprimes":5.90
+                },
+                {  
+                    "tete":"Elisabeth Deborde / Gautier Derontbourdin",
+                    "label":"PS",
+                    "nb_voix":80,
+                    "ratio_exprimes":22.47
+                },  
+                {  
+                    "tete":"Christian Dal Moro / Martine Lipuma",
+                    "label":"DVD",
+                    "nb_voix":13,
+                    "ratio_exprimes":3.65
+                },
+                {  
+                    "tete":"Anne-Marie Dumont / Gerald Lombardo",
+                    "label":"UMP",
+                    "nb_voix":128,
+                    "ratio_exprimes":35.96
+                },
+                {  
+                    "tete":"Dorothee Poirier / William Verges",
+                    "label":"FN",
+                    "nb_voix":114,
+                    "ratio_exprimes":32.02
+                }
+            ]
+        },
+        {  
+            "va_id":2502,
+            "inscrits":905,
+            "votants":462,
+            "exprimes":441,
+            "resultats":[  
+                {  
+                    "tete":"Samuel Baechel / Jocelyne Sablé-Fourtassou",
+                    "label":"FDG",
+                    "nb_voix":41,
+                    "ratio_exprimes":9.30
+                },
+                {  
+                    "tete":"Elisabeth Deborde / Gautier Derontbourdin",
+                    "label":"PS",
+                    "nb_voix":73,
+                    "ratio_exprimes":16.55
+                },  
+                {  
+                    "tete":"Christian Dal Moro / Martine Lipuma",
+                    "label":"DVD",
+                    "nb_voix":16,
+                    "ratio_exprimes":3.63
+                },
+                {  
+                    "tete":"Anne-Marie Dumont / Gerald Lombardo",
+                    "label":"UMP",
+                    "nb_voix":175,
+                    "ratio_exprimes":39.68
+                },
+                {  
+                    "tete":"Dorothee Poirier / William Verges",
+                    "label":"FN",
+                    "nb_voix":136,
+                    "ratio_exprimes":30.84
+                }
+            ]
+        },
+        {  
+            "va_id":2503,
+            "inscrits":837,
+            "votants":385,
+            "exprimes":360,
+            "resultats":[  
+                {  
+                    "tete":"Samuel Baechel / Jocelyne Sablé-Fourtassou",
+                    "label":"FDG",
+                    "nb_voix":23,
+                    "ratio_exprimes":6.39
+                },
+                {  
+                    "tete":"Elisabeth Deborde / Gautier Derontbourdin",
+                    "label":"PS",
+                    "nb_voix":50,
+                    "ratio_exprimes":13.89
+                },  
+                {  
+                    "tete":"Christian Dal Moro / Martine Lipuma",
+                    "label":"DVD",
+                    "nb_voix":11,
+                    "ratio_exprimes":3.06
+                },
+                {  
+                    "tete":"Anne-Marie Dumont / Gerald Lombardo",
+                    "label":"UMP",
+                    "nb_voix":147,
+                    "ratio_exprimes":40.83
+                },
+                {  
+                    "tete":"Dorothee Poirier / William Verges",
+                    "label":"FN",
+                    "nb_voix":129,
+                    "ratio_exprimes":35.83
+                }
+            ]
+        },
+        {  
+            "va_id":2504,
+            "inscrits":718,
+            "votants":367,
+            "exprimes":354,
+            "resultats":[  
+                {  
+                    "tete":"Samuel Baechel / Jocelyne Sablé-Fourtassou",
+                    "label":"FDG",
+                    "nb_voix":24,
+                    "ratio_exprimes":6.78
+                },
+                {  
+                    "tete":"Elisabeth Deborde / Gautier Derontbourdin",
+                    "label":"PS",
+                    "nb_voix":49,
+                    "ratio_exprimes":13.84
+                },  
+                {  
+                    "tete":"Christian Dal Moro / Martine Lipuma",
+                    "label":"DVD",
+                    "nb_voix":10,
+                    "ratio_exprimes":2.82
+                },
+                {  
+                    "tete":"Anne-Marie Dumont / Gerald Lombardo",
+                    "label":"UMP",
+                    "nb_voix":172,
+                    "ratio_exprimes":48.59
+                },
+                {  
+                    "tete":"Dorothee Poirier / William Verges",
+                    "label":"FN",
+                    "nb_voix":99,
+                    "ratio_exprimes":27.97
+                }
+            ]
+        },
+        {  
+            "va_id":2505,
+            "inscrits":527,
+            "votants":238,
+            "exprimes":231,
+            "resultats":[  
+                {  
+                    "tete":"Samuel Baechel / Jocelyne Sablé-Fourtassou",
+                    "label":"FDG",
+                    "nb_voix":9,
+                    "ratio_exprimes":3.90
+                },
+                {  
+                    "tete":"Elisabeth Deborde / Gautier Derontbourdin",
+                    "label":"PS",
+                    "nb_voix":27,
+                    "ratio_exprimes":11.69
+                },  
+                {  
+                    "tete":"Christian Dal Moro / Martine Lipuma",
+                    "label":"DVD",
+                    "nb_voix":10,
+                    "ratio_exprimes":4.33
+                },
+                {  
+                    "tete":"Anne-Marie Dumont / Gerald Lombardo",
+                    "label":"UMP",
+                    "nb_voix":96,
+                    "ratio_exprimes":41.56
+                },
+                {  
+                    "tete":"Dorothee Poirier / William Verges",
+                    "label":"FN",
+                    "nb_voix":71,
+                    "ratio_exprimes":27.20
+                }
+            ]
+        },
+        {  
+            "va_id":2506,
+            "inscrits":527,
+            "votants":267,
+            "exprimes":261,
+            "resultats":[  
+                {  
+                    "tete":"Samuel Baechel / Jocelyne Sablé-Fourtassou",
+                    "label":"FDG",
+                    "nb_voix":21,
+                    "ratio_exprimes":8.05
+                },
+                {  
+                    "tete":"Elisabeth Deborde / Gautier Derontbourdin",
+                    "label":"PS",
+                    "nb_voix":44,
+                    "ratio_exprimes":16.86
+                },  
+                {  
+                    "tete":"Christian Dal Moro / Martine Lipuma",
+                    "label":"DVD",
+                    "nb_voix":7,
+                    "ratio_exprimes":2.68
+                },
+                {  
+                    "tete":"Anne-Marie Dumont / Gerald Lombardo",
+                    "label":"UMP",
+                    "nb_voix":118,
+                    "ratio_exprimes":45.21
+                },
+                {  
+                    "tete":"Dorothee Poirier / William Verges",
+                    "label":"FN",
+                    "nb_voix":71,
+                    "ratio_exprimes":27.20
+                }
+            ]
+        },
+        {  
+            "va_id":2511,
+            "inscrits":678,
+            "votants":287,
+            "exprimes":271,
+            "resultats":[  
+                {  
+                    "tete":"Samuel Baechel / Jocelyne Sablé-Fourtassou",
+                    "label":"FDG",
+                    "nb_voix":11,
+                    "ratio_exprimes":4.06
+                },
+                {  
+                    "tete":"Elisabeth Deborde / Gautier Derontbourdin",
+                    "label":"PS",
+                    "nb_voix":89,
+                    "ratio_exprimes":32.84
+                },  
+                {  
+                    "tete":"Christian Dal Moro / Martine Lipuma",
+                    "label":"DVD",
+                    "nb_voix":28,
+                    "ratio_exprimes":10.33
+                },
+                {  
+                    "tete":"Anne-Marie Dumont / Gerald Lombardo",
+                    "label":"UMP",
+                    "nb_voix":78,
+                    "ratio_exprimes":28.78
+                },
+                {  
+                    "tete":"Dorothee Poirier / William Verges",
+                    "label":"FN",
+                    "nb_voix":65,
+                    "ratio_exprimes":23.79
+                }
+            ]
+        },
+        {  
+            "va_id":2512,
+            "inscrits":847,
+            "votants":376,
+            "exprimes":348,
+            "resultats":[  
+                {  
+                    "tete":"Samuel Baechel / Jocelyne Sablé-Fourtassou",
+                    "label":"FDG",
+                    "nb_voix":13,
+                    "ratio_exprimes":3.74
+                },
+                {  
+                    "tete":"Elisabeth Deborde / Gautier Derontbourdin",
+                    "label":"PS",
+                    "nb_voix":179,
+                    "ratio_exprimes":51.44
+                },  
+                {  
+                    "tete":"Christian Dal Moro / Martine Lipuma",
+                    "label":"DVD",
+                    "nb_voix":22,
+                    "ratio_exprimes":6.32
+                },
+                {  
+                    "tete":"Anne-Marie Dumont / Gerald Lombardo",
+                    "label":"UMP",
+                    "nb_voix":62,
+                    "ratio_exprimes":17.82
+                },
+                {  
+                    "tete":"Dorothee Poirier / William Verges",
+                    "label":"FN",
+                    "nb_voix":72,
+                    "ratio_exprimes":20.69
+                }
+            ]
+        },
+        {  
+            "va_id":2513,
+            "inscrits":855,
+            "votants":390,
+            "exprimes":362,
+            "resultats":[  
+                {  
+                    "tete":"Samuel Baechel / Jocelyne Sablé-Fourtassou",
+                    "label":"FDG",
+                    "nb_voix":25,
+                    "ratio_exprimes":6.91
+                },
+                {  
+                    "tete":"Elisabeth Deborde / Gautier Derontbourdin",
+                    "label":"PS",
+                    "nb_voix":103,
+                    "ratio_exprimes":28.45
+                },  
+                {  
+                    "tete":"Christian Dal Moro / Martine Lipuma",
+                    "label":"DVD",
+                    "nb_voix":25,
+                    "ratio_exprimes":6.91
+                },
+                {  
+                    "tete":"Anne-Marie Dumont / Gerald Lombardo",
+                    "label":"UMP",
+                    "nb_voix":122,
+                    "ratio_exprimes":33.70
+                },
+                {  
+                    "tete":"Dorothee Poirier / William Verges",
+                    "label":"FN",
+                    "nb_voix":87,
+                    "ratio_exprimes":24.03
+                }
+            ]
+        },
+        {  
+            "va_id":2514,
+            "inscrits":959,
+            "votants":329,
+            "exprimes":308,
+            "resultats":[  
+                {  
+                    "tete":"Samuel Baechel / Jocelyne Sablé-Fourtassou",
+                    "label":"FDG",
+                    "nb_voix":33,
+                    "ratio_exprimes":10.71
+                },
+                {  
+                    "tete":"Elisabeth Deborde / Gautier Derontbourdin",
+                    "label":"PS",
+                    "nb_voix":143,
+                    "ratio_exprimes":46.43
+                },  
+                {  
+                    "tete":"Christian Dal Moro / Martine Lipuma",
+                    "label":"DVD",
+                    "nb_voix":11,
+                    "ratio_exprimes":3.57
+                },
+                {  
+                    "tete":"Anne-Marie Dumont / Gerald Lombardo",
+                    "label":"UMP",
+                    "nb_voix":36,
+                    "ratio_exprimes":11.69
+                },
+                {  
+                    "tete":"Dorothee Poirier / William Verges",
+                    "label":"FN",
+                    "nb_voix":85,
+                    "ratio_exprimes":27.60
+                }
+            ]
+        },
+        {  
+            "va_id":2515,
+            "inscrits":1121,
+            "votants":509,
+            "exprimes":485,
+            "resultats":[  
+                {  
+                    "tete":"Samuel Baechel / Jocelyne Sablé-Fourtassou",
+                    "label":"FDG",
+                    "nb_voix":28,
+                    "ratio_exprimes":5.77
+                },
+                {  
+                    "tete":"Elisabeth Deborde / Gautier Derontbourdin",
+                    "label":"PS",
+                    "nb_voix":141,
+                    "ratio_exprimes":29.07
+                },  
+                {  
+                    "tete":"Christian Dal Moro / Martine Lipuma",
+                    "label":"DVD",
+                    "nb_voix":32,
+                    "ratio_exprimes":6.60
+                },
+                {  
+                    "tete":"Anne-Marie Dumont / Gerald Lombardo",
+                    "label":"UMP",
+                    "nb_voix":140,
+                    "ratio_exprimes":28.87
+                },
+                {  
+                    "tete":"Dorothee Poirier / William Verges",
+                    "label":"FN",
+                    "nb_voix":144,
+                    "ratio_exprimes":29.69
+                }
+            ]
+        },
+        {  
+            "va_id":2516,
+            "inscrits":950,
+            "votants":491,
+            "exprimes":493,
+            "resultats":[  
+                {  
+                    "tete":"Samuel Baechel / Jocelyne Sablé-Fourtassou",
+                    "label":"FDG",
+                    "nb_voix":13,
+                    "ratio_exprimes":2.81
+                },
+                {  
+                    "tete":"Elisabeth Deborde / Gautier Derontbourdin",
+                    "label":"PS",
+                    "nb_voix":138,
+                    "ratio_exprimes":23.81
+                },  
+                {  
+                    "tete":"Christian Dal Moro / Martine Lipuma",
+                    "label":"DVD",
+                    "nb_voix":49,
+                    "ratio_exprimes":10.58
+                },
+                {  
+                    "tete":"Anne-Marie Dumont / Gerald Lombardo",
+                    "label":"UMP",
+                    "nb_voix":158,
+                    "ratio_exprimes":34.13
+                },
+                {  
+                    "tete":"Dorothee Poirier / William Verges",
+                    "label":"FN",
+                    "nb_voix":105,
+                    "ratio_exprimes":22.68
+                }
+            ]
+        },
+        {  
+            "va_id":2517,
+            "inscrits":967,
+            "votants":442,
+            "exprimes":415,
+            "resultats":[  
+                {  
+                    "tete":"Samuel Baechel / Jocelyne Sablé-Fourtassou",
+                    "label":"FDG",
+                    "nb_voix":18,
+                    "ratio_exprimes":4.34
+                },
+                {  
+                    "tete":"Elisabeth Deborde / Gautier Derontbourdin",
+                    "label":"PS",
+                    "nb_voix":158,
+                    "ratio_exprimes":28.07
+                },  
+                {  
+                    "tete":"Christian Dal Moro / Martine Lipuma",
+                    "label":"DVD",
+                    "nb_voix":32,
+                    "ratio_exprimes":7.71
+                },
+                {  
+                    "tete":"Anne-Marie Dumont / Gerald Lombardo",
+                    "label":"UMP",
+                    "nb_voix":79,
+                    "ratio_exprimes":19.04
+                },
+                {  
+                    "tete":"Dorothee Poirier / William Verges",
+                    "label":"FN",
+                    "nb_voix":128,
+                    "ratio_exprimes":30.84
+                }
+            ]
+        },
+        {  
+            "va_id":2518,
+            "inscrits":1012,
+            "votants":403,
+            "exprimes":386,
+            "resultats":[  
+                {  
+                    "tete":"Samuel Baechel / Jocelyne Sablé-Fourtassou",
+                    "label":"FDG",
+                    "nb_voix":33,
+                    "ratio_exprimes":8.55
+                },
+                {  
+                    "tete":"Elisabeth Deborde / Gautier Derontbourdin",
+                    "label":"PS",
+                    "nb_voix":167,
+                    "ratio_exprimes":43.26
+                },  
+                {  
+                    "tete":"Christian Dal Moro / Martine Lipuma",
+                    "label":"DVD",
+                    "nb_voix":23,
+                    "ratio_exprimes":5.96
+                },
+                {  
+                    "tete":"Anne-Marie Dumont / Gerald Lombardo",
+                    "label":"UMP",
+                    "nb_voix":61,
+                    "ratio_exprimes":15.80
+                },
+                {  
+                    "tete":"Dorothee Poirier / William Verges",
+                    "label":"FN",
+                    "nb_voix":102,
+                    "ratio_exprimes":26.42
+                }
+            ]
+        },
+        {  
+            "va_id":2519,
+            "inscrits":1067,
+            "votants":558,
+            "exprimes":528,
+            "resultats":[  
+                {  
+                    "tete":"Samuel Baechel / Jocelyne Sablé-Fourtassou",
+                    "label":"FDG",
+                    "nb_voix":27,
+                    "ratio_exprimes":5.11
+                },
+                {  
+                    "tete":"Elisabeth Deborde / Gautier Derontbourdin",
+                    "label":"PS",
+                    "nb_voix":126,
+                    "ratio_exprimes":23.86
+                },  
+                {  
+                    "tete":"Christian Dal Moro / Martine Lipuma",
+                    "label":"DVD",
+                    "nb_voix":46,
+                    "ratio_exprimes":8.71
+                },
+                {  
+                    "tete":"Anne-Marie Dumont / Gerald Lombardo",
+                    "label":"UMP",
+                    "nb_voix":175,
+                    "ratio_exprimes":33.14
+                },
+                {  
+                    "tete":"Dorothee Poirier / William Verges",
+                    "label":"FN",
+                    "nb_voix":154,
+                    "ratio_exprimes":29.17
+                }
+            ]
+        }
+    ]
+}
