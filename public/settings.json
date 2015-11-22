@@ -1,0 +1,16 @@
+{
+    "elections": ["departementales_2015_resultats.json" ],
+    "defaultElection": "departementales_2015_resultats.json",
+    "defaultLabel": "FDG",
+    "defaultMaxScore": 15,
+    "map": "bureaux_antibes_2015.json",
+    "zoom": 13,
+    "opacity": 0.4,
+    "emptyColor": "black",
+    "center": {"lat": 43.587892, "lng": 7.104552},
+    "labelOrder": ["NPA", "FO", "FDG", "EELV", "PS", "MODEM", "DVD", "UMP", "DLR", "FN"],
+    "labelColor": {"NPA": "#FF4D4D", "FO": "#FF4D4D", "FDG": "red", "EELV":"green", "PS":"MediumVioletRed", 
+        "MODEM":"orange", "DVD":"RoyalBlue", "UMP":"MediumBlue", "DLR":"Navy", "FN":"Maroon"},
+    "abstentionColor":"black",
+    "markAbstentionThreshold":55
+}
