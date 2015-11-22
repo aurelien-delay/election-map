@@ -31,6 +31,8 @@
         self.displayTooltip = false;
         self.tooltipFixed = null;
         self.getAreaAbstentionRatio = getAreaAbstentionRatio;
+        self.switchDisplayMarkerCriteria = switchDisplayMarkerCriteria;
+        self.displayMarkerCriteria = false;
 
         settingsPromise.then(readAllElections);
 
@@ -138,7 +140,8 @@
             }
         }
         
-        function fixTooltip(event) {
+        function fixTooltip(event) 
+        {
             // console.log(event.feature);
             var newName = event.feature.getProperty("Name");
             var oldName;
@@ -177,6 +180,11 @@
         function getAreaAbstentionRatio(area)
         {
             return Utils.getAreaAbstentionRatio(area);
+        }
+        
+        function switchDisplayMarkerCriteria()
+        {
+            self.displayMarkerCriteria = ( ! self.displayMarkerCriteria );
         }
     }
 })();
