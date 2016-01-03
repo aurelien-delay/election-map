@@ -1,0 +1,14 @@
+{
+    "globals": 
+    { 
+        // Globals variables.
+        "jasmine": true,
+        "angular": true,
+        "browser": true,
+        "element": true,
+        "by":true,
+        "io":true,
+        "_":false,
+        "$":false
+    }
+}

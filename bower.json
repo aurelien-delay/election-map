@@ -1,0 +1,15 @@
+{
+  "name": "zzz",
+  "version": "0.0.1",
+  "dependencies": {},
+  "analytics": false,
+  "devDependencies": {
+    "angular": "~1.4.7",
+    "angular-route": "~1.4.7",
+    "angular-sanitize": "~1.4.7",
+    "angular-mocks": "~1.4.7",
+    "jquery": "~2.1.4",
+    "underscore": "~1.8.3",
+    "restangular": "~1.5.1"
+  }
+}

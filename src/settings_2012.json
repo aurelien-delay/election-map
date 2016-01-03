@@ -1,0 +1,15 @@
+{
+    "elections": [ "presidentielles_2012_Alpes_maritimes.json", "copy_pres_2012_Alpes_maritimes.json" ],
+    "defaultElection": "presidentielles_2012_Alpes_maritimes.json",
+    "defaultLabel": "FDG",
+    "defaultMaxScore": 15,
+    "map": "Communes_Alpes-Maritimes_06_light.json",
+    "zoom": 11,
+    "opacity": 0.4,
+    "emptyColor": "black",
+    "center": {"lat": 43.587892, "lng": 7.104552},
+    "labelOrder": ["NPA", "FO", "FDG", "EELV", "PS", "MODEM", "UMP", "DLR", "FN"],
+    "labelColor": {"NPA": "#FF4D4D", "FO": "#FF4D4D", "FDG": "red", "EELV":"green", "PS":"MediumVioletRed", 
+        "MODEM":"orange", "UMP":"MediumBlue", "DLR":"Navy", "FN":"Maroon"},
+    "abstentionColor":"black"
+}
